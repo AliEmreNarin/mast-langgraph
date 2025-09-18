@@ -1,0 +1,98 @@
+================================================================================
+Attempt: 1
+Query: When was the band that performed The Rock The Nation World Tour founded?
+Full Tavily Payload:
+{
+  "query": "When was the band that performed The Rock The Nation World Tour founded?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.facebook.com/rockexperiencewithmike/posts/june-10-2004on-this-day-21-years-ago-kiss-began-their-first-us-tour-with-the-tom/1042050451452611/",
+      "title": "June 10, 2004 On this day 21 years ago KISS began their first US ...",
+      "content": "June 10, 2004 On this day 21 years ago KISS began their first US tour with the Tommy Thayer / Eric Singer lineup called the “Rock The Nation”",
+      "score": 0.7557276,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kiss_(band)",
+      "title": "Kiss (band) - Wikipedia",
+      "content": "In mid-2004, Kiss headlined the Rock the Nation 2004 World Tour, with Poison as the opening act.",
+      "score": 0.6429039,
+      "raw_content": null
+    },
+    {
+      "url": "https://ultimateclassicrock.com/kiss-rock-the-nation/",
+      "title": "15 Years Ago: Kiss' New Lineup Digs Deep on 'Rock the Nation'",
+      "content": "The band's classic lineup coalesced in 1973, following the dissolution of Gene Simmons and Paul Stanley's previous group, Wicked Lester. Seeking",
+      "score": 0.60358196,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.reddit.com/r/KISS/comments/18d8qdd/rock_the_nation/",
+      "title": "Rock the Nation : r/KISS - Reddit",
+      "content": "I've been watching all the Kiss concerts I've collected, DVDs and videos from YouTube, and I'm up to Rock the Nation from the 2004 tour.",
+      "score": 0.3492669,
+      "raw_content": null
+    },
+    {
+      "url": "https://2loud2oldmusic.com/2022/12/19/kiss-rock-the-nation-2004-world-tour-instant-live-verizon-wireless-amphitheatre-charlotte-nc-7-28-04-2004-album-the-kiss-review-series/",
+      "title": "Kiss – Rock the Nation 2004 World Tour: Instant Live (Verizon ...",
+      "content": "Back on the Rock the Nation Tour in 2004, Kiss offered the Instant Live CDs. Basically, after the show was over, they burned the show to 2 CDs and sold them.",
+      "score": 0.31431407,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.54,
+  "request_id": "9ed26920-6678-42da-8228-111da26f477e"
+}
+================================================================================
+Attempt: 2
+Query: When was the band KISS founded?
+Full Tavily Payload:
+{
+  "query": "When was the band KISS founded?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.facebook.com/groups/2890946897807053/posts/4196015730633490/",
+      "title": "THE ORIGINAL FOUNDATION OF THE BAND KISS",
+      "content": "Kiss is an American rock band formed in New York City in January 1973 by Paul Stanley, Gene Simmons, Peter Criss, and Ace Frehley.",
+      "score": 0.93295,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.ebsco.com/research-starters/music/kiss-music",
+      "title": "KISS (music) | Research Starters",
+      "content": "KISS is a rock-and-roll band formed in 1972 by rhythm guitarist Paul Stanley and bass guitarist Gene Simmons, later joined by drummer Peter Criss and lead guitarist Ace Frehley. *KISS was one of the most influential rock-and-roll bands of the 1970’s, as the group’s music and performance style had a significant impact on the development of popular music in the United States.* In 1972, rhythm guitarist Paul Stanley and bass guitarist Gene Simmons recruited drummer Peter Criss and lead guitarist Ace Frehley to form the rock-and-roll band KISS. In 1976 and 1977, KISS produced three more albums, *Rock and Roll Over*, *Love Gun*, and *Alive II*, all of which turned platinum and catapulted the group to major recording-artist status in the music industry.",
+      "score": 0.9126935,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.imdb.com/name/nm1653348/bio/",
+      "title": "KISS - Biography",
+      "content": "KISS is an American rock band formed in New York City in January 1973 by Paul Stanley, Gene Simmons, Peter Criss, and Ace Frehley.",
+      "score": 0.90593183,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kiss_(band)",
+      "title": "Kiss (band)",
+      "content": "Kiss was an American rock band formed in New York City in 1973 by Paul Stanley (vocals, rhythm guitar), Gene Simmons (vocals, bass guitar),",
+      "score": 0.89567816,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.last.fm/music/Kiss/+wiki",
+      "title": "Kiss hometown, lineup, biography",
+      "content": "**Kiss** (often stylized as KIϟϟ) was an American rock band formed in New York City in January 1973 by Paul Stanley, Gene Simmons, Ace Frehley, and Peter Criss. With their make-up and costumes, the band members took on the personae of comic book-style characters: the Starchild (Stanley), the Demon (Simmons), the Spaceman or Space Ace (Frehley), and the Catman (Criss). If you are in California or Colorado and have enabled the Global Privacy Control signal, we will treat this as a request to opt-out of “sales,” “sharing” and “targeted advertising” for device information.",
+      "score": 0.8914433,
+      "raw_content": null
+    }
+  ],
+  "response_time": 2.16,
+  "request_id": "a8a8d763-af76-4b1a-b016-db728f02a5cc"
+}

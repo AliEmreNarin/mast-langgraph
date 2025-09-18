@@ -1,0 +1,49 @@
+================================================================================
+Attempt: 1
+Query: From which city is the band that released the single Artificial Light ?
+Full Tavily Payload:
+{
+  "query": "From which city is the band that released the single Artificial Light ?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://beerscout.wordpress.com/2014/01/24/intermission-song-review-typhoons-artificial-light/",
+      "title": "Intermission: Song review, Typhoon's 'Artificial Light' | Beer Scout",
+      "content": "It is by the Portland band Typhoon, and it's their first song on their recent release, called Artificial Light. Portland does beer well, we all",
+      "score": 0.8282873,
+      "raw_content": null
+    },
+    {
+      "url": "https://earmilk.com/2024/09/21/alphabets-debut-single-artificial-light-shines-brightly/",
+      "title": "ALPHABET's debut single “Artificial Light” shines brightly - EARMILK",
+      "content": "While that's probably akin to a decade to any eager new band seeking to be let off the leash this London-based, Brighton-formed quartet of",
+      "score": 0.7730283,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Artificial_Light_(song)",
+      "title": "Artificial Light (song) - Wikipedia",
+      "content": "\"Artificial Light\" is the lead single by American Christian metal band Demon Hunter from their seventh studio album, Extremist.",
+      "score": 0.7498395,
+      "raw_content": null
+    },
+    {
+      "url": "https://hashbrandnew.com/Artists/alphabet/Albums/Artificial+Light",
+      "title": "ALPHABET - Artificial Light | Single | Indie, Rock - hashbrandnew",
+      "content": "city: London country: UK genre: Indie, Rock styles: Shoegaze, Indie Rock, Alternative. Follow alphabet on. Spotify @alphabet_alphabetalphabet.",
+      "score": 0.7265231,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MG7mlPKhVmQ",
+      "title": "WGBH Music: Typhoon - Artificial Light (Live) - YouTube",
+      "content": "Typhoon's first ever show in Boston and one in which the band and audience won't soon forget. According to the band, the Boston show was one",
+      "score": 0.6944897,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.2,
+  "request_id": "3d7c4065-04a8-4160-8802-f603f7a243b6"
+}

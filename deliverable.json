@@ -1,0 +1,24 @@
+{
+    "task": "",
+    "trace": "",
+    "num_agents": "",
+    "identified_failure_modes": {
+        "failure_mode_1": {
+            "name": "",
+            "definition": "",
+            "example_from_the_trace": ""
+        },
+        "failure_mode_2": {
+            "name": "", 
+            "definition": "",
+            "example_from_the_trace": ""
+        },
+        "failure_mode_n": {
+            "name": "",
+            "definition": "",
+            "example_from_the_trace": ""
+        }
+    },
+    "summary": ""
+}
+    

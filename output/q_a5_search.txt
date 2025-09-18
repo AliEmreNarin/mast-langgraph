@@ -1,0 +1,98 @@
+================================================================================
+Attempt: 1
+Query: Both the Jack and Coke and Orange Tundra can can be poured into what kind of glass?
+Full Tavily Payload:
+{
+  "query": "Both the Jack and Coke and Orange Tundra can can be poured into what kind of glass?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://feastandwest.com/jack-and-coke/",
+      "title": "Jack & Coke",
+      "content": "Apr 5, 2023—You can serve a Jack & Coke in justabout any kind of glass. A lowball glass (or rocks glass*) is most common, but you can also serve it in a",
+      "score": 0.81665546,
+      "raw_content": null
+    },
+    {
+      "url": "https://brainly.com/question/44814668",
+      "title": "What type of glass would a double tall Jack and Coke ... - Brainly",
+      "content": "Dec 20, 2023—The type of glass a double tall Jack and Coke would go in is aHighball glass(option B). Highball glasses are designed to hold beverages that",
+      "score": 0.6826801,
+      "raw_content": null
+    },
+    {
+      "url": "http://www.crushedcocktails.com/oranjack-and-coke/",
+      "title": "oranjack and coke - Crushed Cocktails",
+      "content": "Aug 22, 2013—Put whiskey and orange zest into a cocktail shaker with ice and shake well. Pour through a fine mesh strainer into aglasswith ice, and add",
+      "score": 0.3620896,
+      "raw_content": null
+    },
+    {
+      "url": "https://tenor.com/search/jack-and-coke-gifs",
+      "title": "Jack And Coke GIFs",
+      "content": "a man ispouringa drink from a bottleintoa cup . #Jack-Daniels · #whiskey · a bottle ofjackdaniel 's whiskey is beingpoured intoaglass. #jack· #daniels",
+      "score": 0.3258213,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.reddit.com/r/alcohol/comments/nina8j/could_i_pre_mix_my_jack_and_coke/",
+      "title": "Could I pre mix my Jack and Coke : r/alcohol",
+      "content": "Generally highball drink are about a 1:3 ratio of liquor to mixer, so you should pour out around half a liter ofcokeand replace that withJack.",
+      "score": 0.22260757,
+      "raw_content": null
+    }
+  ],
+  "response_time": 0.82,
+  "request_id": "9380afdf-a99d-478d-ad8c-cd5c5e1af6b5"
+}
+================================================================================
+Attempt: 2
+Query: Orange Tundra cocktail recipe glass type serving
+Full Tavily Payload:
+{
+  "query": "Orange Tundra cocktail recipe glass type serving",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.stepbystep.com/how-to-make-a-orange-tundra-cocktail-9351/",
+      "title": "How to Make a Orange Tundra Cocktail - StepByStep",
+      "content": "# How to Make a Orange Tundra Cocktail Orange Tundra Cocktail is a classic long drink prepared with Vodka, Orange Juice, Cream Soda and coffee liqueur (Kahlua). The Orange Tundra Cocktail is traditionally served over ice cubes in an old fashioned cocktail glass. This simple and original recipe of Orange Tundra Cocktail makes one drink but increase their amount if you want to make more drinks. Make sure to assemble all the ingredients properly in order to make the cocktail smoothly. Top the ice cubes with 25ml of Vodka, 25ml of coffee liqueur (Kahlua), 25ml of Cream Soda, and 25ml of Orange juice. Garnish your Orange Tundra Cocktail with a fresh cherry or an orange wheel, if you want. * Save.%20It%20will%20take%20you%20hardly%20five%20minutes%20as%20you%20just%20have%20to%20mix%20these%20ingredients%20in%20equal%20quantity.The%20history%20of%20this%20tempting%20cocktail%20shows%20that%20it%20was%20invented%20by%20Jalson%20Kane%20while%20attending%20Bowling%20Green%20State%20University%20in%20the%20year%202003.%20It%20gained%20popularity%20thereafter.The%20Orange%20Tundra%20Cocktail%20is%20traditionally%20served%20over%20ice%20cubes%20in%20an%20old%20fashioned%20cocktail%20glass.%20Therefore%2C%20the%20name%20of%20this%20amazing%20mixed%20cocktail%20is%20mostly%20recognized%20for%20its%20freezing%20temperature%20and%20outer%20shell%20of%20orange.%20The%20amazing%20yellowish%20color%20of%20the%20cocktail%20goes%20brilliant%20with%20a%20cherry%20or%20orange%20garnishing.This%20simple%20and%20original%20recipe%20of%20Orange%20Tundra%20Cocktail%20makes%20one%20drink%20but%20increase%20their%20amount%20if%20you%20want%20to%20make%20more%20drinks.%20Make%20sure%20to%20assemble%20all%20the%20ingredients%20properly%20in%20order%20to%20make%20the%20cocktail%20smoothly.Preparation%20Time%3A%205%20minutesServing%20Size%3A%2001Utensils%3A%20Highball%20Cocktail%20Glass%2C%20strawIngredients%3A-%2025ml%20Vodka-%2025ml%20Orange%20juice-%2025ml%20Cream%20Soda-%2025ml%20Kahlua%20(coffee%20liqueur)-%20Ice%20Cubes-%20Cherry%20or%20Lemon%20%2F%20Orange%20WheelNext%20stop%3A%20Pinterest)",
+      "score": 0.9237645,
+      "raw_content": null
+    },
+    {
+      "url": "https://hungryforever.net/recipe/orange-tundra-vodka-coffee-liqueur-orange-juice/",
+      "title": "Orange Tundra: Vodka, Coffee Liqueur, & Orange Juice",
+      "content": "### Recipes # Orange Tundra: Vodka, Coffee Liqueur, & Orange Juice Orange Tundra: Vodka, Coffee Liqueur, & Orange Juice Rate this recipe! * 25 ml vodka | |  |  | | --- | --- | | Course | Drinks |  |  |  | | --- | --- | | Prep Time | 5 minutes |  |  |  | | --- | --- | | Servings | MetricUS Imperial |  Ingredients  * 25 ml vodka * 25 ml coffee liqueur * 25 ml orange juice * 25 ml cream soda | Votes: 2  Rating: 3.5  You:  Rate this recipe! 1. Add the ingredients to a highball glass in the following order: vodka, cream soda, coffee liqueur, and finally orange juice.",
+      "score": 0.850382,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.tasteatlas.com/orange-tundra",
+      "title": "Orange Tundra | Local Cocktail From United States of America",
+      "content": "Log in with Facebook Log in with Google Log in Cocktail # Orange Tundra *Orange Tundra* is an American cocktail made with a combination of vodka, Kahlua, orange juice, and cream soda (a carbonated soft drink typically flavored with vanilla). To prepare it, an old-fashioned glass should first be filled with a few ice cubes, which are then topped with equal parts vodka, coffee liqueur, cream soda, and finally – orange juice. The cocktail is served unstirred, and it can be garnished with a cherry or an orange wheel. * Vodka Cherries ## Similar Cocktails Cocktail Cocktail ## Vodka Sunrise Cocktail Cocktail Cocktail Cocktail Cocktail ## Colorado Sunrise Cocktail Cocktail Cocktail Cocktail Cocktail ## Champagne Cocktail Cocktail ## Vodka Martini",
+      "score": 0.8235701,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia-on-ipfs.org/wiki/Orange_Tundra",
+      "title": "Orange Tundra - Uncensorable Wikipedia on IPFS",
+      "content": "The ingredients are added to the highball glass in the following order: vodka, cream soda, coffee liqueur and finally, orange juice. Although ice can be added,",
+      "score": 0.7458619,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.milehighmitts.com/orange-thunder/",
+      "title": "Orange Thunder (easy, only 5 ingredients) - Mile High Mitts",
+      "content": "FILLED with orange flavor, quick, and easy, this Orange Thunder recipe is a great alcoholic drink to serve at your next football game party! So if you’re looking for a super festive and fun alcoholic Orange-colored drink, this is the drink for you! This is a great Halloween colored drink as well, perfect for a hot Summer day, or any orange color-themed party. **The basics to this drink are oranges, orange vodka, triple sec and orange soda.** Top each drink with an orange slice if you want them to look fancy! 2. To each glass add 2 shots of clementine vodka, 1 shot of triple sec, the juice of half an orange, and 1/2 of a can of orange soda.",
+      "score": 0.5837973,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.47,
+  "request_id": "635719eb-13c5-49b3-9de4-b68f10ffd92d"
+}

@@ -1,0 +1,49 @@
+================================================================================
+Attempt: 1
+Query: Who is the mother of the man who ruled Friuli from 874 until at least 890?
+Full Tavily Payload:
+{
+  "query": "Who is the mother of the man who ruled Friuli from 874 until at least 890?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://gw.geneanet.org/chchomat?lang=en&n=del+friuli&p=berengario",
+      "title": "Berengario del FRIULI : Family tree by Christian CHOMAT (chchomat)",
+      "content": "carolingia: i Marchesi del Friuli, della Toscana e di Camerino, quest'ultimo unito al Ducato di Spoleto, ai quali successivamente si aggiunse il Marchesato d'Ivrea. Figlio di Eberardo del Friuli e di Gisella (o Gisla), figlia di Ludovico il Pio, ottenne il titolo marchionale attorno al 874 alla morte del fratello Unroch. Durante l'incoronazione di Berengario il popolo acclamò secondo le cronache il sovrano \"nativa voce\" ovvero in Italiano e questa è una delle prime testimonianze della nostra Italia, si fece eleggere Re a Pavia e affrontò l'esercito di Berengario presso Fiorenzuola d'Arda (o presso Fidenza). and emperor.[8] Louis the German sent first Charles the Fat, his youngest son, and then Carloman himself, with armies containing Italian magnates led by Berengar, to possess the Italian kingdom.[8][9] This was",
+      "score": 0.70214266,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.geni.com/people/Berengar-I-emperor-of-the-Romans/6000000001669654269",
+      "title": "Emperor Berengar I, margrave of Friuli, king of Italy (c.845 - 924) - Geni",
+      "content": "He is usually known as Berengar of Friuli, since he ruled the March of Friuli from 874 until at least 890, but he had lost control of the region",
+      "score": 0.67988104,
+      "raw_content": null
+    },
+    {
+      "url": "https://quizlet.com/815738861/holy-roman-emperors-1-flash-cards",
+      "title": "Holy Roman Emperors 1 Flashcards - Quizlet",
+      "content": "He is usually known as Berengar of Friuli, since he ruled the March of Friuli from 874 until at least 890, but he had lost control of the region by 896.[2].",
+      "score": 0.5382315,
+      "raw_content": null
+    },
+    {
+      "url": "http://vanosnabrugge.org/genealogy/getperson.php?personID=I10384&tree=tree1",
+      "title": "Berengar I of Italy b. ~845 d. 9 Apr 924",
+      "content": "* 1200-1600 ▼ + History               ► + Family Trees      ► - Patriarch            ► - Descendants      ► + Towns               ► + Family Trees     ► - Patriarchs          ► * Search ▼ + Search Notes * Others ▼ # Berengar I of Italy * | Name | Berengar I of Italy | | | Father | Eberhard Duc de Friuli,   **b.** ~810   **d.** 16 Dec 866 | | Gisela of Friuli,   **b.** ~876   **d.** Aft 23 Jan 913 | | | * | Notes | + Berengar I (Latin: Berengarius, Perngarius; Italian: Berengario; c. 845 - 7 April 924 was the king of Italy from 887. He was Holy Roman Emperor between 915 and his death in 924.",
+      "score": 0.5191075,
+      "raw_content": null
+    },
+    {
+      "url": "https://laidman.one-name.net/getperson.php?personID=I22645&tree=Laidman",
+      "title": "DEL FRIULI, Berengar Holy Roman Emperor b. Abt 845 d. 7 Apr 924",
+      "content": "By 915, Berengar's eldest daughter, Bertha, was abbess of San Salvatore in Brescia, where her aunt had once been a nun. In that year, the following year, and in",
+      "score": 0.50490767,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.54,
+  "request_id": "a0f2d2f4-bad8-4b53-aa13-effbec8b25d0"
+}
