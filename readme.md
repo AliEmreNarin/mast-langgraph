@@ -7,7 +7,7 @@ Multi-agent system failure analysis using LangGraph and HOTPOT-QA dataset.
 pip install -r requirements.txt
 ```
 
-Set environment variables:
+Set environment variables in a .env file:
 - `ANTHROPIC_API_KEY`
 - `TAVILY_API_KEY` 
 - `OPENAI_API_KEY`
