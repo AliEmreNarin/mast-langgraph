@@ -1,0 +1,49 @@
+================================================================================
+Attempt: 1
+Query: Who hosted both Miss USA 1968 and The Price Is Right?
+Full Tavily Payload:
+{
+  "query": "Who hosted both Miss USA 1968 and The Price Is Right?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Miss_USA_1968",
+      "title": "Miss USA 1968 - Wikipedia",
+      "content": "Miss USA 1968 was the 17th Miss USA pageant, televised live by CBS from Miami Beach, Florida on May 18, 1968 hosted by Bob Barker.",
+      "score": 0.82895297,
+      "raw_content": null
+    },
+    {
+      "url": "https://edition.cnn.com/2023/08/26/entertainment/bob-barker-death",
+      "title": "Bob Barker, former longtime host of 'The Price Is Right,' dead at 99",
+      "content": "Barker and Amanda Jones, who was Miss Illinois, are seen after Jones won the 1973 Miss USA Pageant. Barker hosted the Miss USA and Miss",
+      "score": 0.7474137,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bob_Barker",
+      "title": "Bob Barker - Wikipedia",
+      "content": "**Robert William Barker** (December 12, 1923 – August 26, 2023) was an American media personality, game show host, and animal rights advocate. Barker began hosting *The Price Is Right* in 1972. In 2007, Barker retired from hosting *The Price Is Right* after celebrating his 50-year career on television. On September 4, 1972, Barker began hosting the CBS revival of *The Price Is Right*. * Bob Barker to retire as host of U.S. gameshow The Price Is Right In 1989, Barker and United Activists for Animal Rights publicly accused several media projects and the American Humane Association of animal mistreatment and condoning animal mistreatment, a tactic which resulted in a $10 million suit against him and the UAAR*[needs update*] for libel, slander, and invasion of privacy.",
+      "score": 0.6892434,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.nytimes.com/2023/08/26/arts/television/bob-barker-dead.html",
+      "title": "Bob Barker, Longtime Host of 'The Price Is Right,' Dies at 99",
+      "content": "Barker was widely known for his longstanding dedication to the cause of animal rights. He quit as master of ceremonies for both the Miss USA and",
+      "score": 0.68571854,
+      "raw_content": null
+    },
+    {
+      "url": "https://priceisright.fandom.com/wiki/Bob_Barker",
+      "title": "Bob Barker | The Price Is Right Wiki",
+      "content": "In addition to his hosting duties on The Price is Right, Bob also served as a long-time host of the Miss USA/Universe pageants, so serving for 20 years from",
+      "score": 0.64719695,
+      "raw_content": null
+    }
+  ],
+  "response_time": 0.99,
+  "request_id": "edf9b405-d908-4b06-ad65-fdc54b67896c"
+}

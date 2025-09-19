@@ -1,0 +1,98 @@
+================================================================================
+Attempt: 1
+Query: What building was associated with a Roman politician and general who played a critical role in the transformation of the Roman Republic from an oligarchy into the autocratic Roman Empire?
+Full Tavily Payload:
+{
+  "query": "What building was associated with a Roman politician and general who played a critical role in the transformation of the Roman Republic from an oligarchy into the autocratic Roman Empire?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mark_Antony",
+      "title": "Mark Antony - Wikipedia",
+      "content": "Marcus Antonius (14 January 83 BC – 1 August 30 BC), commonly known in English as Mark Antony, was a Roman politician and general who played a critical role",
+      "score": 0.6824261,
+      "raw_content": null
+    },
+    {
+      "url": "https://brainly.com/question/36512083",
+      "title": "Though Julius Caesar played a major role in transforming ... - Brainly",
+      "content": "Julius Caesar, a significant figure in ancient Rome, played a crucial role in the transformation of the Roman Republic into the Roman Empire.",
+      "score": 0.41179726,
+      "raw_content": null
+    },
+    {
+      "url": "https://historyguild.org/the-roman-empire/?srsltid=AfmBOoox53Nk380dK2G-BjARiy9WxQZLNYsCroVwF_y2NDCInRJigpym",
+      "title": "The Roman Empire - History Guild",
+      "content": "Gaius Julius Caesar was a Roman general, statesman, consul, and notable author of Latin prose. He played a critical role in the events that led to the demise of",
+      "score": 0.3206303,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Julius_Caesar",
+      "title": "Julius Caesar - Wikipedia",
+      "content": "| Battles/wars | * Siege of Mytilene \"Siege of Mytilene (81 BC)\") * Gallic Wars * Invasions of Britain * Caesar's civil war * Alexandrian war ...*(see Military campaigns of Julius Caesar)* | **Gaius Julius Caesar** (12 or 13 July 100 BC – 15 March 44 BC) was a Roman general and statesman. In 60 BC, Caesar, Crassus, and Pompey formed the First Triumvirate, an informal political alliance that dominated Roman politics for several years. Caesar rose to become one of the most powerful politicians in the Roman Republic through a string of military victories in the Gallic Wars, completed by 51 BC, which greatly extended Roman territory. Gaius Julius Caesar was born into a patrician \"Patrician (ancient Rome)\") family, the *gens Julia*, on 12 or 13 July 100 BC. Julius Caesar * **44 BC**: M.",
+      "score": 0.31223416,
+      "raw_content": null
+    },
+    {
+      "url": "https://education.nationalgeographic.org/resource/romes-transition-republic-empire/5th-grade/",
+      "title": "Rome's Transition from Republic to Empire",
+      "content": "# Rome’s Transition from Republic to Empire # Rome’s Transition from Republic to Empire Rome transitioned from a republic to an empire after power shifted away from a representative democracy to a centralized imperial authority, with the emperor holding the most power. The Roman Empire was born. During the Roman Empire, the emperor held most of the power and commanded the army. **The Fall of the Roman Empire**   one of two chief officials of the ancient Roman republic who were elected every year. having to do with the civilization of ancient Rome, including the kingdom, republic, and empire. Roman Empire (27 B.C.E.-476 C.E.) period in the history of ancient Rome when the state was ruled by an emperor.",
+      "score": 0.1576163,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.85,
+  "request_id": "5dc6ff15-10ca-4069-97a6-4782f044e1a7"
+}
+================================================================================
+Attempt: 2
+Query: Julius Caesar buildings monuments Rome Forum Basilica Julia Theatre Marcellus
+Full Tavily Payload:
+{
+  "query": "Julius Caesar buildings monuments Rome Forum Basilica Julia Theatre Marcellus",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.smithsonianmag.com/travel/explore-julius-caesars-rome-180950262/",
+      "title": "Explore Julius Caesar's Rome - Smithsonian Magazine",
+      "content": "One such building was the Basilica Julia, the construction of which began in 54 BC. Caesar reorganized the Roman Forum ... Theater of Marcellus.",
+      "score": 0.7803451,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Basilica_Julia",
+      "title": "Basilica Julia - Wikipedia",
+      "content": "The Basilica Julia (Italian: Basilica Giulia) was civil basilica in the Roman Forum. Construction began under Julius Caesar in 46 BCE and was completed by",
+      "score": 0.751375,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.tripadvisor.com/Attraction_Review-g187791-d8113770-Reviews-Basilica_Julia-Rome_Lazio.html",
+      "title": "Basilica Julia, Rome - Tripadvisor",
+      "content": "The Basilica Julia was a large government building that was primarily used as a law court. The building dates back to 46 BC to the time of Julius Caesar.",
+      "score": 0.65966886,
+      "raw_content": null
+    },
+    {
+      "url": "https://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/TIMELINE.html",
+      "title": "Timeline of the Buildings of Ancient Rome (Platner & Ashby, 1929)",
+      "content": "Basilica Julia restored, p79. 421, Statues set up in Theatre of Marcellus, p514. 442, Earthquake damages Forum, p235: Amphitheatrum Flavium",
+      "score": 0.59796065,
+      "raw_content": null
+    },
+    {
+      "url": "http://www.digital-images.net/Gallery/Scenic/Rome/Forum/RomanForum/romanforum.html",
+      "title": "The Forum Romanum - Digital-images.net",
+      "content": "To the right of center is the Temple of Castor and Pollux, beside the people walking are the remains of the Basilica Julia (Julius Caesar's meeting hall), and",
+      "score": 0.54608524,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.05,
+  "request_id": "5553f4cf-6bb4-4667-80f6-c21b8330155f"
+}

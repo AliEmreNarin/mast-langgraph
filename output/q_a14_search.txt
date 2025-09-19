@@ -1,0 +1,196 @@
+================================================================================
+Attempt: 1
+Query: Who has more occupations related to movies, Walter Lang or Scott Derrickson?
+Full Tavily Payload:
+{
+  "query": "Who has more occupations related to movies, Walter Lang or Scott Derrickson?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://bloggingbycinemalight.blogspot.com/search/label/Kathy%20Bates?m=0",
+      "title": "Kathy Bates - Blogging By Cinema-light",
+      "content": "And Scott Derrickson (who put a different head ... Keanu Reeves has the most limited range of any ... jobs, and give some Hollywood-types more \"green\" cred.",
+      "score": 0.24331458,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.vulture.com/article/new-movies-coming-out-soon-upcoming-releases-fall-2025.html",
+      "title": "New Movies Coming Out Soon: Upcoming Fall 2025 Releases",
+      "content": "Black Phone 2. October 17. Release: Theatrical Director: Scott Derrickson Stars: Ethan Hawke, Mason Thames, Madeleine McGraw. If you thought",
+      "score": 0.08810389,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.facebook.com/groups/warriorsmovie/posts/10161134760724296/",
+      "title": "The Warriors Movie | Deborah Van Valkenburgh's film career",
+      "content": "Since ***The Warriors*** and ***Streets of Fire*** (both directed by Walter Hill), I've seen Deborah Van Valkenburgh in any number of movies and",
+      "score": 0.023475897,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_directorial_debuts",
+      "title": "List of directorial debuts - Wikipedia",
+      "content": "This is a list of film directorial debuts in chronological order. The films and dates referred to are a director's first commercial cinematic release.",
+      "score": 0.022892075,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.imdb.com/list/ls066481674/",
+      "title": "Cult Movies That Don't SUCK - IMDb",
+      "content": "He would say things like, \"Please, Vincent, try to say it without rolling your eyes.\" At one point Price pointed out to Reeves, \"I've made 87 films, what have you done?\" The director responded, \"Made three good ones\" (LOL!!). If you like authentic breathtaking Southwestern vistas, notable Western music (reminiscent of \"How the West was Won\"), a tried-and-true cast (including cutie Ann-Margret) and desert adventure marked by a long chase with numerous camping-out scenes (almost a survival movie), not to mention an exceptional centerpiece set, featuring a dilapidated abandoned train in the desert, and a quality surprise ending, you can't go wrong with \"The Train Robbers.\" The magnificent Western cinematography is particularly notable: Myriad frames from practically every sequence could be used as awesome Western art.",
+      "score": 0.019009009,
+      "raw_content": null
+    }
+  ],
+  "response_time": 0.86,
+  "request_id": "f3266075-0f9e-48ee-a29a-688e91640ad5"
+}
+================================================================================
+Attempt: 2
+Query: Walter Lang director filmography occupations career
+Full Tavily Payload:
+{
+  "query": "Walter Lang director filmography occupations career",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://walkoffame.com/walter-lang/",
+      "title": "Walter Lang - Hollywood Walk of Fame",
+      "content": "##### About Walter Lang # Walter Lang **Walter Lang** was an American film director. Born in Memphis, Tennessee, as a young man he went to New York City where he found clerical work at a film production company. Things did not work out as Lang hoped and he eventually returned home and to the film business. In 1926, Walter Lang directed his first silent film, *The Red Kimona*. One of Lang's most recognized films is his 1956 epic *The King and I* for which he was nominated for the Academy Award for Directing. Lang was married to Madalynne Field from 1937 until his death. She met Lang when he directed Lombard in *Love Before Breakfast*.",
+      "score": 0.6260562,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.amazon.com/prime-video/actor/Walter-Lang/amzn1.dv.gti.fe838cc7-d688-43dc-90c2-a874594eaa4a/",
+      "title": "Walter Lang: Movies, TV, and Bio - Amazon.com",
+      "content": "# Walter Lang Walter Lang entered the film industry in New York when he got a job as a clerk in the office of a film production company. By the time sound arrived Lang was already a well-regarded director, but he left the business at that time to try his hand as an artist in Paris. ## Walter Lang Walter Lang entered the film industry in New York when he got a job as a clerk in the office of a film production company. By the time sound arrived Lang was already a well-regarded director, but he left the business at that time to try his hand as an artist in Paris.",
+      "score": 0.6257817,
+      "raw_content": null
+    },
+    {
+      "url": "https://projects.latimes.com/hollywood/star-walk/walter-lang/",
+      "title": "Walter Lang - Hollywood Star Walk - Los Angeles Times",
+      "content": "# Walter Lang Veteran film directer Walter Lang's well-known movies included \"The King and I\" and \"Call Me Madam.\" Lang graduated from the University of Tennessee, served in France with the American Expeditionary Force in World War I and began his career as a Hollywood film director in 1927. Lang, who worked with some of the biggest stars in Hollywood, was nominated for an Oscar for \"The King and I.\" — Los Angeles Times Feb. 8, 1972 ## One thought about Walter Lang ## Share a thought about Walter Lang * Which other stars on the Hollywood Walk of Fame have connections to Walter Lang? * Are other places in the world important to Walter Lang? * Does Walter Lang deserve this star on the Hollywood Walk of Fame?",
+      "score": 0.6063825,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0485943/bio/",
+      "title": "Walter Lang - Biography - IMDb",
+      "content": "February 7, 1972 · Palm Springs, California, USA (kidney failure) * Walter Lang entered the film industry in New York when he got a job as up to assistant director, and directed his first film in 1926. time sound arrived Lang was already a well-regarded director, but he Richard Lang performance in Lang's film. He had been friends with Clark Gable for years, and the actor was so insistent on Lang as his director that the film was postponed until Lang, who had been hospitalized with peritonitis and ulcers, had recovered. Zanuck offered Lang The Sound of Music (1965), but the director opted to retire. Related lists from IMDb users Directors with 50 or more feature films Related polls from IMDb users",
+      "score": 0.5860734,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.rottentomatoes.com/celebrity/walter_lang",
+      "title": "Walter Lang Movies List | Rotten Tomatoes",
+      "content": "Despite a quick career shift--he moved to Paris to try his hand at painting--Lang returned to the film industry and directed several silent films before being discovered by 20th Century Fox. Before becoming one of Hollywood's go-to directors for musicals, Lang directed pop-culture icon Shirley Temple in the 1939 boarding school drama \"The Little Princess.\" His artistic eye helped him visualize elaborate sets and sequences for his large-scale directorial projects, including the acclaimed musicals \"Tin Pan Alley\" and \"Coney Island\" starring Betty Grable, who went on record calling Lang a true gentleman. **Resident of the states listed in the 'Your Rights' section of NBCUniversal’s Privacy Policy Only:**  To opt out of selling or sharing/processing for targeted advertising of information such as cookies and device identifiers processed for targeted ads (as defined by law) and related purposes for this site/app on this browser/device, switch this toggle to off (grey color) by moving it left and clicking **“Confirm My Choice”** below.",
+      "score": 0.559411,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.03,
+  "request_id": "076f26e5-74f5-4864-a938-50067e7cebb6"
+}
+================================================================================
+Attempt: 3
+Query: Scott Derrickson director producer writer filmography career occupations
+Full Tavily Payload:
+{
+  "query": "Scott Derrickson director producer writer filmography career occupations",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://the-jh-movie-collection-official.fandom.com/wiki/Scott_Derrickson",
+      "title": "Scott Derrickson | The JH Movie Collection's Official Wiki - Fandom",
+      "content": "**Scott Derrickson** (born July 16, 1966) is an American film director, producer, and screenwriter. Derrickson is best known for directing *The Exorcism of Emily Rose* (2005), *Sinister* (2012), and the Marvel Cinematic Universe superhero film *Doctor Strange \"Doctor Strange (2016 film)\")* (2016). In August 2011, Derrickson teamed up with producer Jason Blum to write and direct *Sinister*, a mystery-horror film starring Ethan Hawke. Derrickson co-wrote but did not direct the second film of *Sinister* series.Template:CN *Deliver Us from Evil \"Deliver Us from Evil (2014 film)\")* is a 2014 American supernatural horror film directed by Derrickson and produced by Jerry Bruckheimer. Derrickson next directed the film *Doctor Strange \"Doctor Strange (2016 film)\")*, based on the Marvel Comics property and part of the Marvel Cinematic Universe.",
+      "score": 0.77893573,
+      "raw_content": null
+    },
+    {
+      "url": "https://in.bookmyshow.com/person/scott-derrickson/8793",
+      "title": "Scott Derrickson - Movies, Biography, News, Age & Photos",
+      "content": "Derrickson began his career by writing, directing and producing the movie Love in Ruins (1995). Having a penchant for writing and directing horror movies, in the subsequent years Derrickson worked on projects such as Sinister (2012), Devil's Knot (2013), and Deliver Us from Evil (2014). He later would go on to write the sequel to the movie, Sinister 2, directed by Ciaran Foy. Derrickson's 2016 release includes the movie Doctor Strange starring Benedict Cumberbatch, Chiwetel Ejiofor, Benedict Wong, and Rachel McAdams. Scott Derrickson has also worked as a producer for a few of the movies he has directed such as - Sinister, Devil's Knot, and Sinister 2. If you do not accept terms mentioned in the Privacy Policy, you must not share any of your personal information and immediately exit Bookmyshow.",
+      "score": 0.7522497,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.preposterousuniverse.com/podcast/2018/10/29/episode-20-scott-derrickson-on-cinema-blockbusters-horror-and-mystery/",
+      "title": "20 | Scott Derrickson on Cinema, Blockbusters, Horror, and Mystery",
+      "content": "Scott Derrickson is an acclaimed director, producer, and screenwriter. He earned his MA in film production from the University of Southern California.",
+      "score": 0.7471924,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Scott_Derrickson",
+      "title": "Scott Derrickson - Wikipedia",
+      "content": "In August 2011, Derrickson teamed up with producer Jason Blum to write and direct *Sinister \"Sinister (film)\")*, a mystery-horror film starring Ethan Hawke. Derrickson co-wrote but did not direct the film's sequel. Derrickson next directed the film *Doctor Strange \"Doctor Strange (2016 film)\")*, based on the Marvel Comics property and part of the Marvel Cinematic Universe. Derrickson remained involved with the film as an executive producer. In 2023, Derrickson directed the segment \"Dreamkill\" for the horror anthology film *V/H/S/85*. Derrickson's next film following *The Gorge* will be *Black Phone 2*, slated for release on October 17, 2025. \"'Doctor Strange' Director Scott Derrickson Boards Blumhouse Horror Movie 'Black Phone'\". | Films directed by Scott Derrickson | |",
+      "score": 0.6202772,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.theologyofwork.org/the-high-calling/faith-hollywood-interview-part-i-ralph-winter-producer-and-scott-derrickson/",
+      "title": "FAITH IN HOLLYWOOD: An Interview (Part I) with… | Theology of Work",
+      "content": "Scott Derrickson, director and writer, best known for The Exorcism of Emily Rose. His credits also include Urban Legends: Final Cut and Hellraiser: Inferno",
+      "score": 0.6016175,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.19,
+  "request_id": "946e2067-0ab3-4fab-81f9-f39bb2078ef0"
+}
+================================================================================
+Attempt: 4
+Query: Walter Lang film director producer writer career roles occupations complete filmography
+Full Tavily Payload:
+{
+  "query": "Walter Lang film director producer writer career roles occupations complete filmography",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Walter_Lang",
+      "title": "Walter Lang - Wikipedia",
+      "content": "Career. In 1925, Walter Lang directed his first silent film, The Red Kimono. In the mid-1930s, he was hired by 20th Century Fox where, as a director, he \"",
+      "score": 0.6241337,
+      "raw_content": null
+    },
+    {
+      "url": "https://walkoffame.com/walter-lang/",
+      "title": "Walter Lang - Hollywood Walk of Fame",
+      "content": "##### About Walter Lang # Walter Lang **Walter Lang** was an American film director. Born in Memphis, Tennessee, as a young man he went to New York City where he found clerical work at a film production company. Things did not work out as Lang hoped and he eventually returned home and to the film business. In 1926, Walter Lang directed his first silent film, *The Red Kimona*. One of Lang's most recognized films is his 1956 epic *The King and I* for which he was nominated for the Academy Award for Directing. Lang was married to Madalynne Field from 1937 until his death. She met Lang when he directed Lombard in *Love Before Breakfast*.",
+      "score": 0.6102915,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.tvguide.com/celebrities/walter-lang/credits/3000495709/",
+      "title": "Walter Lang - TV Guide",
+      "content": "See Walter Lang full list of movies and tv shows from their career. Find ... Director, Writer, Actor, Assistant director. Director. 63 Credits.",
+      "score": 0.6016175,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.britannica.com/biography/Walter-Lang",
+      "title": "Walter Lang | American Film Director & Producer | Britannica",
+      "content": "**Walter Lang** (born August 10, 1896, Memphis, Tennessee, U.S.—died February 7, 1972, Palm Springs, California) was an American film director best known for films such as *The Little Princess* (1939), *The King and I* (1956), and *Desk Set* (1957). Hollywood Hollywood Films in the 1930s Quiz * How did Hollywood get its name? # Hollywood ### What is Hollywood? Hollywood is a district within the city of Los Angeles, whose name is synonymous with the American film industry. ### Where is Hollywood? ### How did Hollywood get its name? **Hollywood**, district within the city of Los Angeles, California, U.S., whose name is synonymous with the American film industry. * Hollywood Walk of Fame - Walter Lang \"Hollywood\".",
+      "score": 0.5996498,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.amazon.com/prime-video/actor/Walter-Lang/amzn1.dv.gti.fe838cc7-d688-43dc-90c2-a874594eaa4a/",
+      "title": "Walter Lang: Movies, TV, and Bio - Amazon.com",
+      "content": "# Walter Lang Walter Lang entered the film industry in New York when he got a job as a clerk in the office of a film production company. By the time sound arrived Lang was already a well-regarded director, but he left the business at that time to try his hand as an artist in Paris. ## Walter Lang Walter Lang entered the film industry in New York when he got a job as a clerk in the office of a film production company. By the time sound arrived Lang was already a well-regarded director, but he left the business at that time to try his hand as an artist in Paris.",
+      "score": 0.55883324,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.82,
+  "request_id": "a8dcb4b4-f89b-46bc-b170-2dea0f825fd1"
+}

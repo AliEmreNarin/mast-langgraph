@@ -1,0 +1,49 @@
+================================================================================
+Attempt: 1
+Query: When was the rapper who composed and perfromed "Playing with Fire" born?
+Full Tavily Payload:
+{
+  "query": "When was the rapper who composed and perfromed \"Playing with Fire\" born?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kevin_Federline",
+      "title": "Kevin Federline",
+      "content": "In 2006, Federline released a debut album, Playing with Fire, which was ... Born. Kevin Earl Federline. (1978-03-21) March 21, 1978 (age 47). Fresno",
+      "score": 0.8679453,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.facebook.com/therealkjpower1/posts/%EF%B8%8Fcelebrity-relatives-rapper-kwame-and-actor-van-diesel-are-cousinskwam%C3%A9-has-said/653546604082381/",
+      "title": "Celebrity Relatives.. Rapper Kwame and Actor Van Diesel ...",
+      "content": "... born March ... Williams is also known for Candyman, Melrose Place, The Flash, Days of Our Lives, Our America, Drop Squad, Playing with Fire",
+      "score": 0.70702106,
+      "raw_content": null
+    },
+    {
+      "url": "https://kpop.fandom.com/wiki/Teddy",
+      "title": "Teddy | Kpop Wiki - Fandom",
+      "content": "Teddy (테디; also known as Teddy Park) is a Korean-American rapper, songwriter, producer, and composer under YG Entertainment ... \"Playing With Fire\", \"Square Two",
+      "score": 0.59089786,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.reddit.com/r/ToddintheShadow/comments/1103sbt/is_playing_with_fire_by_kevin_kfed_federline_a/",
+      "title": "Is Playing with Fire by Kevin \"K-Fed\" Federline a ...",
+      "content": "r/todayilearned - TIL Kevin Federline's album Playing With Fire (2006), executive. metacritic. 84 upvotes · 25",
+      "score": 0.4177708,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.ocala.com/story/news/2006/11/01/federline-says-career-as-rapper-becoming/31173762007/",
+      "title": "Federline says career as rapper becoming",
+      "content": "Federline - aka K-Fed and Mr. Britney Spears - wants to be taken seriously as a rapper. His debut CD, \"Playing With Fire,\" is out this week.",
+      "score": 0.405567,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.27,
+  "request_id": "7aa53e3f-a44e-477f-814e-dbca4ef988fd"
+}

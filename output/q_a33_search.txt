@@ -1,0 +1,98 @@
+================================================================================
+Attempt: 1
+Query: In which year was the band that released the song This Is Our House formed ?
+Full Tavily Payload:
+{
+  "query": "In which year was the band that released the song This Is Our House formed ?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/This_Is_Our_House",
+      "title": "This Is Our House - Wikipedia",
+      "content": "\"This Is Our House\" is a song by American rock band Bon Jovi. It was originally written by Jon Bon Jovi, Richie Sambora and Desmond Child and recorded in 2009.",
+      "score": 0.82994765,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.facebook.com/d7787/videos/madness-our-house/855047009831681/",
+      "title": "On this date in 1982, MADNESS released the single OUR HOUSE ...",
+      "content": "In 1984, Madness performed Our House on The Young Ones, cementing their association with British pop culture. Two decades later, the song became",
+      "score": 0.67706895,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.tiktok.com/@radiowithdrawal/video/7217573168343551278",
+      "title": "Crosby, Stills, Nash & Young's 'Our House' Song History | TikTok",
+      "content": "“Our House” was released in 1970 on the Deja Vu album by Crosby, Stills, Nash & Young. Written by Graham Nash, the song was inspired by his",
+      "score": 0.62906903,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zLYoxSzYNu0",
+      "title": "Madness ~ Our House (1982) - YouTube",
+      "content": "\"Our House\" was released as the lead single from their fourth studio album, The Rise & Fall, on 12 November 1982. The song charted within",
+      "score": 0.5513086,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Our_House_(Crosby,_Stills,_Nash_%26_Young_song)",
+      "title": "Our House (Crosby, Stills, Nash & Young song) - Wikipedia",
+      "content": "\"**Our House**\" is a song written by British singer-songwriter Graham Nash and recorded by Crosby, Stills, Nash & Young on their album *Déjà Vu \"Déjà Vu (Crosby, Stills, Nash & Young album)\")* (1970). It is praised for its \"innocent elegance\", though Barney Hoskyns called it a \"trite ditty\" and wondered what Neil Young, whose protest song \"Ohio \"Ohio (Crosby, Stills, Nash & Young song)\")\" (about the Kent State Massacre) as recorded and released by CSNY in June 1970, would have thought of it: \"the journey from 'Ohio' back to 'Our House' seemed to sum up a general failure of nerve in the LA music scene\". **^** \"British single certifications – Crosby Stills Nash & Young – Our House\".",
+      "score": 0.5412882,
+      "raw_content": null
+    }
+  ],
+  "response_time": 0.98,
+  "request_id": "41167b09-8e03-4de8-9a39-2db57d38bcb1"
+}
+================================================================================
+Attempt: 2
+Query: When was the band Bon Jovi formed year
+Full Tavily Payload:
+{
+  "query": "When was the band Bon Jovi formed year",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://bestclassicbands.com/band-bon-jovi-formed-3-14-166/",
+      "title": "March 14, 1983: The Band Bon Jovi is Formed",
+      "content": "March 14, 1983: The Band Bon Jovi is Formed | Best Classic Bands  March 14, 1983: The Band Bon Jovi is Formed - Best Classic Bands If you wish to opt-out of the sale, sharing to third parties, or processing of your personal or sensitive information for targeted advertising by us, please use the below opt-out section to confirm your selection. Image 1: Best Classic Bands**Homepage** John Bongiovi – better known as Jon **Bon Jovi**– had been playing in bands since he was 13 years old, and was out on the New Jersey club circuit plugging away since he was 16. Image 4: Best Classic Bands Staff Image 5: Best Classic Bands Staff Latest posts by Best Classic Bands Staff (see all)",
+      "score": 0.87981987,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=V3wok6VoiEg",
+      "title": "Bon Jovi Is Formed | This Week in Music History - YouTube",
+      "content": "Bon Jovi Is Formed | This Week in Music History\nAXS TV\n436000 subscribers\n210 likes\n6408 views\n13 Mar 2024\nOn March 14th, 1983 Bon Jovi was formed. Watch as Jon Bon Jovi offers insights into the band’s lasting success and shares his ultimate rock heroes on This Week in Music History.\n\nFind AXS TV on your TV -- http://www.axs.tv\nSubscribe to AXS TV on YouTube -- https://www.youtube.com/axstv\nDownload the AXS TV App Today! -- https://bit.ly/AXSTVapp\n9 comments\n",
+      "score": 0.8785752,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jon_Bon_Jovi",
+      "title": "Jon Bon Jovi - Wikipedia",
+      "content": "He is best known as the founder and frontman of the rock band Bon Jovi, which was formed in 1983. He has released 16 studio albums with his band as well as two",
+      "score": 0.87166095,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.facebook.com/rockexperiencewithmike/photos/march-14-1983on-this-day-42-years-ago-bon-jovi-was-officially-formed-the-band-in/975387508118906/",
+      "title": "The Rock - March 14, 1983 On this day 42 years ago Bon Jovi was ...",
+      "content": "March 14, 1983 On this day 42 years ago Bon Jovi was officially formed. The band includes Jon Bon Jovi, Tico Torres, Alec John Such,",
+      "score": 0.8652358,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.ebsco.com/research-starters/music/bon-jovi",
+      "title": "Bon Jovi | Research Starters - EBSCO",
+      "content": "Led by singer Jon Bon Jovi, the group includes members David Bryan, Richie Sambora, Alec John Such, and Tico Torres. *Bon Jovi combined the rhythms and guitar distortion of hard rock, the power and rebellion of heavy metal, and the melodic interest and romantic lyrics of pop to become one of America’s leading mainstream rock bands by the end of the decade.* In 1983, Bongiovi (who had taken the professional name Jon Bon Jovi) signed with Mercury Records and formed the heavy metal band Bon Jovi with his boyhood friend David Bryan (keyboards), as well as Richie Sambora (lead guitar), Alec John Such (bass guitar), and Tico Torres (drums).",
+      "score": 0.78074646,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.19,
+  "request_id": "b04757d3-1fe9-4b68-a4f5-c5aca7982c49"
+}

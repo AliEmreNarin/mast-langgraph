@@ -1,0 +1,49 @@
+================================================================================
+Attempt: 1
+Query: What country do both Geauga Lake and Six Flags have in comman?
+Full Tavily Payload:
+{
+  "query": "What country do both Geauga Lake and Six Flags have in comman?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://geauga-lake.fandom.com/wiki/Geauga_Lake",
+      "title": "Rides - Geauga Lake Wiki - Fandom",
+      "content": "Geauga Lake (later known as Six Flags Ohio and Six Flags Worlds of Adventure) was an amusement park in the city of Aurora, Ohio.",
+      "score": 0.5224708,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.facebook.com/groups/250840638956722/posts/1416535469053894/",
+      "title": "Geauga Lake History and Closure Discussion - Facebook",
+      "content": "Six Flags did own Geauga Lake and Sea World. They combined the parks and turned it into Six Flags Ohio. They are also the ones who poured a",
+      "score": 0.47899243,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.reddit.com/r/Columbus/comments/1l5cuad/once_upon_a_time_ohio_had_a_six_flags/",
+      "title": "Once Upon A Time, Ohio had a Six Flags. - Columbus - Reddit",
+      "content": "An even more little known fact, Wyandot Lake was the sister park to Geauga Lake . So, not only did we have ONE Six Flags park in Ohio",
+      "score": 0.44666424,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Geauga_Lake",
+      "title": "Geauga Lake - Wikipedia",
+      "content": "Funtime was acquired by Premier Parks in 1995, and for the 2000 season, they re-branded Geauga Lake as Six Flags Ohio, adding four new roller coasters. The",
+      "score": 0.39473805,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.tripsavvy.com/geauga-lake-six-flags-seaworld-ohio-3226033",
+      "title": "What Happened to Geauga Lake, Six Flags Ohio, and SeaWorld ...",
+      "content": "Find out what happened to the old Geauga Lake amusement park as well as Six Flags Ohio and SeaWorld Ohio and whether any of them are open.",
+      "score": 0.29808816,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.01,
+  "request_id": "42fee899-ff23-440a-b184-470a75f680ec"
+}

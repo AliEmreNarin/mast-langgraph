@@ -1,0 +1,42 @@
+QUESTION:
+Stingray Brava is a Dutch cultural television channel aimed at the Dutch and Belgian market, the productions consists of stage performances such as Swan Lake, a ballet composed by who in 1875–76?
+
+GROUND TRUTH ANSWER:
+Pyotr Ilyich Tchaikovsky
+================================================================================
+Attempt: 1
+Query: Stingray Brava is a Dutch cultural television channel aimed at the Dutch and Belgian market, the productions consists of stage performances such as Swan Lake, a ballet composed by who in 1875–76?
+Results:
+  [1] Search Result | 
+
+--- Prompt ---
+You are a careful researcher. Use ONLY the context below.
+
+Question:
+Stingray Brava is a Dutch cultural television channel aimed at the Dutch and Belgian market, the productions consists of stage performances such as Swan Lake, a ballet composed by who in 1875–76?
+
+Context (web search results):
+[1] Search Result
+URL: 
+Snippet: {'query': 'Stingray Brava is a Dutch cultural television channel aimed at the Dutch and Belgian market, the productions consists of stage performances such as Swan Lake, a ballet composed by who in 1875–76?', 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://en.wikipedia.org/wiki/Stingray_Brava', 'title': 'Stingray Brava - Wikipedia', 'content': 'Stingray Brava (formerly Brava) was a cultural television channel originated in the Netherlands, owned by the Stingray Group in Canada.', 'score': 0.8018276, 'raw_content': None}, {'url': 'https://www.gocomgo.com/dutch-national-opera/swan-lake/82488', 'title': 'Dutch National Opera 1 April 2023 - Swan Lake | GoComGo.com', 'content': 'Swan Lake is a ballet composed by Pyotr Ilyich Tchaikovsky in 1875–76. Despit
+
+
+Instructions:
+- If the context is sufficient, produce a concise answer with inline citations [1], [2], etc.
+- If the context is insufficient, do NOT guess; instead propose ONE improved web search query that would likely retrieve the needed info.
+- If question requires multiple queries, than divide the question into multiple questions and propose one query for each question.
+
+Output format (must follow exactly):
+ANSWER: <your answer or say "I don't know based on the context">
+FOLLOW_UP_QUERY: <a single refined query or "none">
+
+--- Raw Reasoning Output ---
+ANSWER: Based on the context provided, Swan Lake is a ballet composed by Pyotr Ilyich Tchaikovsky in 1875–76 [1].
+
+FOLLOW_UP_QUERY: none
+
+--- Model Answer (this attempt) ---
+Based on the context provided, Swan Lake is a ballet composed by Pyotr Ilyich Tchaikovsky in 1875–76 [1].
+
+FOLLOW_UP_QUERY: none
+--------------------------------------------------------------------------------

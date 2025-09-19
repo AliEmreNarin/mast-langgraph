@@ -1,0 +1,98 @@
+================================================================================
+Attempt: 1
+Query: When was the American fashion model born who has been featured in campaigns by  an American multinational corporation that designs and manufactures upper market apparel for men, women and children?
+Full Tavily Payload:
+{
+  "query": "When was the American fashion model born who has been featured in campaigns by  an American multinational corporation that designs and manufactures upper market apparel for men, women and children?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ralph_Lauren_Corporation",
+      "title": "Ralph Lauren Corporation - Wikipedia",
+      "content": "Ralph Lauren Corporation is a publicly traded American fashion and lifestyle brand founded in 1967 by Ralph Lauren in New York City. The company markets",
+      "score": 0.35622323,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.britannica.com/biography/Cindy-Crawford",
+      "title": "Cindy Crawford | Biography, Modeling, & Facts | Britannica",
+      "content": "**Cindy Crawford** (born February 20, 1966, DeKalb, Illinois, U.S.) is an American fashion model and television personality who first gained fame in the 1980s and was among the first “supermodels.” The monumental event is believed by many industry professionals to have marked the official debut of the “supermodel”—a top fashion model who appears simultaneously on the covers of the world’s leading fashion magazines and is globally recognized by first name only. As the supermodel phenomenon began to rise, Crawford was at the forefront of a small group of models—known in the industry as “the supers”—who became worldwide celebrities, increasingly dominating both the high-fashion runways and the global media. fashion industry # fashion industry * Fashion Model Directory - Cindy Crawford \"fashion industry\".",
+      "score": 0.21354152,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.statista.com/outlook/cmo/apparel/women-s-apparel/worldwide?srsltid=AfmBOorGipERwCSTf8-ICq4Rxt0UU4pEPn8TdY-rLwAoaLDCvNH80evz",
+      "title": "Women's Apparel - Worldwide | Statista Market Forecast",
+      "content": "On average, each person is anticipated to contribute 10.5pieces units to the Women's Apparel market in 2025. Despite the economic downturn, women in China",
+      "score": 0.06650261,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.uniqlo.com/in/en/?srsltid=AfmBOopnPhOKWL5ImKyIvC1dRfe8tDVJJu0BcYwEhQJ6BnaUjEeTH_Ux",
+      "title": "UNIQLO INDIA: PREMIUM CLOTHING FOR MEN, WOMEN & KIDS",
+      "content": "Stay cool with UNIQLO's Summer Collection – AIRism essentials, bratops, tees, linen pants, dresses, jeans, shorts & UV protection for men, women & kids.",
+      "score": 0.059455637,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.mckinsey.com/~/media/mckinsey/industries/retail/our%20insights/state%20of%20fashion/2023/the-state-of-fashion-2023-holding-onto-growth-as-global-clouds-gathers-vf.pdf",
+      "title": "[PDF] The State of Fashion 2023 - McKinsey",
+      "content": "com/articles/luxury/ the-pivot-to-e-concessions-is-reshaping-online-luxury/ 444 McKinsey analysis and expert interviews 445 “What’s next for Kering?”, Fashion United, Feb, 2022,  business/what-s-next-for-kering/2022021861468 446 “Prada Q4 2021 Results Transcript”, Seeking Alpha,  article/4495380-prada-s-p-prdsy-ceo-patrizio-bertelli-on-q4-2021-results-earnings-call-transcript 447 “Mytheresa’s New Model for Working With Brands”, The Business of Fashion, September 2021, https:// www.businessoffashion.com/news/ retail/mytheresas-new-model-for-working-with-brands/ 448 McKinsey analysis based on public companies’ channels reporting 449 McKinsey 2023 State of Luxury Channel Model, based on publicly available companies’ financials 450 McKinsey 2023 State of Luxury Channel Model, based on publicly available companies’ financials 451 McKinsey 2023 State of Luxury Channel Model, based on publicly available companies’ financials 452 McKinsey 2023 State of Luxury Channel Model, based on publicly available companies’ financials 142 The State of Fashion 2023 FOR EDITORIAL ENQUIRIES PLEASE CONTACT: FOR COMMERCIAL ENQUIRIES PLEASE CONTACT: FOR PRESS ENQUIRIES PLEASE CONTACT: The Business of Fashion is a next-generation media company recognised around the world for its authoritative, analytical point of view on the global fashion industry.",
+      "score": 0.027671918,
+      "raw_content": null
+    }
+  ],
+  "response_time": 0.95,
+  "request_id": "b09fb301-849f-4b43-ba33-21ed16375d8f"
+}
+================================================================================
+Attempt: 2
+Query: Cindy Crawford Ralph Lauren campaigns fashion model born 1966
+Full Tavily Payload:
+{
+  "query": "Cindy Crawford Ralph Lauren campaigns fashion model born 1966",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Cindy_Crawford",
+      "title": "Cindy Crawford - Wikipedia",
+      "content": "Cynthia Ann Crawford (born February 20, 1966) is an American model. During the 1980s and 1990s, she was among the most popular supermodels.",
+      "score": 0.8455478,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.fashionmodeldirectory.com/models/Cindy_Crawford/",
+      "title": "Cindy Crawford - The FMD - Fashion Model Directory",
+      "content": "Cindy Crawford. American. Born February 20, 1966. in De Kalb, Illinois ... {Dolce & Gabbana, Ralph Lauren}. Ready to wear - Spring/Summer 1992 {Calvin",
+      "score": 0.82048416,
+      "raw_content": null
+    },
+    {
+      "url": "https://celebrity.fandom.com/wiki/Cindy_Crawford",
+      "title": "Cindy Crawford | Celebrity Wiki - Fandom",
+      "content": "Cynthia Ann \"Cindy\" Crawford (born February 20, 1966) is an American model. Her 30 years of success at modeling made her an international celebrity.",
+      "score": 0.79958355,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.britannica.com/biography/Cindy-Crawford",
+      "title": "Cindy Crawford | Biography, Modeling, & Facts | Britannica",
+      "content": "**Cindy Crawford** (born February 20, 1966, DeKalb, Illinois, U.S.) is an American fashion model and television personality who first gained fame in the 1980s and was among the first “supermodels.” The monumental event is believed by many industry professionals to have marked the official debut of the “supermodel”—a top fashion model who appears simultaneously on the covers of the world’s leading fashion magazines and is globally recognized by first name only. As the supermodel phenomenon began to rise, Crawford was at the forefront of a small group of models—known in the industry as “the supers”—who became worldwide celebrities, increasingly dominating both the high-fashion runways and the global media. fashion industry # fashion industry * Fashion Model Directory - Cindy Crawford \"fashion industry\".",
+      "score": 0.78866494,
+      "raw_content": null
+    },
+    {
+      "url": "https://medium.com/fashion-beauty-models-style-trends/cindy-crawford-the-superstar-model-834c86ef49ca",
+      "title": "Cindy Crawford — The Superstar Model | by Sasha Vonn - Medium",
+      "content": "Cindy Crawford was born February 20th, 1966 in DeKalb, Illinois. She entered the Elite Model Management's Look of The Year contest, was the",
+      "score": 0.7803451,
+      "raw_content": null
+    }
+  ],
+  "response_time": 0.87,
+  "request_id": "dae21c6c-63a6-41ec-8b8f-584d237d76ec"
+}

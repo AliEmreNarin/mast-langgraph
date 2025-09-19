@@ -18,7 +18,7 @@ Both the Jack and Coke and Orange Tundra can can be poured into what kind of gla
 Context (web search results):
 [1] Search Result
 URL: 
-Snippet: {'query': 'Both the Jack and Coke and Orange Tundra can can be poured into what kind of glass?', 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://feastandwest.com/jack-and-coke/', 'title': 'Jack & Coke', 'content': 'Apr 5, 2023—You can serve a Jack & Coke in justabout any kind of glass. A lowball glass (or rocks glass*) is most common, but you can also serve it in a', 'score': 0.81665546, 'raw_content': None}, {'url': 'https://brainly.com/question/44814668', 'title': 'What type of glass would a double tall Jack and Coke ... - Brainly', 'content': 'Dec 20, 2023—The type of glass a double tall Jack and Coke would go in is aHighball glass(option B). Highball glasses are designed to hold beverages that', 'score': 0.6826801, 'raw_content': None}, {'url': '
+Snippet: {'query': 'Both the Jack and Coke and Orange Tundra can can be poured into what kind of glass?', 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://feastandwest.com/jack-and-coke/', 'title': 'Jack & Coke - Feast + West', 'content': 'You can serve a Jack & Coke in just about any kind of glass. A lowball glass (or rocks glass *) is most common, but you can also serve it in', 'score': 0.8047902, 'raw_content': None}, {'url': 'https://brainly.com/question/44814668', 'title': 'What type of glass would a double tall Jack and Coke go in ... - Brainly', 'content': 'The type of glass a double tall Jack and Coke would go in is a Highball glass (option B). Highball glasses are designed to hold beverages that', 'score': 0.7166357, 'raw_content': None}, {'url': 'htt
 
 
 Instructions:
@@ -35,13 +35,13 @@ ANSWER: I don't know based on the context
 
 FOLLOW_UP_QUERY: Orange Tundra cocktail recipe glass type serving
 
-The provided context only contains information about Jack and Coke being served in lowball/rocks glasses [1] or highball glasses [1], but there is no information about the Orange Tundra cocktail or what type of glass it uses. To answer the question about what glass both drinks can be poured into, I need information about the Orange Tundra cocktail's serving glass.
+The provided context only contains information about Jack and Coke being served in lowball/rocks glasses [1] or highball glasses [1], but there is no information about the Orange Tundra cocktail or what type of glass it uses. To answer the question about what glass both drinks can be poured into, I need information about the Orange Tundra cocktail's serving requirements.
 
 --- Model Answer (this attempt) ---
 I don't know based on the context
 
 
-The provided context only contains information about Jack and Coke being served in lowball/rocks glasses [1] or highball glasses [1], but there is no information about the Orange Tundra cocktail or what type of glass it uses. To answer the question about what glass both drinks can be poured into, I need information about the Orange Tundra cocktail's serving glass.
+The provided context only contains information about Jack and Coke being served in lowball/rocks glasses [1] or highball glasses [1], but there is no information about the Orange Tundra cocktail or what type of glass it uses. To answer the question about what glass both drinks can be poured into, I need information about the Orange Tundra cocktail's serving requirements.
 
 FOLLOW_UP_QUERY: Orange Tundra cocktail recipe glass type serving
 --------------------------------------------------------------------------------
@@ -59,7 +59,7 @@ Both the Jack and Coke and Orange Tundra can can be poured into what kind of gla
 Context (web search results):
 [1] Search Result
 URL: 
-Snippet: {'query': 'Orange Tundra cocktail recipe glass type serving', 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://www.stepbystep.com/how-to-make-a-orange-tundra-cocktail-9351/', 'title': 'How to Make a Orange Tundra Cocktail - StepByStep', 'content': '# How to Make a Orange Tundra Cocktail Orange Tundra Cocktail is a classic long drink prepared with Vodka, Orange Juice, Cream Soda and coffee liqueur (Kahlua). The Orange Tundra Cocktail is traditionally served over ice cubes in an old fashioned cocktail glass. This simple and original recipe of Orange Tundra Cocktail makes one drink but increase their amount if you want to make more drinks. Make sure to assemble all the ingredients properly in order to make the cocktail smoothly. Top the ice cubes with 25
+Snippet: {'query': 'Orange Tundra cocktail recipe glass type serving', 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://www.tasteatlas.com/orange-tundra', 'title': 'Orange Tundra | Local Cocktail From United States of ...', 'content': 'Log in with Facebook Log in with Google Log in Cocktail # Orange Tundra *Orange Tundra* is an American cocktail made with a combination of vodka, Kahlua, orange juice, and cream soda (a carbonated soft drink typically flavored with vanilla). To prepare it, an old-fashioned glass should first be filled with a few ice cubes, which are then topped with equal parts vodka, coffee liqueur, cream soda, and finally – orange juice. The cocktail is served unstirred, and it can be garnished with a cherry or an orange wheel. * Vodka Cherrie
 
 
 Instructions:
@@ -74,15 +74,137 @@ FOLLOW_UP_QUERY: <a single refined query or "none">
 --- Raw Reasoning Output ---
 ANSWER: I don't know based on the context
 
-FOLLOW_UP_QUERY: Jack and Coke cocktail served in old fashioned glass rocks glass
+FOLLOW_UP_QUERY: Jack and Coke cocktail glass types serving options
 
-The context shows that Orange Tundra is served in an "old fashioned cocktail glass" [1], but I need complete information about Jack and Coke glass options to determine what type of glass both drinks can share. The previous context mentioned lowball/rocks glasses and highball glasses for Jack and Coke, but I need to confirm if Jack and Coke can be served in an old fashioned glass to answer whether both drinks can be poured into the same type of glass.
+The context shows that Orange Tundra is served in an old-fashioned glass [1], but I need complete information about what types of glasses Jack and Coke can be served in to determine if there's a common glass type that both cocktails can use. The previous context was cut off and didn't provide the full information about Jack and Coke serving options.
 
 --- Model Answer (this attempt) ---
 I don't know based on the context
 
 
-The context shows that Orange Tundra is served in an "old fashioned cocktail glass" [1], but I need complete information about Jack and Coke glass options to determine what type of glass both drinks can share. The previous context mentioned lowball/rocks glasses and highball glasses for Jack and Coke, but I need to confirm if Jack and Coke can be served in an old fashioned glass to answer whether both drinks can be poured into the same type of glass.
+The context shows that Orange Tundra is served in an old-fashioned glass [1], but I need complete information about what types of glasses Jack and Coke can be served in to determine if there's a common glass type that both cocktails can use. The previous context was cut off and didn't provide the full information about Jack and Coke serving options.
 
-FOLLOW_UP_QUERY: Jack and Coke cocktail served in old fashioned glass rocks glass
+FOLLOW_UP_QUERY: Jack and Coke cocktail glass types serving options
+--------------------------------------------------------------------------------
+Attempt: 3
+Query: Jack and Coke cocktail glass types serving options
+Results:
+  [1] Search Result | 
+
+--- Prompt ---
+You are a careful researcher. Use ONLY the context below.
+
+Question:
+Both the Jack and Coke and Orange Tundra can can be poured into what kind of glass?
+
+Context (web search results):
+[1] Search Result
+URL: 
+Snippet: {'query': 'Jack and Coke cocktail glass types serving options', 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://brainly.com/question/44814668', 'title': 'What type of glass would a double tall Jack and Coke go in ... - Brainly', 'content': 'A double tall Jack and Coke is typically served in a Highball glass because it can accommodate a large amount of mixer and ice. ... Explanation.', 'score': 0.8415267, 'raw_content': None}, {'url': 'https://www.ebay.com/itm/385843795157', 'title': 'Set of 2 Jack Daniels & Coke a Cola Tall Cocktail Glass 10 oz ... - eBay', 'content': 'These 10 oz glasses are perfect for enjoying your favorite whiskey and soda in style. The glasses feature the iconic Jack Daniels and Coke a Cola logos, making', 'score': 0.6002124, 'r
+
+
+Instructions:
+- If the context is sufficient, produce a concise answer with inline citations [1], [2], etc.
+- If the context is insufficient, do NOT guess; instead propose ONE improved web search query that would likely retrieve the needed info.
+- If question requires multiple queries, than divide the question into multiple questions and propose one query for each question.
+
+Output format (must follow exactly):
+ANSWER: <your answer or say "I don't know based on the context">
+FOLLOW_UP_QUERY: <a single refined query or "none">
+
+--- Raw Reasoning Output ---
+ANSWER: I don't know based on the context
+
+FOLLOW_UP_QUERY: "old fashioned glass" "rocks glass" same type of glass cocktail serving
+
+The context shows that Jack and Coke can be served in a Highball glass [1], and from the previous context I know that Orange Tundra is served in an old-fashioned glass. However, I need to verify if an old-fashioned glass and other glass types mentioned are the same or compatible to determine what glass type both cocktails can share.
+
+--- Model Answer (this attempt) ---
+I don't know based on the context
+
+
+The context shows that Jack and Coke can be served in a Highball glass [1], and from the previous context I know that Orange Tundra is served in an old-fashioned glass. However, I need to verify if an old-fashioned glass and other glass types mentioned are the same or compatible to determine what glass type both cocktails can share.
+
+FOLLOW_UP_QUERY: "old fashioned glass" "rocks glass" same type of glass cocktail serving
+--------------------------------------------------------------------------------
+Attempt: 4
+Query: "old fashioned glass" "rocks glass" same type of glass cocktail serving
+Results:
+  [1] Search Result | 
+
+--- Prompt ---
+You are a careful researcher. Use ONLY the context below.
+
+Question:
+Both the Jack and Coke and Orange Tundra can can be poured into what kind of glass?
+
+Context (web search results):
+[1] Search Result
+URL: 
+Snippet: {'query': '"old fashioned glass" "rocks glass" same type of glass cocktail serving', 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://www.thekitchn.com/types-of-cocktail-glasses-23615354', 'title': '5 Types of Cocktail Glasses (Coupe, Highball & More) | The Kitchn', 'content': 'Also known as an Old-Fashioned glass, the rocks glass is meant for drinks that are mixed and served in the same glass. A typical rocks glass', 'score': 0.8593928, 'raw_content': None}, {'url': 'https://www.waterford.com/en-us/discover-waterford/journal/inspiration/cocktail-glass-guide?srsltid=AfmBOoqOh7yw8XnYgC2buVhR4IstEeKpOy_5sCCd3os6mn98Q6FuBPte', 'title': 'Types of Cocktail Glasses - Waterford', 'content': 'A tumbler, also known as a rocks glass or old fashioned glass, is t
+
+
+Instructions:
+- If the context is sufficient, produce a concise answer with inline citations [1], [2], etc.
+- If the context is insufficient, do NOT guess; instead propose ONE improved web search query that would likely retrieve the needed info.
+- If question requires multiple queries, than divide the question into multiple questions and propose one query for each question.
+
+Output format (must follow exactly):
+ANSWER: <your answer or say "I don't know based on the context">
+FOLLOW_UP_QUERY: <a single refined query or "none">
+
+--- Raw Reasoning Output ---
+ANSWER: I don't know based on the context
+
+FOLLOW_UP_QUERY: Jack and Coke served in old fashioned glass rocks glass lowball glass
+
+The context confirms that an old-fashioned glass and rocks glass are the same type of glass [1]. From previous contexts, I know that Orange Tundra is served in an old-fashioned glass and Jack and Coke can be served in a Highball glass. However, I need to verify if Jack and Coke can also be served in an old-fashioned/rocks glass to determine if this is the common glass type both cocktails can share.
+
+--- Model Answer (this attempt) ---
+I don't know based on the context
+
+
+The context confirms that an old-fashioned glass and rocks glass are the same type of glass [1]. From previous contexts, I know that Orange Tundra is served in an old-fashioned glass and Jack and Coke can be served in a Highball glass. However, I need to verify if Jack and Coke can also be served in an old-fashioned/rocks glass to determine if this is the common glass type both cocktails can share.
+
+FOLLOW_UP_QUERY: Jack and Coke served in old fashioned glass rocks glass lowball glass
+--------------------------------------------------------------------------------
+Attempt: 5
+Query: Jack and Coke served in old fashioned glass rocks glass lowball glass
+Results:
+  [1] Search Result | 
+
+--- Prompt ---
+You are a careful researcher. Use ONLY the context below.
+
+Question:
+Both the Jack and Coke and Orange Tundra can can be poured into what kind of glass?
+
+Context (web search results):
+[1] Search Result
+URL: 
+Snippet: {'query': 'Jack and Coke served in old fashioned glass rocks glass lowball glass', 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://www.amazon.com/Daniels-Tennessee-Whiskey-Lowball-Glasses/dp/B01BCU79GY', 'title': 'Jack Daniels Tennessee Whiskey Old No 7 Square Lowball Rocks ...', 'content': 'Jack Daniels Tennessee Whiskey Old No 7 Square Lowball Rocks Glasses - Set of 2 ... Like new. Very nice and bright. No signs of use or wear. Not in original box.', 'score': 0.6021791, 'raw_content': None}, {'url': 'https://www.reddit.com/r/bartenders/comments/16owb1f/ordering_a_jack_and_coke/', 'title': 'Ordering a jack and coke : r/bartenders - Reddit', 'content': 'The normal amount (1.5oz) but more coke. The last two bars I was at served the drink in a rocks gl
+
+
+Instructions:
+- If the context is sufficient, produce a concise answer with inline citations [1], [2], etc.
+- If the context is insufficient, do NOT guess; instead propose ONE improved web search query that would likely retrieve the needed info.
+- If question requires multiple queries, than divide the question into multiple questions and propose one query for each question.
+
+Output format (must follow exactly):
+ANSWER: <your answer or say "I don't know based on the context">
+FOLLOW_UP_QUERY: <a single refined query or "none">
+
+--- Raw Reasoning Output ---
+ANSWER: Both the Jack and Coke and Orange Tundra can be poured into an old-fashioned glass (also known as a rocks glass).
+
+Based on the context provided across all searches: Orange Tundra is served in an old-fashioned glass, Jack and Coke can be served in rocks glasses [1], and old-fashioned glasses and rocks glasses are the same type of glass. Therefore, both cocktails can be served in this common glass type.
+
+FOLLOW_UP_QUERY: none
+
+--- Model Answer (this attempt) ---
+Both the Jack and Coke and Orange Tundra can be poured into an old-fashioned glass (also known as a rocks glass).
+
+Based on the context provided across all searches: Orange Tundra is served in an old-fashioned glass, Jack and Coke can be served in rocks glasses [1], and old-fashioned glasses and rocks glasses are the same type of glass. Therefore, both cocktails can be served in this common glass type.
+
+FOLLOW_UP_QUERY: none
 --------------------------------------------------------------------------------

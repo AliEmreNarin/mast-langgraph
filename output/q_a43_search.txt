@@ -1,0 +1,126 @@
+================================================================================
+Attempt: 1
+Query: Which professional association football club based in Southampton, Hampshire, England did Harry Bamford play as a half-back for?
+Full Tavily Payload:
+{
+  "query": "Which professional association football club based in Southampton, Hampshire, England did Harry Bamford play as a half-back for?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Harry_Bamford",
+      "title": "Harry Bamford - Wikipedia",
+      "content": "**Henry Charles Bamford** (8 February 1920 – 31 October 1958) was a professional footballer, who played for Bristol Rovers for his entire professional career. Because of the war, his professional career began at the relatively late age of 25, but in spite of this he played in the second highest number of Bristol Rovers games of any players at the club, behind only Stuart Taylor \"Stuart Taylor (footballer born 1947)\"). On 12 March 2021, Bamford was the third player to be inducted in the Bristol Rovers Hall of Fame. *Harry Bamford: Bristol Rovers' First Gentleman of Football.* Bristol, Tangent Books. *Harry Bamford: Bristol Rovers' First Gentleman of Football*.",
+      "score": 0.91671574,
+      "raw_content": null
+    },
+    {
+      "url": "https://bristolrovers.fandom.com/wiki/Harry_Bamford",
+      "title": "Harry Bamford | Gasopedia - Bristol Rovers Wiki - Fandom",
+      "content": "Players, Defenders, 8 October, **Henry Charles 'Harry' Bamford** (born 8 October 1920) played for Bristol Rovers for his entire professional footballing career. Because of the war, his professional career began at the relatively late age of 25, but in spite of this he played in the second highest number of Bristol Rovers games of any players at the club, behind only Stuart Taylor. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance. These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks.",
+      "score": 0.82694983,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Harry_Bamford_(footballer,_born_1886)",
+      "title": "Harry Bamford (footballer, born 1886) - Wikipedia",
+      "content": "# Harry Bamford (footballer, born 1886) **Harold Walley Bamford** (2 November 1886 – 26 November 1915) was an English professional footballer who played as a half-back for Southampton in the Southern League from 1908 to 1911, and later for Glossop in the Football League. In August 1912, Bamford reverted to amateur status, and joined Glossop of the Football League Second Division on amateur terms. Bamford enlisted in the King's Shropshire Light Infantry during the First World War. The regiment's 1st Battalion was based at Tipperary in August 1914, as part of the 16th Brigade \"16th Infantry Brigade (United Kingdom)\") of the 6th Division_Division \"6th (United Kingdom) Division\") which landed at Saint-Nazaire in September 1914 for service on the Western Front \"Western Front (World War I)\").",
+      "score": 0.8232293,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.coludata.co.uk/player/harry-bamford",
+      "title": "Harry Bamford MBE - Players - COLUDATA",
+      "content": "Bamford played for several clubs during his career, including Hayes, Ealing YMCA, Brentford, Aldershot (as a guest), Colchester United (as a guest), and Brighton & Hove Albion. He made one appearance for Colchester United in the Southern League on 13th April 1946 against Guildford City. 28th June 1945 Warrant Officer Class I Harold Frank Ernest Bamford of the 40th Field Bakery Unit, Royal Army Service Corps was awarded the MBE for his service in Italy between 31st May and 20th September 1945. Home | Club Details | Who's Who | Sponsors | Matches | Squad Details | Team Photographs | Programme Covers | Opponents | Statistics | International Appearances | In Memorium | On This #Colu day | About | Coludata Shop | Donations | Full site map",
+      "score": 0.79522943,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.wikiwand.com/en/articles/List_of_Southampton_F.C._players_(1%E2%80%9324_appearances)",
+      "title": "List of Southampton F.C. players (1–24 appearances) - Wikiwand",
+      "content": "Southampton Football Club is an English association football club based in Southampton, Hampshire. Founded in 1885 as St Mary's YMA, they became a",
+      "score": 0.7001783,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.65,
+  "request_id": "0fde7fa0-d19b-4040-a4c8-885d8a6744a1"
+}
+================================================================================
+Attempt: 2
+Query: Harry Bamford Southampton football club half-back player
+Full Tavily Payload:
+{
+  "query": "Harry Bamford Southampton football club half-back player",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.11v11.com/teams/southampton/tab/players/season/1909/",
+      "title": "All Southampton football club players: 1909 - 11v11",
+      "content": "Southampton football club players by season: 1909. ... S, G, P, Y, R, Position. John H Bainbridge, 35, 0, 8, Forward. Harold Bamford, 5, 0, Half back.",
+      "score": 0.72019166,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Harry_Bamford",
+      "title": "Harry Bamford - Wikipedia",
+      "content": "**Henry Charles Bamford** (8 February 1920 – 31 October 1958) was a professional footballer, who played for Bristol Rovers for his entire professional career. Because of the war, his professional career began at the relatively late age of 25, but in spite of this he played in the second highest number of Bristol Rovers games of any players at the club, behind only Stuart Taylor \"Stuart Taylor (footballer born 1947)\"). On 12 March 2021, Bamford was the third player to be inducted in the Bristol Rovers Hall of Fame. *Harry Bamford: Bristol Rovers' First Gentleman of Football.* Bristol, Tangent Books. *Harry Bamford: Bristol Rovers' First Gentleman of Football*.",
+      "score": 0.70944256,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.11v11.com/teams/southampton/tab/players/season/1910/",
+      "title": "All Southampton football club players: 1910 - 11v11",
+      "content": "... football club ... Bamford, 1, 0, Half back. John Blake, 25, 0, 3, Outside ... 0, Full back/Half back. Walter Toomer, 2, 0, Half back. Albert Trueman, 29, 0, 2, Left",
+      "score": 0.6745014,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.transfermarkt.com/harry-bamford/profil/spieler/1096469",
+      "title": "Harry Bamford - Player profile | Transfermarkt",
+      "content": "Did you know? There is an english version of Transfermarkt available. Go here to  Transfermarkt.us # Harry **Bamford** * Date of birth/Age: * Place of birth: Bristol * Citizenship: England * Date of death: * Position: Right-Back ## Player data Main position  Main position: :   Right-Back Facts and data  Date of birth/Age: Place of birth: Bristol    Date of death: Citizenship: England  Position: Defender - Right-Back  Current club: Transfermarkt Videos ## Career stats | Competition | | wettbewerb |  |  |  |  |  | | Total : | |  | 10 | 2 | - | 450 | 900 | | First Division | | | | | | | View full stats Transfermarkt Company Projects",
+      "score": 0.5401241,
+      "raw_content": null
+    },
+    {
+      "url": "https://bristolrovers.fandom.com/wiki/Harry_Bamford",
+      "title": "Harry Bamford | Gasopedia - Bristol Rovers Wiki - Fandom",
+      "content": "Players, Defenders, 8 October, **Henry Charles 'Harry' Bamford** (born 8 October 1920) played for Bristol Rovers for his entire professional footballing career. Because of the war, his professional career began at the relatively late age of 25, but in spite of this he played in the second highest number of Bristol Rovers games of any players at the club, behind only Stuart Taylor. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance. These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks.",
+      "score": 0.49758363,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.64,
+  "request_id": "a6be6fba-0407-4872-ab0f-8cd282d6631c"
+}
+================================================================================
+Attempt: 3
+Query: "Harold Bamford" Southampton FC 1909 half-back footballer biography
+Full Tavily Payload:
+{
+  "query": "\"Harold Bamford\" Southampton FC 1909 half-back footballer biography",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Harry_Bamford_(footballer,_born_1886)",
+      "title": "Harry Bamford (footballer, born 1886)",
+      "content": "# Harry Bamford (footballer, born 1886) **Harold Walley Bamford** (2 November 1886 – 26 November 1915) was an English professional footballer who played as a half-back for Southampton in the Southern League from 1908 to 1911, and later for Glossop in the Football League. In August 1912, Bamford reverted to amateur status, and joined Glossop of the Football League Second Division on amateur terms. Bamford enlisted in the King's Shropshire Light Infantry during the First World War. The regiment's 1st Battalion was based at Tipperary in August 1914, as part of the 16th Brigade \"16th Infantry Brigade (United Kingdom)\") of the 6th Division_Division \"6th (United Kingdom) Division\") which landed at Saint-Nazaire in September 1914 for service on the Western Front \"Western Front (World War I)\").",
+      "score": 0.98535,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.saintsplayers.co.uk/player/harold-bamford/",
+      "title": "Harold Bamford | SaintsPlayers.co.uk",
+      "content": "## Harold Walley Bamford The son of Armagh-born, Abraham and Annie Bamford née Walley, Harold Bamford, having been born near Hull, spent his early years in Sunderland before moving to Southampton after his parents separated and his mother moved to Peartree Avenue to run a sweet and tobacco shop. 1912 was a watershed year for Harold as he had left Saints, become a schoolteacher, been reinstated as an amateur and moved to Glossop then playing in the Second Division of the Football League (see scrapbook section). If you have spotted an error or can add extra information to **Harold Bamford's** profile please fill in the form with all relevant details.",
+      "score": 0.98173,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.23,
+  "request_id": "99afc218-7e5d-4068-a411-4543c4c466dc"
+}

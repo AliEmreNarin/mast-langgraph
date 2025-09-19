@@ -1,0 +1,196 @@
+================================================================================
+Attempt: 1
+Query: Which film director is was also an actor, João Pedro Rodrigues or Edmund Mortimer?
+Full Tavily Payload:
+{
+  "query": "Which film director is was also an actor, João Pedro Rodrigues or Edmund Mortimer?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_film_and_television_directors",
+      "title": "List of film and television directors - Wikipedia",
+      "content": "Edmund Mortimer · Lemohang Jeremiah Mosese · Scott Mosier · Craig Moss · Katsuyuki ... João Pedro Rodrigues · Robert Rodriguez · Rosemary Rodriguez · John Roecker",
+      "score": 0.7493996,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.imdb.com/list/ls007055665/",
+      "title": "MyMovies: Movies I Have Seen - IMDb",
+      "content": "Despite coworker Fátima's attraction, he rejects her advances, becoming obsessed with another man instead. DirectorJoão Pedro RodriguesStarsRicardo Meneses",
+      "score": 0.44174582,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.imdb.com/list/ls506152072/",
+      "title": "TOP INDEPENDENT FILMS OF 2000'S (2000-09) - IMDb",
+      "content": "Despite coworker Fátima's attraction, he rejects her advances, becoming obsessed with another man instead. DirectorJoão Pedro RodriguesStarsRicardo Meneses",
+      "score": 0.42448413,
+      "raw_content": null
+    },
+    {
+      "url": "https://edinburghuniversitypress.com/media/wysiwyg/Documents/Information/Rights_Spring-Summer_2025_Catalogue.pdf",
+      "title": "[PDF] Rights Catalogue - Spring/Summer 2025 - Edinburgh University Press",
+      "content": "REFOCUS: THE INTERNATIONAL DIRECTORS. ReFocus: The Films of. Joao Pedro Rodrigues and Joao Rui Guerra da Mata. Edited by José Duarte and Filipa. Rosário. March",
+      "score": 0.4221955,
+      "raw_content": null
+    },
+    {
+      "url": "https://awardswatch.com/2019-oscars-347-films-eligible-for-best-picture-oscar/",
+      "title": "2019 Oscars: 347 Films Eligible for Best Picture Oscar - AwardsWatch",
+      "content": "Actors: João Pedro Zappa. Alex Alembe. Rashidi Athuman. John Goodluck. Luke Mpata. Rhosinah Sekeleti. Lenny Siampala. Actresses: Caroline",
+      "score": 0.11821217,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.1,
+  "request_id": "ada4e276-3a15-41fa-8aea-50fde01c6944"
+}
+================================================================================
+Attempt: 2
+Query: João Pedro Rodrigues actor filmography career
+Full Tavily Payload:
+{
+  "query": "João Pedro Rodrigues actor filmography career",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.criterion.com/current/top-10-lists/143-joao-pedro-rodrigues-s-top-10?srsltid=AfmBOoowNGfCWttm6_c9ynofw7z-ygQrbdSSfLceb2wHaEPdvFpZ4khz",
+      "title": "João Pedro Rodrigues's Top 10 | Current - The Criterion Collection",
+      "content": "Acclaimed Portugese director João Pedro Rodrigues has made three features: O Fantasma (2000), Two Drifters (2005), and To Die Like a Man (2009).",
+      "score": 0.769306,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.semainedelacritique.com/en/directors/joao-pedro-rodrigues",
+      "title": "João Pedro Rodrigues - Semaine de la Critique",
+      "content": "João Pedro Rodrigues is a portuguese film director and screenwriter. After studying biology he attented the Lisbon Theatre and Film School and started his career as an assistant director and editor in several features film. His public film career began at the 54th Venice Festival with the short film *Parabéns!* which won the Special Jury Prize. In 2012 he is invited at La Semaine de la Critique to be the President of the jury for the Nikon Discovery Award for Short film, and his film *Morning of Saint Anthony's day* had a special screening for the closing of the 51st edition. Short Film + French Union of Film Critics + Education to film criticism + Awarded films 2025",
+      "score": 0.769098,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.lacinetek.com/fr-en/director-list/joao-pedro-rodrigues-39",
+      "title": "João Pedro Rodrigues's list - LaCinetek",
+      "content": "After embarking on studies in biology with the goal of becoming an ornithologist, João Pedro Rodrigues entered the Lisbon Theatre and Film School. He then worked as an assistant director and editor for nine years, making one short film and two documentaries. In 2000, his first feature film, *O Fantasma* [*Phantom*], the story of a troubling sexual obsession, was a nominee at the Venice Film Festival, and provoked a scandal before becoming a cult classic. Jean-Pierre Dardenne Arnaud et Jean-Marie Larrieu Jean-Pierre Jeunet Jean-Luc Godard Arnaud et Jean-Marie Larrieu Arnaud et Jean-Marie Larrieu + ### The Hawks and the SparrowsUccellacci e uccellini Jean-Pierre Dardenne You are connected on LaCinetek France You may have access to our website but can not play films",
+      "score": 0.75464433,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Pedro_Rodrigues",
+      "title": "João Pedro Rodrigues - Wikipedia",
+      "content": "# João Pedro Rodrigues | João Pedro Rodrigues | | **João Pedro Rodrigues** (born 24 August 1966) is a Portuguese film director. In 1997, Rodrigues directed his first film *O Fantasma (Phantom)* (2000). 1. **^** \"João Pedro Rodrigues: «Chaque film m’apprend des choses, j’essaie d’être le plus honnête possible envers ce que j’ai à raconter»\". | * v * t * e  Films directed by João Pedro Rodrigues | | | * *O Fantasma* (2000) * *Two Drifters* (2005) * *To Die like a Man* (2009) * *The Last Time I Saw Macao* (2012) * *The Ornithologist \"The Ornithologist (film)\")* (2016) * *Will-o'-the-Wisp \"Will-o'-the-Wisp (film)\")* (2022) | |",
+      "score": 0.7187726,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.rottentomatoes.com/celebrity/joao_pedro_rodrigues",
+      "title": "João Pedro Rodrigues Movies List | Rotten Tomatoes",
+      "content": "Explore the complete filmography of João Pedro Rodrigues on Rotten Tomatoes! Discover every movie they have been credited in today.",
+      "score": 0.5749443,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.11,
+  "request_id": "0b3aded5-8c18-455c-b953-e7de4fe8d1f8"
+}
+================================================================================
+Attempt: 3
+Query: "João Pedro Rodrigues" actor acting roles filmography OR "Edmund Mortimer" director actor acting career
+Full Tavily Payload:
+{
+  "query": "\"João Pedro Rodrigues\" actor acting roles filmography OR \"Edmund Mortimer\" director actor acting career",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.imdb.com/name/nm0735134/news/",
+      "title": "João Pedro Rodrigues - News",
+      "content": "Since his first film in 2000, the mesmerising O Fantasma, Portuguese auteur João Pedro Rodrigues has continually cast his gaze over the ever-changing landscape",
+      "score": 0.2837149,
+      "raw_content": null
+    },
+    {
+      "url": "https://thefilmstage.com/joao-pedro-rodrigues-on-mythology-westerns-and-the-ornithologist/",
+      "title": "João Pedro Rodrigues on Mythology, Westerns, and 'The ...",
+      "content": "João Pedro Rodrigues' The Ornithologist has continued the Portuguese auteur's fascination with his nation's history, all while delivering a deeply funny,",
+      "score": 0.26815945,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0735134/",
+      "title": "João Pedro Rodrigues",
+      "content": "* Director João Pedro Rodrigues was born on 24 August 1966 in Lisbon, Portugal. He is a director and writer, known for Will-o'-the-Wisp (2022), Morrer Como Um Homem (2009) and The Last Time I Saw Macao (2012). - View contact info at IMDbPro * Director * Director * Director * Director ### Director + Director + Director + Director + Director + Director * Where Do You Stand Now, João Pedro Rodrigues? + Director + Director + Director + Director + Director + Director + Director + Director + Director + Director ### Add demo reel with IMDbPro ### Add demo reel with IMDbPro Keep track of how much of João Pedro Rodrigues’s work you have rated. Go to your list.",
+      "score": 0.23191893,
+      "raw_content": null
+    },
+    {
+      "url": "https://filmmakermagazine.com/99453-locarno-film-festival-2016-joao-pedro-rodrigues-on-the-ornithologist/",
+      "title": "João Pedro Rodrigues on The Ornithologist",
+      "content": "This interview with João Pedro Rodrigues was originally conducted in 2016 when his new feature, The Ornithologist, premiered at the Locarno Film Festival.",
+      "score": 0.18172778,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.instagram.com/p/DLSooDbsRaT/",
+      "title": "Next Month at @adambaran 's Narrow Rooms screening ...",
+      "content": "... director João Pedro Rodrigues (THE ORNITHOLOGIST, WILL-O'-THE-WISP) on Friday, July 11th. Sergio is a kinky trash collector who loves dogs",
+      "score": 0.18085808,
+      "raw_content": null
+    }
+  ],
+  "response_time": 2.71,
+  "request_id": "926e9b19-2d48-4150-8c67-24fa115943d6"
+}
+================================================================================
+Attempt: 4
+Query: Edmund Mortimer film director actor biography career
+Full Tavily Payload:
+{
+  "query": "Edmund Mortimer film director actor biography career",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://mabumbe.com/movies/people/28877/edmund-mortimer",
+      "title": "Edmund Mortimer - Filmography, Age, Biography & More - Mabumbe",
+      "content": "Edmund Mortimer (21 August 1874 – 21 May 1944) was an American actor and film director. He appeared in 251 films between 1913 and 1945. He also directed 23",
+      "score": 0.85509074,
+      "raw_content": null
+    },
+    {
+      "url": "https://watch.plex.tv/person/edmund-mortimer",
+      "title": "Edmund Mortimer Movies and TV Shows - Plex",
+      "content": "Edmund Mortimer (21 August 1874 – 21 May 1944) was an American actor and film director. He appeared in 251 films between 1913 and 1945. He also directed 23",
+      "score": 0.8302782,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.themoviedb.org/person/98047-edmund-mortimer?language=en-US",
+      "title": "Edmund Mortimer — The Movie Database (TMDB)",
+      "content": "Edmund Mortimer (21 August 1874 – 21 May 1944) was an American actor and film director. He appeared in 251 films between 1913 and 1945. He also directed 23",
+      "score": 0.81875163,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0607864/",
+      "title": "Edmund Mortimer(1874-1944) - IMDb",
+      "content": "He was an actor and director, known for The Broad Road (1923), The Exiles (1923) and The Arizona Romeo (1925). He was married to Louise Bates. He died on 21 May",
+      "score": 0.6882385,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.tvwish.com/Celeb/Actor/Edmund-Mortimer/115866/Filmography",
+      "title": "Edmund Mortimer's Filmography on TV - TVWish",
+      "content": "He appeared in 251 films between 1913 and 1945. He also directed 23 films between 1918 and 1928. He was born in New York, New York and died in Los Angeles,",
+      "score": 0.5942929,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.37,
+  "request_id": "e9182511-1b5c-4ac6-af9c-1f9a0124a007"
+}

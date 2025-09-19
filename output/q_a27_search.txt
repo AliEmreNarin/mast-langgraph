@@ -1,0 +1,119 @@
+================================================================================
+Attempt: 1
+Query: The singer of "Sal de Mi Piel" was naturalized in what country?
+Full Tavily Payload:
+{
+  "query": "The singer of \"Sal de Mi Piel\" was naturalized in what country?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Belinda_Peregr%C3%ADn",
+      "title": "Belinda Peregrín - Wikipedia",
+      "content": "On 27 August 2009 EMI Televisa posted a video teaser of her new song \"Sal de Mi Piel ... the singer visiting various festivals throughout Latin America.",
+      "score": 0.44898248,
+      "raw_content": null
+    }
+  ],
+  "response_time": 0.97,
+  "request_id": "557a7493-2523-438c-9920-f99089b5114a"
+}
+================================================================================
+Attempt: 2
+Query: Belinda Peregrín nationality naturalized citizenship country
+Full Tavily Payload:
+{
+  "query": "Belinda Peregrín nationality naturalized citizenship country",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Belinda_Peregr%C3%ADn",
+      "title": "Belinda Peregrín - Wikipedia",
+      "content": "Belinda at the 24th Annual Hispanic Heritage Awards in Washington in 2010 ; Born, (1989-08-15) 15 August 1989 (age 36) · Madrid, Spain ; Citizenship. Spain; Mexico.",
+      "score": 0.81418616,
+      "raw_content": null
+    },
+    {
+      "url": "https://simple.wikipedia.org/wiki/Belinda_Peregr%C3%ADn",
+      "title": "Belinda Peregrín - Simple English Wikipedia, the free encyclopedia",
+      "content": "**Belinda Peregrín Schüll** (born 15 August 1989), is a Spanish-Mexican singer and actress. * *Utopía&action=edit&redlink=1 \"Utopía (Belinda Peregrín album) (not yet started)\")* (2006) * Tour Utopía&action=edit&redlink=1 \"Utopía (Belinda Peregrín album) (not yet started)\") (2007–2008) | 2019–2020 | *La Voz&action=edit&redlink=1 \"La Voz (Mexican TV series) (not yet started)\")* | Coach | First time working with TV Azteca |  | ↑ \"Belinda retrasa el lanzamiento de su nuevo álbum, Catarsis, al 26 de febrero de 2013 :: EMI Music Spain\". ↑ \"La experiencia de Belinda en 'Tadeo: el explorador perdido'\". ↑ \"Belinda prestará su voz a Poppy en la cinta 'Trolls'\". *El Informador&action=edit&redlink=1 \"El Informador (Mexico) (not yet started)\")* (in Mexican Spanish). ↑ \"Belinda y Randy triunfan en \"La Voz Kids\"\".",
+      "score": 0.79522943,
+      "raw_content": null
+    },
+    {
+      "url": "https://dbpedia.org/page/Belinda_Peregr%C3%ADn",
+      "title": "About: Belinda Peregrín - DBpedia",
+      "content": "Belinda Peregrín Schüll (born 15 August 1989 or 1992), mononymously known as Belinda, is a Spanish-Mexican singer, songwriter and actress.",
+      "score": 0.7548612,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0067893/bio/",
+      "title": "Belinda Peregrín - Biography - IMDb",
+      "content": "## Belinda Peregrín Edit Belinda Peregrín Schüll * Belinda is one of Mexico's stars, she is an actress and singer who was born in Spain. Mujeres asesinas 3 (2010) , Trolls (2016), Welcome to Eden (2022), Trolls World Tour (2022), Trolls Band Together (2023)   In 2024 he had a leading role in \"Who Killed Him?\", a series inspired by the murder of Paco Stanley, positioning itself as the #1 most viewed series in Mexico through Prime Video. On January 6, 2003, Belinda will give a Edit page * View agent, publicist, legal and company contact details on IMDbPro List Staff Picks: What to Watch in August List See the list ### User lists Create a list Belinda Peregrín",
+      "score": 0.66229486,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0067893/",
+      "title": "Belinda Peregrín - IMDb",
+      "content": "# Belinda Peregrín Belinda is one of Mexico's stars, she is an actress and singer who was born in Spain. - View contact info at IMDbPro Music Video + Belinda Music Video + Belinda Music Video + Belinda Music Video Music Video + Belinda (as Belinda) Music Video + Belinda (as Belinda) + Belinda Music Video + Belinda (as Belinda) Music Video + Belinda Music Video + Belinda (as Belinda) Music Video Music Video + Belinda * How old is Belinda Peregrín? * When was Belinda Peregrín born? * Where was Belinda Peregrín born? Belinda Peregrín Schüll * How tall is Belinda Peregrín? Keep track of how much of Belinda Peregrín’s work you have rated. Belinda Peregrín",
+      "score": 0.65279555,
+      "raw_content": null
+    }
+  ],
+  "response_time": 0.95,
+  "request_id": "07d76b31-063b-42d4-bb63-8b265e4e7df0"
+}
+================================================================================
+Attempt: 3
+Query: Belinda Peregrín naturalized Mexican citizenship when did she become Mexican citizen
+Full Tavily Payload:
+{
+  "query": "Belinda Peregrín naturalized Mexican citizenship when did she become Mexican citizen",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.namu.wiki/w/%EB%B2%A8%EB%A6%B0%EB%8B%A4%20%ED%8E%98%EB%A0%88%EA%B7%B8%EB%A6%B0",
+      "title": "Belinda Peregrine - NamuWiki",
+      "content": "He immigrated to Mexico City with his family in 1993 and acquired Mexican citizenship in 1996.[1] He debuted on TV in 2001 with a telenovela",
+      "score": 0.8591094,
+      "raw_content": null
+    },
+    {
+      "url": "https://simple.wikipedia.org/wiki/Belinda_Peregr%C3%ADn",
+      "title": "Belinda Peregrín - Simple English Wikipedia, the free encyclopedia",
+      "content": "**Belinda Peregrín Schüll** (born 15 August 1989), is a Spanish-Mexican singer and actress. * *Utopía&action=edit&redlink=1 \"Utopía (Belinda Peregrín album) (not yet started)\")* (2006) * Tour Utopía&action=edit&redlink=1 \"Utopía (Belinda Peregrín album) (not yet started)\") (2007–2008) | 2019–2020 | *La Voz&action=edit&redlink=1 \"La Voz (Mexican TV series) (not yet started)\")* | Coach | First time working with TV Azteca |  | ↑ \"Belinda retrasa el lanzamiento de su nuevo álbum, Catarsis, al 26 de febrero de 2013 :: EMI Music Spain\". ↑ \"La experiencia de Belinda en 'Tadeo: el explorador perdido'\". ↑ \"Belinda prestará su voz a Poppy en la cinta 'Trolls'\". *El Informador&action=edit&redlink=1 \"El Informador (Mexico) (not yet started)\")* (in Mexican Spanish). ↑ \"Belinda y Randy triunfan en \"La Voz Kids\"\".",
+      "score": 0.57322514,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Belinda_Peregr%C3%ADn",
+      "title": "Belinda Peregrín - Wikipedia",
+      "content": "Belinda Peregrín Schüll (born 15 August 1989), [a] known mononymously as Belinda, is a Mexican [8] singer and actress. She has lived in Mexico City since a",
+      "score": 0.5486983,
+      "raw_content": null
+    },
+    {
+      "url": "https://disney-wik.fandom.com/wiki/Belinda_Peregrin",
+      "title": "Belinda Peregrin | Disney Wik Wiki - Fandom",
+      "content": "Following her departure from Sony BMG and management in 2005, Belinda's second album Utopia (2006) earned her two Latin Grammy Awards nominations and was certified platinum in Mexico. Her fourth studio album Catarsis debuted at number one on the Mexican Chart, and was preceded by the hit singles \"En El Amor Hay Que Perdonar\" and \"En La Obscuridad\". Her international self-titled debut studio album Belinda was released in Mexico by Sony BMG and RCA Records on August 5, 2013. Her second studio album Utopia was released in late 2006 and peaked at No. 3 on the Mexican charts, selling over 1 million records worldwide; and included the hit single \"Ni Freud Ni Tu Mama\". Carpe Diem, Belinda's third studio album, was released on March 23, 2010.",
+      "score": 0.4877716,
+      "raw_content": null
+    },
+    {
+      "url": "https://dbpedia.org/page/Belinda_Peregr%C3%ADn",
+      "title": "About: Belinda Peregrín - DBpedia",
+      "content": "Belinda Peregrín Schüll (born 15 August 1989 or 1992), mononymously known as Belinda, is a Spanish-Mexican singer, songwriter and actress. She has lived in",
+      "score": 0.48689327,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.12,
+  "request_id": "4a1b2e61-856e-44df-ac4c-365a8adfbd0f"
+}

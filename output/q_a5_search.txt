@@ -10,42 +10,42 @@ Full Tavily Payload:
   "results": [
     {
       "url": "https://feastandwest.com/jack-and-coke/",
-      "title": "Jack & Coke",
-      "content": "Apr 5, 2023—You can serve a Jack & Coke in justabout any kind of glass. A lowball glass (or rocks glass*) is most common, but you can also serve it in a",
-      "score": 0.81665546,
+      "title": "Jack & Coke - Feast + West",
+      "content": "You can serve a Jack & Coke in just about any kind of glass. A lowball glass (or rocks glass *) is most common, but you can also serve it in",
+      "score": 0.8047902,
       "raw_content": null
     },
     {
       "url": "https://brainly.com/question/44814668",
-      "title": "What type of glass would a double tall Jack and Coke ... - Brainly",
-      "content": "Dec 20, 2023—The type of glass a double tall Jack and Coke would go in is aHighball glass(option B). Highball glasses are designed to hold beverages that",
-      "score": 0.6826801,
+      "title": "What type of glass would a double tall Jack and Coke go in ... - Brainly",
+      "content": "The type of glass a double tall Jack and Coke would go in is a Highball glass (option B). Highball glasses are designed to hold beverages that",
+      "score": 0.7166357,
       "raw_content": null
     },
     {
       "url": "http://www.crushedcocktails.com/oranjack-and-coke/",
       "title": "oranjack and coke - Crushed Cocktails",
-      "content": "Aug 22, 2013—Put whiskey and orange zest into a cocktail shaker with ice and shake well. Pour through a fine mesh strainer into aglasswith ice, and add",
-      "score": 0.3620896,
+      "content": "Put whiskey and orange zest into a cocktail shaker with ice and shake well. Pour through a fine mesh strainer into a glass with ice, and add",
+      "score": 0.38727367,
       "raw_content": null
     },
     {
       "url": "https://tenor.com/search/jack-and-coke-gifs",
-      "title": "Jack And Coke GIFs",
-      "content": "a man ispouringa drink from a bottleintoa cup . #Jack-Daniels · #whiskey · a bottle ofjackdaniel 's whiskey is beingpoured intoaglass. #jack· #daniels",
-      "score": 0.3258213,
+      "title": "Jack And Coke GIFs - Tenor",
+      "content": "a man is pouring a drink from a bottle into a cup . #Jack-Daniels · #whiskey · a bottle of jack daniel 's whiskey is being poured into a glass. #jack · #daniels",
+      "score": 0.35952207,
       "raw_content": null
     },
     {
-      "url": "https://www.reddit.com/r/alcohol/comments/nina8j/could_i_pre_mix_my_jack_and_coke/",
-      "title": "Could I pre mix my Jack and Coke : r/alcohol",
-      "content": "Generally highball drink are about a 1:3 ratio of liquor to mixer, so you should pour out around half a liter ofcokeand replace that withJack.",
-      "score": 0.22260757,
+      "url": "https://www.bottleneckmgmt.com/blog/which-glass-for-which-drink-using-correct-types-of-glassware/",
+      "title": "Which Glass For Which Drink? Using Correct Types of Glassware",
+      "content": "Skip to Main Content # Which Glass For Which Drink? * share * share * share * email Learn how to use glassware and select the correct type, whatever your tipple, with this handy guide. Different glassware has evolved in order to make each different drink better. Also used for Champagne cocktails. Another specialty drink with its own unique glassware, Margaritas were traditionally served in a margarita glass; a “stepped-diameter variant of a cocktail glass.” These may be rarely seen in general bars and homes, as it has become the norm to serve margaritas in many other vessels, from pint glasses to double Old Fashioned glasses. Join our rewards program  to be added to our email list where we share this content.",
+      "score": 0.13435538,
       "raw_content": null
     }
   ],
-  "response_time": 0.82,
-  "request_id": "9380afdf-a99d-478d-ad8c-cd5c5e1af6b5"
+  "response_time": 1.21,
+  "request_id": "0b9f9c4f-b411-42e9-87d8-20b094454c10"
 }
 ================================================================================
 Attempt: 2
@@ -58,41 +58,188 @@ Full Tavily Payload:
   "images": [],
   "results": [
     {
-      "url": "https://www.stepbystep.com/how-to-make-a-orange-tundra-cocktail-9351/",
-      "title": "How to Make a Orange Tundra Cocktail - StepByStep",
-      "content": "# How to Make a Orange Tundra Cocktail Orange Tundra Cocktail is a classic long drink prepared with Vodka, Orange Juice, Cream Soda and coffee liqueur (Kahlua). The Orange Tundra Cocktail is traditionally served over ice cubes in an old fashioned cocktail glass. This simple and original recipe of Orange Tundra Cocktail makes one drink but increase their amount if you want to make more drinks. Make sure to assemble all the ingredients properly in order to make the cocktail smoothly. Top the ice cubes with 25ml of Vodka, 25ml of coffee liqueur (Kahlua), 25ml of Cream Soda, and 25ml of Orange juice. Garnish your Orange Tundra Cocktail with a fresh cherry or an orange wheel, if you want. * Save.%20It%20will%20take%20you%20hardly%20five%20minutes%20as%20you%20just%20have%20to%20mix%20these%20ingredients%20in%20equal%20quantity.The%20history%20of%20this%20tempting%20cocktail%20shows%20that%20it%20was%20invented%20by%20Jalson%20Kane%20while%20attending%20Bowling%20Green%20State%20University%20in%20the%20year%202003.%20It%20gained%20popularity%20thereafter.The%20Orange%20Tundra%20Cocktail%20is%20traditionally%20served%20over%20ice%20cubes%20in%20an%20old%20fashioned%20cocktail%20glass.%20Therefore%2C%20the%20name%20of%20this%20amazing%20mixed%20cocktail%20is%20mostly%20recognized%20for%20its%20freezing%20temperature%20and%20outer%20shell%20of%20orange.%20The%20amazing%20yellowish%20color%20of%20the%20cocktail%20goes%20brilliant%20with%20a%20cherry%20or%20orange%20garnishing.This%20simple%20and%20original%20recipe%20of%20Orange%20Tundra%20Cocktail%20makes%20one%20drink%20but%20increase%20their%20amount%20if%20you%20want%20to%20make%20more%20drinks.%20Make%20sure%20to%20assemble%20all%20the%20ingredients%20properly%20in%20order%20to%20make%20the%20cocktail%20smoothly.Preparation%20Time%3A%205%20minutesServing%20Size%3A%2001Utensils%3A%20Highball%20Cocktail%20Glass%2C%20strawIngredients%3A-%2025ml%20Vodka-%2025ml%20Orange%20juice-%2025ml%20Cream%20Soda-%2025ml%20Kahlua%20(coffee%20liqueur)-%20Ice%20Cubes-%20Cherry%20or%20Lemon%20%2F%20Orange%20WheelNext%20stop%3A%20Pinterest)",
-      "score": 0.9237645,
-      "raw_content": null
-    },
-    {
-      "url": "https://hungryforever.net/recipe/orange-tundra-vodka-coffee-liqueur-orange-juice/",
-      "title": "Orange Tundra: Vodka, Coffee Liqueur, & Orange Juice",
-      "content": "### Recipes # Orange Tundra: Vodka, Coffee Liqueur, & Orange Juice Orange Tundra: Vodka, Coffee Liqueur, & Orange Juice Rate this recipe! * 25 ml vodka | |  |  | | --- | --- | | Course | Drinks |  |  |  | | --- | --- | | Prep Time | 5 minutes |  |  |  | | --- | --- | | Servings | MetricUS Imperial |  Ingredients  * 25 ml vodka * 25 ml coffee liqueur * 25 ml orange juice * 25 ml cream soda | Votes: 2  Rating: 3.5  You:  Rate this recipe! 1. Add the ingredients to a highball glass in the following order: vodka, cream soda, coffee liqueur, and finally orange juice.",
-      "score": 0.850382,
-      "raw_content": null
-    },
-    {
       "url": "https://www.tasteatlas.com/orange-tundra",
-      "title": "Orange Tundra | Local Cocktail From United States of America",
+      "title": "Orange Tundra | Local Cocktail From United States of ...",
       "content": "Log in with Facebook Log in with Google Log in Cocktail # Orange Tundra *Orange Tundra* is an American cocktail made with a combination of vodka, Kahlua, orange juice, and cream soda (a carbonated soft drink typically flavored with vanilla). To prepare it, an old-fashioned glass should first be filled with a few ice cubes, which are then topped with equal parts vodka, coffee liqueur, cream soda, and finally – orange juice. The cocktail is served unstirred, and it can be garnished with a cherry or an orange wheel. * Vodka Cherries ## Similar Cocktails Cocktail Cocktail ## Vodka Sunrise Cocktail Cocktail Cocktail Cocktail Cocktail ## Colorado Sunrise Cocktail Cocktail Cocktail Cocktail Cocktail ## Champagne Cocktail Cocktail ## Vodka Martini",
-      "score": 0.8235701,
+      "score": 0.8170061,
       "raw_content": null
     },
     {
-      "url": "https://en.wikipedia-on-ipfs.org/wiki/Orange_Tundra",
-      "title": "Orange Tundra - Uncensorable Wikipedia on IPFS",
-      "content": "The ingredients are added to the highball glass in the following order: vodka, cream soda, coffee liqueur and finally, orange juice. Although ice can be added,",
-      "score": 0.7458619,
+      "url": "https://www.socialandcocktail.co.uk/cocktails/orange-tundra/",
+      "title": "Orange Tundra",
+      "content": "Cocktails 25 ml Vodka, 25ml Coffee Liqueur, 25ml Orange Juice, 25ml Cream Soda Cream Soda, Orange Juice Add the ingredients to a highball glass in the following order: vodka, cream soda, coffee liqueur, and finally orange juice. ## Having a party? We deliver fun mobile cocktail-making classes for hen parties, 21st birthdays, corporate events, weddings, and private parties. ## Recommended cocktails ### French Martini ### Martini ### Daiquiri ### White Russian ### Amaretto Sour ### Gin Sour ### Champagne Cocktail ### Blueberry Collins ### Mojito Royal ### Alaska Cocktail ### French Martini ### Martini ### Daiquiri ### White Russian ### Amaretto Sour ### Gin Sour ### Champagne Cocktail ### Blueberry Collins ### Mojito Royal ### Alaska Cocktail",
+      "score": 0.74385756,
       "raw_content": null
     },
     {
-      "url": "https://www.milehighmitts.com/orange-thunder/",
-      "title": "Orange Thunder (easy, only 5 ingredients) - Mile High Mitts",
-      "content": "FILLED with orange flavor, quick, and easy, this Orange Thunder recipe is a great alcoholic drink to serve at your next football game party! So if you’re looking for a super festive and fun alcoholic Orange-colored drink, this is the drink for you! This is a great Halloween colored drink as well, perfect for a hot Summer day, or any orange color-themed party. **The basics to this drink are oranges, orange vodka, triple sec and orange soda.** Top each drink with an orange slice if you want them to look fancy! 2. To each glass add 2 shots of clementine vodka, 1 shot of triple sec, the juice of half an orange, and 1/2 of a can of orange soda.",
-      "score": 0.5837973,
+      "url": "https://brainly.infogalactic.com/info/Orange_Tundra",
+      "title": "Orange Tundra - Infogalactic: the planetary knowledge core",
+      "content": "Jan 1, 2016—Highball glass. Commonly used ingredients. vodka, Kahlúa, Creme Soda, and orange juice. Preparation, add vodka, cream soda, coffee liqueur",
+      "score": 0.7251239,
+      "raw_content": null
+    },
+    {
+      "url": "https://elevatedcraft.com/blogs/cocktail-recipes/tiki-tundra?srsltid=AfmBOoqoTZh-K8O_V5ChYJRVfWCMwS6wKLEuhlbgcocfD_ZJkyOk_Fk8",
+      "title": "Tiki Tundra Recipe",
+      "content": "Oct 4, 2024—Fill yourHybrid Cocktail Glasshalfway with crushed ice. In your Hybrid Cocktail Shaker, combine the vodka, coconut water, orange liqueur",
+      "score": 0.6238588,
+      "raw_content": null
+    },
+    {
+      "url": "https://us.inshaker.com/cocktails/900-tundra-libre",
+      "title": "Tundra Libre, Cocktail Recipe INSHAKER",
+      "content": "## Cocktail ingredients *Tundra libre* | Cranberry juice | 2 | oz | | Lime juice | 0.35 | oz | 1piece 1piece 1piece 1piece 1piece 1piece 2piece ## Cocktail recipe *Tundra libre* * Pour in 0.35 oz of lime juice, 0.75 oz of lychee syrup and 1.5 oz of white rum The 5 most popular cocktails in the world - Cosmopolitan,50 Shades of Oolong,Daiquiri,Rusty Nail,Vodka with Sprite 5 cocktails most similar to Tundra Libre - Traffic Light,Pink Rum,Foxy Lady,Soulful Punch,Missionary's Downfall TOP 5 popular cocktails with vodka - Cosmopolitan,Vodka with Sprite,Chuck Norris,Blue Lagoon,Traffic Light ### Popular cocktails with rum TOP 5 popular cocktails with rum - Daiquiri,Rum With Sprite,Rum With Orange Juice,Rum With Cranberry Juice,Rum With Apple Juice",
+      "score": 0.585789,
       "raw_content": null
     }
   ],
-  "response_time": 1.47,
-  "request_id": "635719eb-13c5-49b3-9de4-b68f10ffd92d"
+  "response_time": 0.92,
+  "request_id": "d33df06e-8920-4d23-8937-d161fd87c993"
+}
+================================================================================
+Attempt: 3
+Query: Jack and Coke cocktail glass types serving options
+Full Tavily Payload:
+{
+  "query": "Jack and Coke cocktail glass types serving options",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://brainly.com/question/44814668",
+      "title": "What type of glass would a double tall Jack and Coke go in ... - Brainly",
+      "content": "A double tall Jack and Coke is typically served in a Highball glass because it can accommodate a large amount of mixer and ice. ... Explanation.",
+      "score": 0.8415267,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.ebay.com/itm/385843795157",
+      "title": "Set of 2 Jack Daniels & Coke a Cola Tall Cocktail Glass 10 oz ... - eBay",
+      "content": "These 10 oz glasses are perfect for enjoying your favorite whiskey and soda in style. The glasses feature the iconic Jack Daniels and Coke a Cola logos, making",
+      "score": 0.6002124,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.crateandbarrel.com/dining-and-entertaining/types-of-cocktail-glasses-guide/1",
+      "title": "Types of Cocktail Glasses: A Bar Glass Guide | Crate & Barrel",
+      "content": "Tall and narrow, highball glasses are compatible with all sorts of libations, namely high cocktails such as Seven and Seven, Scotch and soda, and rum and Coke.",
+      "score": 0.5760895,
+      "raw_content": null
+    },
+    {
+      "url": "https://funkincocktailstrade.co.uk/blogs/tips/types-of-cocktail-glasses-which-glass-for-which-drink",
+      "title": "TYPES OF COCKTAIL GLASSES: WHICH GLASS FOR WHICH ...",
+      "content": "TYPES OF COCKTAIL GLASSES: WHICH GLASS FOR WHICH DRINK? · THE HIGHBALL · THE COLLINS · THE COUPE · THE MARTINI GLASS · THE ROCKS GLASS · THE SHOT GLASS · THE WINE",
+      "score": 0.3873432,
+      "raw_content": null
+    },
+    {
+      "url": "https://mullinsrentals.com/manage_blog/a-beginners-guide-to-drinkware-how-to-choose-the-right-glass-for-your-event/",
+      "title": "A Beginner's Guide to Drinkware: How to Choose the Right Glass for ...",
+      "content": "Cocktail glasses can be found in both stemmed and stemless varieties. The cocktail glass also comes in some modified shapes made for specialty",
+      "score": 0.3783448,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.03,
+  "request_id": "509852f5-c90e-4abe-90fd-6c5e3898ac55"
+}
+================================================================================
+Attempt: 4
+Query: "old fashioned glass" "rocks glass" same type of glass cocktail serving
+Full Tavily Payload:
+{
+  "query": "\"old fashioned glass\" \"rocks glass\" same type of glass cocktail serving",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.thekitchn.com/types-of-cocktail-glasses-23615354",
+      "title": "5 Types of Cocktail Glasses (Coupe, Highball & More) | The Kitchn",
+      "content": "Also known as an Old-Fashioned glass, the rocks glass is meant for drinks that are mixed and served in the same glass. A typical rocks glass",
+      "score": 0.8593928,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.waterford.com/en-us/discover-waterford/journal/inspiration/cocktail-glass-guide?srsltid=AfmBOoqOh7yw8XnYgC2buVhR4IstEeKpOy_5sCCd3os6mn98Q6FuBPte",
+      "title": "Types of Cocktail Glasses - Waterford",
+      "content": "A tumbler, also known as a rocks glass or old fashioned glass, is the right choice for straight liquor served neat or over ice. For a slow, contemplative drink",
+      "score": 0.8409005,
+      "raw_content": null
+    },
+    {
+      "url": "https://bevvy.co/glassware/old-fashioned-rocks-glass",
+      "title": "Drinks served in Old-Fashioned Glass - Bevvy",
+      "content": "Cocktails served in an old-fashioned glass are usually built right in the glass, or strained over fresh ice after stirring or shaking. What is a \"rocks glass\"?",
+      "score": 0.79099923,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.wineenthusiast.com/basics/how-to-serve/rocks-glass/?srsltid=AfmBOopy1KbjjnV-zKjAiUNg3LYUQwVA4mNTg3_k6IAOiTPzJf9-ru-c",
+      "title": "The Seemingly Basic Rocks Glass Is Actually Genius",
+      "content": "You'll often hear the rocks glass referred to as the Old Fashioned glass, thanks to the popularity of the classic cocktail, or a lowball glass.",
+      "score": 0.79041743,
+      "raw_content": null
+    },
+    {
+      "url": "https://tipsycocktailsupplyco.com/blogs/get-mixing-blog/rocks-glass-vs-old-fashioned-glass-whats-the-difference?srsltid=AfmBOoqzC6EdO6PjmL-xEYQZXhU9_Nv4t5-j9XWoIw__fWfT1_s2bss_",
+      "title": "Rocks Glass Vs. Old Fashioned Glass: What's The Difference?",
+      "content": "While closely resembling the rocks glass, the old-fashioned glass is most associated with the classic Old Fashioned cocktail—a mixture of",
+      "score": 0.7882741,
+      "raw_content": null
+    }
+  ],
+  "response_time": 0.95,
+  "request_id": "1a3b1840-6ba2-4387-9b1f-7247f5f399b1"
+}
+================================================================================
+Attempt: 5
+Query: Jack and Coke served in old fashioned glass rocks glass lowball glass
+Full Tavily Payload:
+{
+  "query": "Jack and Coke served in old fashioned glass rocks glass lowball glass",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.amazon.com/Daniels-Tennessee-Whiskey-Lowball-Glasses/dp/B01BCU79GY",
+      "title": "Jack Daniels Tennessee Whiskey Old No 7 Square Lowball Rocks ...",
+      "content": "Jack Daniels Tennessee Whiskey Old No 7 Square Lowball Rocks Glasses - Set of 2 ... Like new. Very nice and bright. No signs of use or wear. Not in original box.",
+      "score": 0.6021791,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.reddit.com/r/bartenders/comments/16owb1f/ordering_a_jack_and_coke/",
+      "title": "Ordering a jack and coke : r/bartenders - Reddit",
+      "content": "The normal amount (1.5oz) but more coke. The last two bars I was at served the drink in a rocks glass which is too strong tasting a drink for me.",
+      "score": 0.58237284,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.artofdrink.com/recipe/jack-and-coke",
+      "title": "Jack and Coke Recipe - Art of Drink",
+      "content": "In a double rocks glass, add ice · Pour in 2 oz of Coke · Add the Jack Daniel's · Top up with the remaining cola · Garnish with a lime or cherry",
+      "score": 0.5492786,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.etsy.com/market/jack_and_coke_glass",
+      "title": "Jack and Coke Glass - Etsy",
+      "content": "Check out our jack and coke glass selection for the very best in unique or custom, handmade pieces from our tumblers & water glasses shops.",
+      "score": 0.38810825,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.bottleneckmgmt.com/blog/which-glass-for-which-drink-using-correct-types-of-glassware/",
+      "title": "Which Glass For Which Drink? Using Correct Types of Glassware",
+      "content": "Skip to Main Content # Which Glass For Which Drink? * share * share * share * email Learn how to use glassware and select the correct type, whatever your tipple, with this handy guide. Different glassware has evolved in order to make each different drink better. Also used for Champagne cocktails. Another specialty drink with its own unique glassware, Margaritas were traditionally served in a margarita glass; a “stepped-diameter variant of a cocktail glass.” These may be rarely seen in general bars and homes, as it has become the norm to serve margaritas in many other vessels, from pint glasses to double Old Fashioned glasses. Join our rewards program  to be added to our email list where we share this content.",
+      "score": 0.20149915,
+      "raw_content": null
+    }
+  ],
+  "response_time": 0.83,
+  "request_id": "5f8043eb-e3ca-449a-b9ff-0b3e1988346b"
 }

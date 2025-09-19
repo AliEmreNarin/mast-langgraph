@@ -1,0 +1,98 @@
+================================================================================
+Attempt: 1
+Query: EqualityMaine was founded after the death that took place in what Maine city?
+Full Tavily Payload:
+{
+  "query": "EqualityMaine was founded after the death that took place in what Maine city?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/EqualityMaine",
+      "title": "EqualityMaine - Wikipedia",
+      "content": "**EqualityMaine** (formerly the **Maine Lesbian/Gay Political Alliance**) is Maine's oldest and largest lesbian, gay, bisexual, transgender, and queer (LGBTQ) political advocacy organization. Their mission, outlined on the organization's website is to \"secure equality for lesbian, gay, bisexual, and transgender people in Maine through political action, community organizing, education, and collaboration.\" EqualityMaine was founded as the Maine Lesbian/Gay Political Alliance (MLGPA) in 1984, following the murder of Charlie Howard. In 2009, EqualityMaine was one of the main supporters of a push to recognize same-sex marriage in Maine. EqualityMaine operates out of the Equality Community Center in Portland, Maine and maintains an active social media presence that broadcasts upcoming events related to LGBTQ causes.",
+      "score": 0.9291904,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.mainepublic.org/show/maine-calling/2019-06-26/lgbtq-life-in-maine-past-present-future",
+      "title": "LGBTQ+ Life in Maine: Past, Present & Future",
+      "content": "* Live TV stream Bangor Studio/Membership Department   Bangor, ME 04401   Lewiston Studio   Lewiston, ME 04240   Portland Studio   Portland, ME 04101   * Live TV stream Available On Air Stations Scroll down to see all available streams. July 7 is the 35th anniversary of the death of Charlie Howard in Bangor, the event which led to the founding of MLGPA, predecessor of Equality Maine. **Gia Drew**, program director, Equality Maine; one of Maine’s first OUT transgender teachers and one of the first transgender coaches in the country. * Bangor Daily News: Charlie: Thirty years after the killing of a young gay man shocked Bangor, his death is now remembered for its profound effect on Maine * Bangor Daily News: Wilde-Stein, UMaine's gay rights group, celebrates 40 years of change",
+      "score": 0.8047902,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.instagram.com/p/DL0wCw2vwcq/",
+      "title": "hate crime, drowning On July 7, 1984, Charlie Howard ... - Instagram",
+      "content": "Log In equalitymaine TW: hate crime, drowning   He was just 23 years old when he drowned. His death sparked a movement in Maine that has fought - and continues to fight - for our community’s rights. The progress made has been hard-won and marked with setbacks, losses, and hardships, but we have been inspired by Charlie for these 40 plus years. Heide attended the vigil commemorating Charlie’s life on June 7 in Bangor, where over 50 people threw white roses over the State Street Bridge in his memory. Reply Reply Reply View all 4 replies Reply Reply View all 4 replies Reply Reply Reply Reply Reply 949 likes Log in to like or comment. More posts from equalitymaine",
+      "score": 0.7038554,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.facebook.com/equalitymaine/posts/otd-in-1984-charlie-howard-was-thrown-from-a-bridge-and-killed-in-bangor-just-be/10156575317048067/",
+      "title": "EqualityMaine - Facebook",
+      "content": "EqualityMaine - #OTD in 1984, Charlie Howard was thrown... #OTD in 1984, Charlie Howard was thrown from a bridge and killed in Bangor just because he was gay. Their primary goals were to involve the lesbian and gay community in Maine’s political process, promote civil rights in Maine, develop and review legislation, endorse candidates, build coalitions and network with state and national human rights organizations. Image 2 Image 3 Image 4 Image 9 Charlie lived just down the street from me when I was a little girl. Image 14 Image 15 Image 16 That was terrible poor guy,why are people so hateful? Image 17 I remember hearing about that it was horrible just horrible I remember hearing about this.",
+      "score": 0.6964752,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.instagram.com/p/C8-XWYfPh40/",
+      "title": "It's been 40 years since Charlie Howard, a 23 year old gay man, was ...",
+      "content": "It's been 40 years since Charlie Howard, a 23 year old gay man, was murdered in Bangor for being gay. 📍Charlie Howard memorial, immediately behind 4 Hammond Street in Bangor   This Saturday, we will be cleaning up the area surrounding Charlie Howard's memorial in preparation for the anniversary of his murder. After the service at approximately 11:15am participants will walk from the church to the Kenduskeag Stream bridge on State Street, the site where Charlie Howard was murdered on July 7th, 1984. At 11:30 am Health Equity Alliance (HEAL) will hold a program at the Charlie Howard Memorial, followed by a committal of flowers into the Kenduskeag Stream in Charlie’s memory. Log in to like or comment. More posts from equalitymaine",
+      "score": 0.57723385,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.15,
+  "request_id": "a572517d-865e-4a89-a8c4-6c99225ef8b0"
+}
+================================================================================
+Attempt: 2
+Query: Charlie Howa murder Maine city location 1984
+Full Tavily Payload:
+{
+  "query": "Charlie Howa murder Maine city location 1984",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.facebook.com/DowntownBangor/posts/on-this-day-in-1984-charlie-howard-was-murdered-in-downtown-bangor-maine-at-the-/10159140022788886/",
+      "title": "Downtown Bangor - Facebook",
+      "content": "On this day in 1984, Charlie Howard was murdered in Downtown Bangor, Maine at the age of just 23 when three teenage men attacked him for being",
+      "score": 0.8377398,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.yahoo.com/news/gay-mans-murder-haunted-town-190002585.html",
+      "title": "The haunting true story of a gay man's murder that inspired Stephen ...",
+      "content": "On July 7th, 1984, three teenagers in Bangor, Maine, killed Charlie Howard for being gay. In the latter story, the **Bangor Daily News** subline immediately telegraphed Charlie's status as an outsider—\"Gay Bangor man's flamboyance may have made him a target.\" Charlie wore make-up, sported an earring, carried a purse, and \"didn't care who knew that he liked other men.\" The coverage emphasized Charlie's status as an outsider and sexual other by describing how he had \"drifted\" into Bangor from Ellsworth, Maine, after breaking up with \"his lover.\" Finally, Charlie lived in a rooming house that he paid for with \"welfare.\" Writing that Maine citizens had \"wisely rejected gay rights legislation\" four times in the past, **Bangor Daily** warned advocates against using Charlie Howard to pass pro-LGBTQ+ legislation.",
+      "score": 0.81097376,
+      "raw_content": null
+    },
+    {
+      "url": "https://bostonspiritmagazine.com/2019/07/portsmouth-maine-remembers-murder-and-legacy-of-charlie-howard/",
+      "title": "Portsmouth, Maine, remembers murder and legacy of Charlie Howard",
+      "content": "In July 1984, three teens threw 23-year-old Howard to his death off a bridge over the Kenduskeag Stream in Bangor. The city of Bangor holds an",
+      "score": 0.8098936,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Killing_of_Charlie_Howard",
+      "title": "Killing of Charlie Howard - Wikipedia",
+      "content": "The Bangor City Council and members of the lesbian, gay, bisexual, transgender and queer (LGBTQ) community have erected a monument along the Kenduskeag Stream honoring the memory of Charlie Howard as the victim of a hate crime. According to the *Bangor Daily News*, \"Baines was released after serving two years, and Mabry was released after 22 months.\" Charlie Howard was buried in Orchard Grove Cemetery\"), Kittery, Maine. Charlie Howard's murder inspired a similar scene in Bangor-native Stephen King's 1986 novel *It \"It (novel)\")*, in which three homophobic teenagers throw a young gay man, Adrian Mellon, over a bridge and into the Kenduskeag, where he was set upon and murdered by the novel's antagonist Pennywise.",
+      "score": 0.7552947,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.mainepublic.org/news/2024-07-07/sunday-marks-40th-anniversary-of-brutal-murder-of-charlie-howard-in-bangor",
+      "title": "Sunday marks 40th anniversary of brutal murder of Charlie Howard ...",
+      "content": "# Sunday marks 40th anniversary of brutal murder of Charlie Howard in Bangor Sunday marked the 40th anniversary of the murder of Charlie Howard, a young gay man from Bangor. Howard was walking with his friend on July 7, 1984, when three teenagers attacked him and threw him off of the State Street Bridge into the Kenduskeag Stream. Susan Willey-McKay, Council Chair of the Unitarian Universalist Society of Bangor, said there was little outrage about what happened to Howard at the time. The Unitarian Universalist Society of Bangor held a morning service for Howard, followed by a procession to the State Street Bridge where a wreath and flowers were thrown into the stream to remember Howard. After the ceremony people gathered at the Penobscot Theater Company in Bangor to process the morning's memorials.",
+      "score": 0.7434107,
+      "raw_content": null
+    }
+  ],
+  "response_time": 0.89,
+  "request_id": "b14da354-47e4-4443-8ad5-b4015a2cb4a3"
+}

@@ -1,0 +1,49 @@
+================================================================================
+Attempt: 1
+Query: What university in Logan Utah owns Space Dynamics Laboratory?
+Full Tavily Payload:
+{
+  "query": "What university in Logan Utah owns Space Dynamics Laboratory?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Space_Dynamics_Laboratory",
+      "title": "Space Dynamics Laboratory - Wikipedia",
+      "content": "**Space Dynamics Laboratory** (**SDL**) is a nonprofit government contractor owned by Utah State University. Together with Utah State University, SDL has completed over 420 successful space missions and deployed over 500 independent hardware and software systems into space. SDL was formed in 1982 from the merger of Utah State University's Electro Dynamics Laboratories (founded in 1959) and the University of Utah's Upper Air Research Laboratory (founded in 1948). SDL origins date back to 1948 with experiments by the University of Utah Upper Air Research Laboratory (UARL) to measure electron density in the upper atmosphere of Earth utilizing German V-2 rockets. In 1959, the Electro-Dynamics Laboratories (EDL) was founded at Utah State University. Space Dynamics Laboratory, Utah State University.",
+      "score": 0.9556888,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.usu.edu/today/story/space-dynamics-laboratory-recognizes-graduating-student-employees",
+      "title": "Space Dynamics Laboratory Recognizes Graduating Student ...",
+      "content": "Headquartered on Utah State University's Innovation Campus in North Logan, Utah, SDL is an independent nonprofit corporation owned by USU.",
+      "score": 0.9020676,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.usu.edu/today/story/space-dynamics-laboratory-recognized-as-one-of-utahs-top-100-companies-championing-women",
+      "title": "Space Dynamics Laboratory Recognized as One of Utah's Top 100 ...",
+      "content": "Headquartered on Utah State University's Innovation Campus in North Logan, the Space Dynamics Laboratory is a nonprofit organization and a",
+      "score": 0.8993429,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.cachevalleydaily.com/news/usu-space-dynamics-lab-has-a-new-department-of-defense-sponsor/article_be231ddf-d06d-4b20-ab9b-73ea1f6201c0.html",
+      "title": "USU Space Dynamics Lab has a new Department of Defense sponsor",
+      "content": "# USU Space Dynamics Lab has a new Department of Defense sponsor NORTH LOGAN - Utah State University’s Space Dynamics Laboratory (SDL) has a new Department of Defense University Affiliated Research Center (UARC) Sponsor. Dr. Jed Hancock, SDL President, said SDL’s long-standing commitment to advance technologies for national defense reflects a deep alignment with the space mission of the Department of the Air Force. USU’s Innovative Campus in North Logan, Utah is headquarters for the Space Dynamic Lab. SDL field offices are located in Huntsville, AL, Ogden, UT, Albuquerque, NM, Chantilly VA and Stafford, VA. * Utah State University’s Space Dynamics Laboratory * GALLERY: Fallen Officer Procession in Tremonton and Logan * GALLERY: Green Canyon 8, Bear River 0 girls soccer",
+      "score": 0.86713725,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.usu.edu/today/story/space-dynamics-lab-receives-new-department-of-defense-sponsorship",
+      "title": "Space Dynamics Lab Receives New Department of Defense ...",
+      "content": "SDL is headquartered on Utah State University's Innovation Campus in North Logan, UT. SDL has field offices in Albuquerque, NM; Chantilly",
+      "score": 0.85216236,
+      "raw_content": null
+    }
+  ],
+  "response_time": 0.98,
+  "request_id": "196fa476-fe3d-4718-abfc-d8872def4e47"
+}

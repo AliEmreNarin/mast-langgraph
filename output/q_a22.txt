@@ -1,0 +1,42 @@
+QUESTION:
+What One Direction member helped write Just Hold On?
+
+GROUND TRUTH ANSWER:
+Louis Tomlinson
+================================================================================
+Attempt: 1
+Query: What One Direction member helped write Just Hold On?
+Results:
+  [1] Search Result | 
+
+--- Prompt ---
+You are a careful researcher. Use ONLY the context below.
+
+Question:
+What One Direction member helped write Just Hold On?
+
+Context (web search results):
+[1] Search Result
+URL: 
+Snippet: {'query': 'What One Direction member helped write Just Hold On?', 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://onedirection.fandom.com/wiki/Just_Hold_On', 'title': 'Just Hold On | One Direction Wiki - Fandom', 'content': "It was produced and co-written by DJ Steve Aoki. The single was released on December 10, 2016, primarily as a tribute to Louis's mother, Johannah Deakin, who", 'score': 0.8282873, 'raw_content': None}, {'url': 'https://www.rollingstone.com/music/music-news/watch-louis-tomlinson-steve-aoki-discuss-partying-swapping-careers-109549/', 'title': 'Watch Louis Tomlinson, Steve Aoki Discuss Partying, Swapping ...', 'content': 'Louis Tomlinson and Steve Aoki both took sharp left turns with their music when the pair joined forces to create
+
+
+Instructions:
+- If the context is sufficient, produce a concise answer with inline citations [1], [2], etc.
+- If the context is insufficient, do NOT guess; instead propose ONE improved web search query that would likely retrieve the needed info.
+- If question requires multiple queries, than divide the question into multiple questions and propose one query for each question.
+
+Output format (must follow exactly):
+ANSWER: <your answer or say "I don't know based on the context">
+FOLLOW_UP_QUERY: <a single refined query or "none">
+
+--- Raw Reasoning Output ---
+ANSWER: Based on the provided context, Louis Tomlinson is the One Direction member who helped write "Just Hold On." The song was produced and co-written by DJ Steve Aoki, and Louis Tomlinson collaborated with Steve Aoki to create this track [1].
+
+FOLLOW_UP_QUERY: none
+
+--- Model Answer (this attempt) ---
+Based on the provided context, Louis Tomlinson is the One Direction member who helped write "Just Hold On." The song was produced and co-written by DJ Steve Aoki, and Louis Tomlinson collaborated with Steve Aoki to create this track [1].
+
+FOLLOW_UP_QUERY: none
+--------------------------------------------------------------------------------

@@ -1,0 +1,42 @@
+QUESTION:
+Monk Turner won the Free Music Archive's competition to create a copyright-free replacement for a based on what melody?
+
+GROUND TRUTH ANSWER:
+"Good Morning to All"
+================================================================================
+Attempt: 1
+Query: Monk Turner won the Free Music Archive's competition to create a copyright-free replacement for a based on what melody?
+Results:
+  [1] Search Result | 
+
+--- Prompt ---
+You are a careful researcher. Use ONLY the context below.
+
+Question:
+Monk Turner won the Free Music Archive's competition to create a copyright-free replacement for a based on what melody?
+
+Context (web search results):
+[1] Search Result
+URL: 
+Snippet: {'query': "Monk Turner won the Free Music Archive's competition to create a copyright-free replacement for a based on what melody?", 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://en.wikipedia.org/wiki/Monk_Turner#:~:text=In 2013, WFMU and the,Birthday!” won the contest.', 'title': 'Monk Turner - Wikipedia', 'content': 'In 2013, WFMU and the Free Music Archive held a competition to create a copyright-free version of the ubiquitous “Happy Birthday to You', 'score': 0.8473754, 'raw_content': None}, {'url': 'https://freemusicarchive.org/blog/meet-monk-turner/', 'title': 'Meet Monk Turner', 'content': "Jul 2, 2025—Itwonthe FMA and WFMU's 2013contesttocreateacopyright-free alternative to“Happy Birthday to You,” which at the time was still owned", 'score'
+
+
+Instructions:
+- If the context is sufficient, produce a concise answer with inline citations [1], [2], etc.
+- If the context is insufficient, do NOT guess; instead propose ONE improved web search query that would likely retrieve the needed info.
+- If question requires multiple queries, than divide the question into multiple questions and propose one query for each question.
+
+Output format (must follow exactly):
+ANSWER: <your answer or say "I don't know based on the context">
+FOLLOW_UP_QUERY: <a single refined query or "none">
+
+--- Raw Reasoning Output ---
+ANSWER: Based on the provided context, Monk Turner won the Free Music Archive's competition to create a copyright-free replacement for "Happy Birthday to You" [1]. The context indicates that in 2013, WFMU and the Free Music Archive held a competition to create a copyright-free version of "Happy Birthday to You," and Monk Turner's entry won the contest [1].
+
+FOLLOW_UP_QUERY: none
+
+--- Model Answer (this attempt) ---
+Based on the provided context, Monk Turner won the Free Music Archive's competition to create a copyright-free replacement for "Happy Birthday to You" [1]. The context indicates that in 2013, WFMU and the Free Music Archive held a competition to create a copyright-free version of "Happy Birthday to You," and Monk Turner's entry won the contest [1].
+
+FOLLOW_UP_QUERY: none
+--------------------------------------------------------------------------------

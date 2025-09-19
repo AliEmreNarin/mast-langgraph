@@ -1,0 +1,49 @@
+================================================================================
+Attempt: 1
+Query: Stingray Brava is a Dutch cultural television channel aimed at the Dutch and Belgian market, the productions consists of stage performances such as Swan Lake, a ballet composed by who in 1875–76?
+Full Tavily Payload:
+{
+  "query": "Stingray Brava is a Dutch cultural television channel aimed at the Dutch and Belgian market, the productions consists of stage performances such as Swan Lake, a ballet composed by who in 1875–76?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Stingray_Brava",
+      "title": "Stingray Brava - Wikipedia",
+      "content": "Stingray Brava (formerly Brava) was a cultural television channel originated in the Netherlands, owned by the Stingray Group in Canada.",
+      "score": 0.8018276,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.gocomgo.com/dutch-national-opera/swan-lake/82488",
+      "title": "Dutch National Opera 1 April 2023 - Swan Lake | GoComGo.com",
+      "content": "Swan Lake is a ballet composed by Pyotr Ilyich Tchaikovsky in 1875–76. Despite its initial failure, it is now one of the most popular of all",
+      "score": 0.76152116,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.facebook.com/100076326785525/videos/swan-lake-op-20-is-a-ballet-composed-by-russian-composer-pyotr-ilyich-tchaikovsk/1260572574682880/",
+      "title": "Swan Lake Op. 20 is a ballet composed by Russian ... - Facebook",
+      "content": "Swan Lake Op. 20 is a ballet composed by Russian composer Pyotr Ilyich Tchaikovsky in 1875–76. It is one of the most popular ballets of all",
+      "score": 0.73207545,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.dailymotion.com/video/x8fdven",
+      "title": "Tchaikovsky: Swan Lake, Op. 20, Act I: X. The Flight of Swans (excerpt)",
+      "content": "Swan Lake, Op. 20 is a ballet composed by Pyotr Ilyich Tchaikovsky in 1875–76. Despite its initial failure, it is now one of the most popular ballets of all",
+      "score": 0.69622743,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=trm7IRfztq8",
+      "title": "Tchaikovsky: Swan Lake, ballet, Op. 20 (with Score) - YouTube",
+      "content": "Pyotr Ilyich Tchaikovsky: Swan Lake, ballet, Op. 20, TH 12, ČW 12 (with Score) Composed: 1875-76 Orchestra: Orchestre symphonique de",
+      "score": 0.58976424,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.76,
+  "request_id": "897acca4-97a4-4f98-a15e-a0e1eeba3b73"
+}

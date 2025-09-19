@@ -1,0 +1,98 @@
+================================================================================
+Attempt: 1
+Query: When was the album that featured the song "Power" by the group EXO released digitally?
+Full Tavily Payload:
+{
+  "query": "When was the album that featured the song \"Power\" by the group EXO released digitally?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_War_(album)",
+      "title": "The War (album) - Wikipedia",
+      "content": "***The War*** (stylized in all caps) is the fourth studio album by South Korean boy band Exo. It was released on July 18, 2017, by SM Entertainment under Genie Music's distribution. On the same day, the title of the re-packaged album was revealed to be *The War: The Power of Music* and that it would be released on September 5, 2017, with 12 tracks including the lead single \"Power \"Power (Exo song)\")\". *The War: The Power of Music* topped the South Korean Gaon Album Chart for two consecutive weeks. * \"The War: The Power of Music - 2017 Gaon Album Chart - Week 36\". * \"The War: The Power of Music - Gaon Album Chart – September, 2017\".",
+      "score": 0.81489426,
+      "raw_content": null
+    },
+    {
+      "url": "https://exo.fandom.com/wiki/The_War_(album)",
+      "title": "The War (album) | EXO Wiki - Fandom",
+      "content": "On the same day, the title of the re-packaged album was revealed to be The War: The Power of Music and that it will be released on September 5, 2017 with 12 tracks including the title track \"Power\". On August 31, it was revealed that the album will include new three songs \"Power\", \"Sweet Lies\", and \"Boomerang\", along with the original nine songs of The War. On September 4, a poster of the repackaged album and \"Power\" music video teaser were released. According to Osen, Exo have recorded album sales of approximately 1,012,021 copies in the span of 24 days, making The War the second fastest album in Gaon Chart history to achieve this milestone. The War: The Power of Music topped the South Korean Gaon Album Chart for two consecutive weeks.",
+      "score": 0.79769903,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.wikiwand.com/en/articles/The_War_(album)",
+      "title": "The War (album) - Wikiwand",
+      "content": "The album was re-released under the title _**The War: The Power of Music**_ on September 5, 2017.#cite_note-:2-3) This was the first Exo release not to feature member Lay, who began an indefinite hiatus shortly before the music video for \"Ko Ko Bop\" was filmed,#cite_note-4) and the last album to be separately released in both Korean and Chinese language. The third teaser titled \"Power #RF_05\" was released on August 30.#cite_note-15) On the same day, the title of the re-packaged album was revealed to be _The War: The Power of Music_ and that it would be released on September 5, 2017, with 12 tracks including the lead single \"Power \"Power (Exo song)\")\".#cite_note-16)#cite_note-17) SM started releasing teaser images of each member from August 30.#cite_note-18)#cite_note-19) On August 31, it was revealed that the album would include new three songs \"Power\", \"Sweet Lies\", and \"Boomerang\", along with the original nine songs of _The War_.#cite_note-:1-20) On September 4, a poster of the repackaged album and \"Power\" music video teaser were released.#cite_note-21)#cite_note-22) The repackaged album and its three new tracks were released on September 5.#cite_note-:2-3)",
+      "score": 0.76992935,
+      "raw_content": null
+    },
+    {
+      "url": "https://a.osmarks.net/content/wikipedia_en_all_maxi_2020-08/A/The_War_(album)",
+      "title": "The War (album)",
+      "content": "The group started promoting the repackaged edition The War: The Power of Music by performing \"Power\" on South Korean music shows on September 7.[20] On",
+      "score": 0.6617704,
+      "raw_content": null
+    },
+    {
+      "url": "https://chartmasters.org/exo-albums-and-songs-sales/",
+      "title": "EXO albums and songs sales - ChartMasters",
+      "content": "The War and global tours (2017-2018). The group's 2017 album The War and its repackaged version, The War: The Power of Music, featured the reggae-inspired hit",
+      "score": 0.507251,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.42,
+  "request_id": "e2c9fad0-d4be-4f96-9ba6-8d1583da61e8"
+}
+================================================================================
+Attempt: 2
+Query: EXO "The War: The Power of Music" digital release date September 2017
+Full Tavily Payload:
+{
+  "query": "EXO \"The War: The Power of Music\" digital release date September 2017",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://kpop.fandom.com/wiki/The_War:_The_Power_of_Music",
+      "title": "The War: The Power of Music | Kpop Wiki - Fandom",
+      "content": "It was released on September 5, 2017 with \"Power\" serving as the album's title track. On international digital platforms, the repackage was released as a four-track EP titled *The Power of Music*, including the three new songs and the instrumental version of \"Power\". * \"Power\" music video: Korean / Chinese These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks.",
+      "score": 0.93191636,
+      "raw_content": null
+    },
+    {
+      "url": "https://exo.fandom.com/wiki/The_War_(album)",
+      "title": "The War (album) | EXO Wiki - Fandom",
+      "content": "On the same day, the title of the re-packaged album was revealed to be The War: The Power of Music and that it will be released on September 5, 2017 with 12 tracks including the title track \"Power\". On August 31, it was revealed that the album will include new three songs \"Power\", \"Sweet Lies\", and \"Boomerang\", along with the original nine songs of The War. On September 4, a poster of the repackaged album and \"Power\" music video teaser were released. According to Osen, Exo have recorded album sales of approximately 1,012,021 copies in the span of 24 days, making The War the second fastest album in Gaon Chart history to achieve this milestone. The War: The Power of Music topped the South Korean Gaon Album Chart for two consecutive weeks.",
+      "score": 0.92260116,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.wikiwand.com/en/articles/The_War_(album)",
+      "title": "The War (album) - Wikiwand",
+      "content": "The album was re-released under the title _**The War: The Power of Music**_ on September 5, 2017.#cite_note-:2-3) This was the first Exo release not to feature member Lay, who began an indefinite hiatus shortly before the music video for \"Ko Ko Bop\" was filmed,#cite_note-4) and the last album to be separately released in both Korean and Chinese language. The third teaser titled \"Power #RF_05\" was released on August 30.#cite_note-15) On the same day, the title of the re-packaged album was revealed to be _The War: The Power of Music_ and that it would be released on September 5, 2017, with 12 tracks including the lead single \"Power \"Power (Exo song)\")\".#cite_note-16)#cite_note-17) SM started releasing teaser images of each member from August 30.#cite_note-18)#cite_note-19) On August 31, it was revealed that the album would include new three songs \"Power\", \"Sweet Lies\", and \"Boomerang\", along with the original nine songs of _The War_.#cite_note-:1-20) On September 4, a poster of the repackaged album and \"Power\" music video teaser were released.#cite_note-21)#cite_note-22) The repackaged album and its three new tracks were released on September 5.#cite_note-:2-3)",
+      "score": 0.9121316,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.kpopalbums.com/products/exo-the-war-the-power-of-music-4th-repackage-korean-ver-cd-graphic-novel-comics-character-cards-double-cards-group-card-manual-random-card-k-pop-sealed-exo-the-power-of-music-4th-kr?srsltid=AfmBOoo0JXiMfST0t0rCQCT6pOd03cr1ZwVdaRZc6--O46liLqwT-Xx0",
+      "title": "EXO - [The War:The Power Of Music] (4th Repackage KOREAN ...",
+      "content": "EXO - [The War:The Power Of Music] 4th Repackage KOREAN Version. Release Date: September 6, 2017. Contents (per version):. 1 CD; 1 Graphic Novel Comics",
+      "score": 0.9049283,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.kpopalbums.com/products/exo-the-war-the-power-of-music-4th-repackage-chinese-ver-cd-graphic-novel-comics-character-cards-double-cards-group-card-manual-random-card-k-pop-sealed-exo-the-power-of-music-4th-cn?srsltid=AfmBOor6_50fk-eDMiA1fxeqADLz59JBN5_YjbXWRx4_eGlllcoJm53j",
+      "title": "EXO - [The War:The Power Of Music] (4th Repackage CHINESE ...",
+      "content": "EXO - [The War:The Power Of Music] 4th Repackage CHINESE Version. Release Date: September 6, 2017. Contents (per version):. 1 CD; 1 Graphic Novel Comics",
+      "score": 0.9047265,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.28,
+  "request_id": "55199c24-3a48-4050-ae24-2d0826d9d546"
+}

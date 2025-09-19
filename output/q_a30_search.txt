@@ -1,0 +1,98 @@
+================================================================================
+Attempt: 1
+Query: When did the Scottish king who exiled John forbes die?
+Full Tavily Payload:
+{
+  "query": "When did the Scottish king who exiled John forbes die?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Forbes_(Alford_minister)",
+      "title": "John Forbes (Alford minister) - Wikipedia",
+      "content": "John Forbes (c.1568–1634) was a Scottish minister exiled by James VI and I. He founded a Church of Scotland in Middelburg in the Netherlands.",
+      "score": 0.86713725,
+      "raw_content": null
+    },
+    {
+      "url": "https://spows.org/battle-of-dunbar/battle-of-dunbar-prisoners-of-war/battle-of-dunbar-prisoner-profiles/john-forbes-1/",
+      "title": "Forbes, John (1) | Scottish Prisoners of War Society",
+      "content": "1. JOHN¹ FORBES, was born, presumably in Scotland about 1627 and died in 1661. Sources and Notes: Dr. Andrew Millard says, “According",
+      "score": 0.7123327,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.wikitree.com/wiki/Forbes-59",
+      "title": "John Forbes (abt.1568-1634) | WikiTree FREE Family Tree",
+      "content": "Not sure where his death in Aberdeen comes from. According to this lengthy modern, highly sourced article about him, he died in August 1634 in Vere in the",
+      "score": 0.70067,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Forbes,_John_(1593-1648)",
+      "title": "Dictionary of National Biography, 1885-1900/Forbes, John (1593 ...",
+      "content": "He died 29 April 1648, and was buried in the churchyard of Leochel. He had lived an eminently devout and Christian life, and was emphatically 'a",
+      "score": 0.69697046,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Forbes_(theologian,_born_1593)",
+      "title": "John Forbes (theologian, born 1593) - Wikipedia",
+      "content": "He returned to Aberdeen in July 1646, and spent the remainder of his life in seclusion at Corse. He died there on 29 April 1648 and was buried in the",
+      "score": 0.65887916,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.08,
+  "request_id": "ae83d522-9020-444f-95b2-c49f70e6ffe1"
+}
+================================================================================
+Attempt: 2
+Query: When did King James VI and I of Scotland die?
+Full Tavily Payload:
+{
+  "query": "When did King James VI and I of Scotland die?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/James_VI_and_I",
+      "title": "James VI and I - Wikipedia",
+      "content": "James VI and I (James Charles Stuart; 19 June 1566 – 27 March 1625) was King of Scotland as James VI from 24 July 1567 and King of England and Ireland as James",
+      "score": 0.9581049,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Death_and_funeral_of_James_VI_and_I",
+      "title": "Death and funeral of James VI and I - Wikipedia",
+      "content": "James VI and I (1566–1625), King of England, Scotland, and Ireland, died on 27 March 1625 at Theobalds, and was buried at Westminster Abbey on 7 May 1625.",
+      "score": 0.9438932,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.facebook.com/BritishMonarchy.co.uk/posts/onthisday-27-march-1625james-vi-i-died-aged-58after-about-the-age-of-fifty-james/1218812186281272/",
+      "title": "#OnThisDay - 27 March 1625 James VI & I died aged 58 ... - Facebook",
+      "content": "#OnThisDay - 27 March 1625 James VI &... James VI & I died aged 58 In early 1625, James was plagued by severe attacks of arthritis, gout & fainting fits, & in March fell seriously ill with tertian ague & then suffered a stroke. James finally died at Theobalds House on 27 March during a violent attack of dysentery, with the Duke of Buckingham at his bedside. Image 1: 👑 James VI and I (born. 19 June 1566) was King of Scotland as James VI from 24 July 1567 & King of England & Ireland as James I from the union of the Scottish & English crowns on 24 March 1603 until his death.",
+      "score": 0.910998,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.royal.uk/james-vi-and-i-r-1567-1625",
+      "title": "James VI and I (r. 1567-1625) | The Royal Family",
+      "content": "He died on 27 March 1625. Share this article: Facebook Twitter. Related content.",
+      "score": 0.90330297,
+      "raw_content": null
+    },
+    {
+      "url": "https://encyclopediavirginia.org/entries/james-vi-and-i-1566-1625/",
+      "title": "James VI and I (1566–1625) - Encyclopedia Virginia",
+      "content": "After suffering a stroke, James died at his favorite hunting lodge, Theobalds, on March 27, 1625. He was fifty-eight. He was buried on May 5, 1625, under",
+      "score": 0.8430832,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.14,
+  "request_id": "4a206790-f0e1-453e-8aea-5364ca8ed6ad"
+}

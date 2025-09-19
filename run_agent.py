@@ -35,7 +35,7 @@ def main():
     out_dir.mkdir(parents=True, exist_ok=True)
 
     df = load_dataset('fullwiki', 'train')
-    sampled = df.sample(n=5, random_state=123).reset_index(drop=True)
+    sampled = df.sample(n=50, random_state=123).reset_index(drop=True)
 
     for idx, (_, row) in enumerate(sampled.iterrows(), start=1):
         question = str(row.get('question', '')).strip()
@@ -48,7 +48,7 @@ def main():
         # Use a stable thread id per question to persist memory across runs
         sample_id = str(row.get('id', f'train-{idx}'))
         thread_id = f"hotpot-{sample_id}"
-        state = run_multi_agent(question, max_attempts=2, search_log_path=str(search_log_path), thread_id=thread_id)
+        state = run_multi_agent(question, max_attempts=5, search_log_path=str(search_log_path), thread_id=thread_id)
         log_path = out_dir / f"q_a{idx}.txt"
         write_interaction_log(log_path, question, ground_truth_answer, state)
 

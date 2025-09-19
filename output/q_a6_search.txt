@@ -1,0 +1,147 @@
+================================================================================
+Attempt: 1
+Query: How long is the loop for the 2016 installment of the rally which owes its origin to Ed Pearlman?
+Full Tavily Payload:
+{
+  "query": "How long is the loop for the 2016 installment of the rally which owes its origin to Ed Pearlman?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.facebook.com/groups/BerkeleyCountyGrowth/posts/3741968446108496/",
+      "title": "Hwy 6 leaving Moncks Corner at Country Corner. Haven't moved in ...",
+      "content": "Hwy 6 leaving Moncks Corner at Country Corner. Haven't moved in 20 minutes. The conversation revolves around the first day of school in",
+      "score": 0.014151942,
+      "raw_content": null
+    },
+    {
+      "url": "https://npshistory.com/publications/vall/hrs.pdf",
+      "title": "[PDF] Historic Resource Study: Valles Caldera National Preserve",
+      "content": "This route has a long historical lineage, its use having been documented for a hundred years or more. Regarding its existence on the well-known Miera y",
+      "score": 0.0063100904,
+      "raw_content": null
+    },
+    {
+      "url": "https://foia.state.gov/downloads/documents/Print354.pdf",
+      "title": "[PDF] report for the committee on foreign relations - State Department FOIA",
+      "content": "----, VM-cit-itxr -----4 WM, 5(4.014S4 AA e,V4.0 4, ,,,,, AA'akAeetvt) __,...44 _ P -?gi\"- r;\"111MAI , yn ,i, , , ?1; , , , - tii14_ uziaLi ce-ixa—ds-ite;) , 6O ill, it:uygz .4titt )1,4 , • e..44 °Lc 2 q attuted G,,L,AA, -i7 mt 5)4) 6,-,,,., , SHEET FOR 30 DAYS ' , 4C- ;-x%_____ RETAIN COVER P 2 -° 6 m 24 1 2 Use Previous Editions SFCRET 0 0 0 2 9 CONTROL AND COVER SHEET FOR DEPARTMENT OF EYES ONLY DO CONTROL NO.",
+      "score": 0.005843184,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.jonesday.com/-/media/files/publications/2013/02/business-restructuring-review/files/business-restructuring-review/fileattachment/brr-janfeb-2013.pdf",
+      "title": "[PDF] Business Restructuring Review - Jones Day",
+      "content": "The U.S. Labor Department reported on January 4, 2013, that American employers added 155,000 jobs in December, leaving the unemploy­ ment rate unchanged at 7.8 percent, the level at which it has more or less remained since September. The new figures show investors still seek­ ing the perceived safety of U.S. Treasuries, even as lawmakers and President Obama remain at odds over whether to raise the U.S. borrowing limit as part of a broader deal to avert the “fiscal cliff.” December 19 UBS AG agrees to pay a record 1.4 billion Swiss francs ($1.5 billion) to U.S., U.K., and Swiss regulators to settle allegations of “pervasive” and “epic” efforts to manipulate interbank lending rates as two of its former traders face the first criminal charges in the worldwide LIBOR scandal.",
+      "score": 0.0057889754,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.chabadruralgeorgia.com/echos-sinai-torah-everyone",
+      "title": "Echos from Sinai - Torah for Everyone | www.chabadruralgeorgia.com",
+      "content": "September 11, 2025. Why Israel Alone Must Defend Its Right to Exist. This month, as the United Nations once again questioned Israel's right to exist,",
+      "score": 0.0054740696,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.1,
+  "request_id": "37d933a8-c960-4e98-ad07-e98f47e7065b"
+}
+================================================================================
+Attempt: 2
+Query: Ed Pearlman rally origin 2016 loop length
+Full Tavily Payload:
+{
+  "query": "Ed Pearlman rally origin 2016 loop length",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.topgear.com/car-news/big-reads/tg-does-mexico-1000",
+      "title": "TG does the Mexico 1000 | Top Gear",
+      "content": "First, some history. The Mexico 1000 was actually the original race down Baja. Conceived by a chap named Ed Pearlman back in the late",
+      "score": 0.1638601,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Off-road_racing",
+      "title": "Off-road racing - Wikipedia",
+      "content": "# Off-road racing Off-road racing Main article: Short course off-road racing Australian off-road racing has a similar format to North America, involving various classes of highly-modified vehicles with differing level of engine and physical restrictions racing anywhere from 20-600 kilometres usually over a weekend. | Types | * Desert racing * Short course off-road racing | | Types of off-roading | * Off-road racing * Green laning * Baja \"Baja (cross-country rally)\") * Beach racing * BMX * Desert racing * Dirt track racing * Dune bashing * Enduro * Formula Off Road * Mud bogging * Motocross   + Side car cross * Observed trials * Rallycross * Rally raid * Rock crawling * Short course off-road racing | * Off-road racing",
+      "score": 0.02876438,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Baja_1000",
+      "title": "Baja 1000 - Wikipedia",
+      "content": "| 2004 | Ensenada-La Paz | Troy Herbst  Larry Roeseler | Smithbuilt-Ford | 16:18:14 | Steve Hengeveld  Johnny Campbell  Kendall Norman | Honda XR650R | 15:57:37 | | 2006 | Ensenada-La Paz | Andy McMillin  Robby Gordon | Chevrolet | 19:15:17 | Steve Hengeveld  Mike Childress  Quinn Cody | Honda CRF450X | 18:17:50 | | 2008 | Ensenada-Ensenada | Roger Norman \"Roger Norman (racing driver)\")  Larry Roeseler | Ford | 12:40:33 | Robby Bell  Kendall Norman  Johnny Campbell | Honda CRF450X | 12:29:10 | | 2021 | Ensenada-La Paz | Luke McMillin Rob MacCachren | Chevrolet TT | 20:45:59 | Justin Morgan  Mark Samuels  Brandon Prieto  Kendall Norman | Honda CRF450X | 23:07:18 |",
+      "score": 0.02863371,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.facebook.com/groups/330998710746354/posts/2189851858194354/",
+      "title": "Identify location of 1948 photo in Dayton - Facebook",
+      "content": "History Of The Daytonians | My dad took this photo in 1948 | Facebook Forgot Account? Image 1 History Of The Daytonians | My dad took this photo in 1948 ========================================================== --------------------------------------------------------------------------------------------------------------------- · 89.1K members Join group History Of The Daytonians ·  Join My dad took this photo in 1948. Looks like a sunburst on the wall. Image 3 Image 4 73 comments Like Comment All comments Well it's on some kind of water a river a lake and the building behind the trees is not a building it's a water tower. Image 5Image 6 Image 7 Looks to me like the Ridge side of Booneshoft. Image 8 View more comments Password Forgot password? Image 9",
+      "score": 0.010819515,
+      "raw_content": null
+    },
+    {
+      "url": "https://bhamla.gatech.edu/s/pnas2220404120.pdf",
+      "title": "[PDF] The origin of blinking in both mudskippers and tetrapods is linked to ...",
+      "content": "This pattern also mirrors humans, where the duration of eye closure in corneal reflexive blinks is shorter than endogenous blinks (41).",
+      "score": 0.0076904455,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.06,
+  "request_id": "dd89ef06-0d01-4faf-8743-4c0ec976152f"
+}
+================================================================================
+Attempt: 3
+Query: Baja 1000 2016 loop length distance miles
+Full Tavily Payload:
+{
+  "query": "Baja 1000 2016 loop length distance miles",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.discoverbaja.com/event/score-baja-1000/",
+      "title": "Score Baja 1000 - Discover Baja Travel Club",
+      "content": "The 49th SCORE Baja 100 will take place from November 16-20, 2016. The loop race will begin in Ensenada, Baja California and is approximately 800 miles.",
+      "score": 0.90227455,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.offroadxtreme.com/news/its-a-loop-2016-score-baja-1000/",
+      "title": "It's A Loop: 2016 SCORE Baja 1000",
+      "content": "The 2015 SCORE Baja 1000 will be a loop race running approximately 840 miles, much longer than past loop races ranging around 600 miles.",
+      "score": 0.8891543,
+      "raw_content": null
+    },
+    {
+      "url": "https://score-international.com/score-news-story.php?newsID=571",
+      "title": "SEMA SCORE BAJA 1000 EXPERIENCE - SCORE-International.com",
+      "content": "Race Dates: Nov. 15-20, Season Finale of the 2016 SCORE World Desert Championship; Race Distance/Location: 854.50 miles, loop race around Mexico's Baja",
+      "score": 0.88799405,
+      "raw_content": null
+    },
+    {
+      "url": "https://artofgears.com/2016/11/18/49th-annual-score-baja-1000-live-steam-and-schedule/",
+      "title": "49th Annual SCORE BAJA 1000 Live Steam and Schedule",
+      "content": "Course Length: 854 Miles (1374.3 Km) ; Course Time Limit: 36 Hours – Minimum average speed 23.72 mph.",
+      "score": 0.8095324,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.off-road.com/blog/2016/10/03/course-map-unveiled-for-49th-score-baja-1000/",
+      "title": "Course Map Unveiled for 49th SCORE Baja 1000 - Off-Road.com",
+      "content": "The approximately 830-mile course covers both sides of the peninsula and includes four checkpoints. The race will have its normal start from",
+      "score": 0.68798697,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.12,
+  "request_id": "985f3510-c636-4c32-aa80-33765cf3c652"
+}

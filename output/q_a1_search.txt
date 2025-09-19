@@ -9,6 +9,13 @@ Full Tavily Payload:
   "images": [],
   "results": [
     {
+      "url": "https://halloweencouncil.com/how-halloween-games-and-traditions-started-a-journey-through-spooky-history/",
+      "title": "How Halloween Games and Traditions Started: A Journey Through ...",
+      "content": "The roots of our beloved Halloween games stretch back thousands of years to the ancient Celtic festival of Samhain. Picture this: Irish and",
+      "score": 0.6063825,
+      "raw_content": null
+    },
+    {
       "url": "https://www.ireland.ie/en/australia/sydney/news-and-events/news-archive/the-ancient-irish-origins-of-halloween-or-samhain/",
       "title": "The Ancient Irish Origins of Hallowe'en or Samhain - Ireland.ie",
       "content": "We would like to bring some Irish Halloween celebrations to Australia, so come with us on a magical journey to Connemara, where we will share with you some of the games and stories that we play and recite to celebrate Halloween. This has now morphed into a popular Halloween game called apple on a string! Times have changed somewhat since then, so we have a more contemporary version of the game, in addition to the traditional one, which some adults might still like to try out! This game - like the apple on a string and apple bobbing - is a fortune telling game, and lots of fun for all the family!",
@@ -35,64 +42,204 @@ Full Tavily Payload:
       "content": "Once upon a long time, stretching far after the middle ages when three Catholic festivals of All Hallow’s Eve, All Saint’s Day, and All Soul’s Day replaced the Celtic harvest festival Samhain (pronounced “sow-in” and meaning “summer’s end”), divination games and spells were as much a part of traditional Halloween celebrations as trick-or-treating is today. ​  --- You might also like: |  |  |  | | --- | --- | --- | | **Divining By Apple Spice Cake and Halloween Cupcake Charms** | **Samhain Tarot Spread** | **Why I Don't With Ouija Boards** |    13 Comments  Krang link  7/12/2023 08:18:42 am  Lovelyy blog you have  Reply  Evvie  7/12/2023 04:10:19 pm  Thanks ever so!",
       "score": 0.38671768,
       "raw_content": null
-    },
-    {
-      "url": "https://www.piquenewsmagazine.com/maxed-out/maxed-out-a-brief-history-of-the-witch-games-just-in-time-for-halloween-6013308",
-      "title": "Maxed Out: A brief history of the Witch Games, just in time for ...",
-      "content": "# Maxed Out: A brief history of the Witch Games, just in time for Halloween Which witch is best? Let me, on this eve of Halloween, tell you a story of the cultural height of witchery, a little-known quadrennial gathering of the clans, a chance for witches from around the world to come together in spirited camaraderie to showcase their skills and powers against others who, like them, believed they were the best at their particular craft. So much so the WOC president proclaimed them “The best Games ever!” Alas, the witches’ timing was not as prescient as their highly vaunted ability to see the future. The Games were resurrected in 1480, held again in the Tyrol, considered by then the permanent home of the Witch Games.",
-      "score": 0.3474712,
-      "raw_content": null
     }
   ],
-  "response_time": 1.37,
-  "request_id": "202bdd50-2a42-4f06-a54c-e5e6fdfe43b3"
+  "response_time": 1.39,
+  "request_id": "6a866c7e-d56d-4852-9876-9bf70964254d"
 }
 ================================================================================
 Attempt: 2
-Query: origin history of Halloween games traditions ancient Celtic Samhain rituals
+Query: origins of Halloween games Celtic Samhain festival history
 Full Tavily Payload:
 {
-  "query": "origin history of Halloween games traditions ancient Celtic Samhain rituals",
+  "query": "origins of Halloween games Celtic Samhain festival history",
   "follow_up_questions": null,
   "answer": null,
   "images": [],
   "results": [
     {
-      "url": "https://www.history.com/articles/samhain",
-      "title": "Samhain - Traditions, Halloween, Wicca - History.com",
-      "content": "# Samhain Samhain (a Gaelic word pronounced “sow-win”) is a pagan religious festival originating from an ancient Celtic spiritual tradition. Halloween pranks also have a tradition in Samhain, though in the ancient celebration, tricks were typically blamed on fairies. Wicca celebration of Samhain takes on many forms, from the traditional fire ceremonies to celebrations that embrace many aspects of modern Halloween, as well as activities related to honoring nature or ancestors. Wiccans look at Samhain as the passing of the year, and incorporate common Wiccan traditions into the celebration. In the Druid tradition, Samhain celebrates the dead with a festival on October 31 and usually features a bonfire and communion with the dead. Samhain. :   Samhain :   History",
-      "score": 0.79369855,
+      "url": "https://pucafestival.com/history-of-halloween/",
+      "title": "History of Halloween – Celtic Samhain Origins - Puca Festival",
+      "content": "Halloween's roots trace back over two millennia to the Celtic festival of Samhain, celebrated in what is now County Meath, Ireland.",
+      "score": 0.81097376,
+      "raw_content": null
+    },
+    {
+      "url": "https://persephoneshearth.com/blogs/news/the-history-of-samhain-from-ancient-celtic-festival-to-halloweens-magical-origins?srsltid=AfmBOoqH8-ACgOXjvrzpYSaexuIUzhj93Zp2ek_atAUUb8D8za1V1Bc0",
+      "title": "The History of Samhain: From Ancient Celtic Festival to Halloween's ...",
+      "content": "The origins of Samhain are deeply rooted in ancient Celtic traditions, with the festival's sacred spaces centered around Neolithic passage tombs",
+      "score": 0.77994305,
       "raw_content": null
     },
     {
       "url": "https://blogs.loc.gov/headlinesandheroes/2021/10/the-origins-of-halloween-traditions/",
       "title": "The Origins of Halloween Traditions | Headlines & Heroes",
       "content": "Yet, the Halloween holiday has its roots in the ancient Celtic festival of Samhain (a Gaelic word pronounced “SAH-win”), a pagan religious",
-      "score": 0.7781275,
+      "score": 0.7463059,
       "raw_content": null
     },
     {
-      "url": "https://halloweencouncil.com/how-halloween-games-and-traditions-started-a-journey-through-spooky-history/",
-      "title": "How Halloween Games and Traditions Started: A Journey Through ...",
-      "content": "The tradition of telling ghost stories around Halloween emerged from the Celtic belief that spirits were most active during Samhain. Families",
-      "score": 0.7208996,
+      "url": "https://www.history.com/articles/samhain",
+      "title": "Samhain - Traditions, Halloween, Wicca - History.com",
+      "content": "# Samhain Samhain (a Gaelic word pronounced “sow-win”) is a pagan religious festival originating from an ancient Celtic spiritual tradition. Halloween pranks also have a tradition in Samhain, though in the ancient celebration, tricks were typically blamed on fairies. Wicca celebration of Samhain takes on many forms, from the traditional fire ceremonies to celebrations that embrace many aspects of modern Halloween, as well as activities related to honoring nature or ancestors. Wiccans look at Samhain as the passing of the year, and incorporate common Wiccan traditions into the celebration. In the Druid tradition, Samhain celebrates the dead with a festival on October 31 and usually features a bonfire and communion with the dead. Samhain. :   Samhain :   History",
+      "score": 0.72884524,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Samhain",
+      "title": "Samhain - Wikipedia",
+      "content": "Samhain is believed to have Celtic pagan origins, and some Neolithic passage tombs in Great Britain and Ireland are aligned with the sunrise at the time of",
+      "score": 0.63777614,
+      "raw_content": null
+    }
+  ],
+  "response_time": 0.87,
+  "request_id": "e2a1e269-d1b5-4a1c-9ef3-83051a09eb02"
+}
+================================================================================
+Attempt: 3
+Query: Celtic Samhain Halloween games divination rituals apple bobbing fortune telling origins
+Full Tavily Payload:
+{
+  "query": "Celtic Samhain Halloween games divination rituals apple bobbing fortune telling origins",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.saintsandscholars.com/blog/exploring-irish-halloween-from-fortune-telling-games-to-age-old-superstitions",
+      "title": "Exploring Irish Halloween: From Fortune Telling Games to Age-Old ...",
+      "content": "Apple bobbing is a well-known Halloween game. But did you know it has deep roots in Celtic tradition? Each floating apple represents a potential",
+      "score": 0.72348577,
       "raw_content": null
     },
     {
       "url": "https://irishmyths.com/2021/10/01/history-of-halloween-traditions/",
       "title": "6 Halloween Rituals Rooted in the Ancient Celtic Festival of Samhain",
       "content": "# 6 Halloween Rituals Rooted in the Ancient Celtic Festival of Samhain What’s more, they invented the spookiest festival of all time, Samhain, which — after tinkering from Christian hijackers — would eventually become the harvest-time holiday we know and love today: Halloween. > The specific connection between apples, fortune-telling and Halloween goes back to the Celtic festival Samhain. Long before anyone was carving pumpkins on Halloween, the ancient Irish were carving faces into turnips, beets, and potatoes on Samhain and sticking coals or candles inside of them to create lanterns. In order to understand why black and orange became the colors of Halloween, we once again need to look back to Halloween’s Celtic progenitor, Samhain.",
-      "score": 0.7106489,
+      "score": 0.6937432,
       "raw_content": null
     },
     {
-      "url": "https://heritagemuseumoc.org/halloween/",
-      "title": "Halloween | Heritage Museum of Orange County",
-      "content": "Halloween, also known as All Hallows Eve, has its origins in the ancient Celtic pagan religious festival Samhain.",
-      "score": 0.69697046,
+      "url": "https://irishmyths.com/2022/10/12/bobbing-for-apples/",
+      "title": "Why Do We Bob for Apples on Halloween? - Irish Myths",
+      "content": "Bobbing for apples on Halloween is a tradition with deep roots in Celtic paganism. Learn how Samhain inspired this fruit-filled frenzy.",
+      "score": 0.6829338,
+      "raw_content": null
+    },
+    {
+      "url": "https://irishtraditions.org/2023/09/28/samhains-sight-ancient-celtic-ways-of-foreseeing-the-future/",
+      "title": "Samhain's Sight: Ancient Celtic Ways of Foreseeing the Future",
+      "content": "Here are some of the traditional Celtic divination practices associated with Samhain: Apple Bobbing: This is perhaps one of the most well-known",
+      "score": 0.6490677,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.atlasobscura.com/articles/the-forgotten-halloween-games-that-predict-who-youll-marryand-when-youll-die",
+      "title": "The Forgotten Halloween Games That Predict Who You'll Marry ...",
+      "content": "It’s sometimes called “snap-apple,” and like bobbing for apples, it comes from a pantheon of mostly forgotten All Hallows’ Eve traditions from the British Isles. And like snap apple, the games played with these foods had much more dramatic stakes than the ones we play today. Among all the food traditions of Halloween, apples appear most often. Bobbing for apples, or “snapping” one suspended on the ceiling from a string (a safer version of snap apple) could reveal the future of your love life: in one version, if you got the apple first, you’d have happy love—or, in another, you’d be the first married. There were other Halloween augurs, too, that could foretell death: like snap apple, these games were not kidding around.",
+      "score": 0.5999311,
       "raw_content": null
     }
   ],
-  "response_time": 0.91,
-  "request_id": "659b4f90-47fc-4ce9-9586-001114c193e8"
+  "response_time": 1.0,
+  "request_id": "c74f4e13-ab80-4a31-a1a6-e3dc3cb0cd41"
+}
+================================================================================
+Attempt: 4
+Query: complete history Celtic Samhain divination games apple bobbing mirror gazing fortune telling Halloween origins
+Full Tavily Payload:
+{
+  "query": "complete history Celtic Samhain divination games apple bobbing mirror gazing fortune telling Halloween origins",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.ireland.ie/en/australia/sydney/news-and-events/news-archive/the-ancient-irish-origins-of-halloween-or-samhain/",
+      "title": "The Ancient Irish Origins of Hallowe'en or Samhain - Ireland.ie",
+      "content": "We would like to bring some Irish Halloween celebrations to Australia, so come with us on a magical journey to Connemara, where we will share with you some of the games and stories that we play and recite to celebrate Halloween. This has now morphed into a popular Halloween game called apple on a string! Times have changed somewhat since then, so we have a more contemporary version of the game, in addition to the traditional one, which some adults might still like to try out! This game - like the apple on a string and apple bobbing - is a fortune telling game, and lots of fun for all the family!",
+      "score": 0.48996773,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.saintsandscholars.com/blog/exploring-irish-halloween-from-fortune-telling-games-to-age-old-superstitions",
+      "title": "Exploring Irish Halloween: From Fortune Telling Games to Age-Old ...",
+      "content": "Bobbing for Apples and Snap Apple. Apple bobbing is a well-known Halloween game. But did you know it has deep roots in Celtic tradition? Each",
+      "score": 0.47533798,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.vam.ac.uk/blog/news/halloween-and-divination?srsltid=AfmBOopMYb_NgKhmVLm_D_4_bHc0xiUv30TfTkbrwrCTVSHLiFf2ctj1",
+      "title": "Halloween and Divination • V&A Blog",
+      "content": "In Halloween, fortune-telling methods were used by means of traditional Samhain symbols such as apples and nuts, in order to tell the future and seek answers",
+      "score": 0.4600226,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.interrobangtarot.com/blog/historical-halloween-divination-games-and-spells",
+      "title": "Historical Halloween Divination Games and Spells - Interrobang Tarot",
+      "content": "Once upon a long time, stretching far after the middle ages when three Catholic festivals of All Hallow’s Eve, All Saint’s Day, and All Soul’s Day replaced the Celtic harvest festival Samhain (pronounced “sow-in” and meaning “summer’s end”), divination games and spells were as much a part of traditional Halloween celebrations as trick-or-treating is today. ​  --- You might also like: |  |  |  | | --- | --- | --- | | **Divining By Apple Spice Cake and Halloween Cupcake Charms** | **Samhain Tarot Spread** | **Why I Don't With Ouija Boards** |    13 Comments  Krang link  7/12/2023 08:18:42 am  Lovelyy blog you have  Reply  Evvie  7/12/2023 04:10:19 pm  Thanks ever so!",
+      "score": 0.45246392,
+      "raw_content": null
+    },
+    {
+      "url": "https://thehorrorofbeingemily.com/blog/halloween-divination-games/",
+      "title": "Halloween Divination Games - The Horror of Being Emily",
+      "content": "Being so common, it is no surprise that unwed young ladies used apples in their fortune-telling games. ... Eat eight apple slices while gazing into the mirror.",
+      "score": 0.3916624,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.61,
+  "request_id": "c5b13ac7-6243-4acd-8ef1-3ff96afbd357"
+}
+================================================================================
+Attempt: 5
+Query: ancient Celtic Samhain divination rituals Halloween games complete list origins Ireland
+Full Tavily Payload:
+{
+  "query": "ancient Celtic Samhain divination rituals Halloween games complete list origins Ireland",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://irishmyths.com/2021/10/01/history-of-halloween-traditions/",
+      "title": "6 Halloween Rituals Rooted in the Ancient Celtic Festival of Samhain",
+      "content": "# 6 Halloween Rituals Rooted in the Ancient Celtic Festival of Samhain What’s more, they invented the spookiest festival of all time, Samhain, which — after tinkering from Christian hijackers — would eventually become the harvest-time holiday we know and love today: Halloween. > The specific connection between apples, fortune-telling and Halloween goes back to the Celtic festival Samhain. Long before anyone was carving pumpkins on Halloween, the ancient Irish were carving faces into turnips, beets, and potatoes on Samhain and sticking coals or candles inside of them to create lanterns. In order to understand why black and orange became the colors of Halloween, we once again need to look back to Halloween’s Celtic progenitor, Samhain.",
+      "score": 0.61363083,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.ireland.ie/en/australia/sydney/news-and-events/news-archive/the-ancient-irish-origins-of-halloween-or-samhain/",
+      "title": "The Ancient Irish Origins of Hallowe'en or Samhain - Ireland.ie",
+      "content": "We would like to bring some Irish Halloween celebrations to Australia, so come with us on a magical journey to Connemara, where we will share with you some of the games and stories that we play and recite to celebrate Halloween. This has now morphed into a popular Halloween game called apple on a string! Times have changed somewhat since then, so we have a more contemporary version of the game, in addition to the traditional one, which some adults might still like to try out! This game - like the apple on a string and apple bobbing - is a fortune telling game, and lots of fun for all the family!",
+      "score": 0.6033015,
+      "raw_content": null
+    },
+    {
+      "url": "https://realirish.com/blogs/news/how-samhain-became-halloween-irish-halloween-origins?srsltid=AfmBOorQgMT1CRpJI42jEJv2YjMSepLQuuITK_qaJNaqTJF1qoKi8Uo7",
+      "title": "How Samhain Became Halloween: Irish Halloween Origins | Real Irish",
+      "content": "Samhain (it rhymes with “plow in”) is an ancient Celtic festival celebrated to mark the end of the harvest season and the beginning of winter.",
+      "score": 0.599087,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.wildernessireland.com/blog/origins-of-halloween-ireland-samhain/",
+      "title": "The Irish Origins of Halloween - Samhain - Wilderness Ireland",
+      "content": "Today wildly popular in America with costumed children as well as made famous by Mexico’s Day of the Dead, the festival of Halloween actually originated in Ireland as a pagan festival called Samhain (pronounced *saw-when),*with traditions stretching back thousands of years. ## The Festival of Samhain & the Origins of Halloween **Read on to find out more about the Irish origins of Halloween.** ## Irish Halloween / Samhain FAQs Today, practicing the ancient festival of Samhain has drastically diminished in Ireland, but the tradition carries on all over the world under the guise of Halloween. **Visit Ireland this Samhain for a spooky Halloween adventure!**",
+      "score": 0.5923135,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.aletterfromireland.com/samhain-old-irish-traditions-halloween/",
+      "title": "Samhain – Old Irish Traditions and Games at Halloween",
+      "content": "# Samhain – Old Irish Traditions and Games at Halloween #### Samhain – Old Irish Traditions and Games at Halloween As we head towards Halloween, or “Oíche Shamhna” in Irish (pronounced “Eeha-How-na”), I’m reminded of the many games and old Irish traditions that have been part of an Irish Halloween for generations. ## **Old Irish Traditions and Games at Halloween.** While not a game per se, the Halloween bonfire was central to many old Irish traditions at Halloween. Many Irish communities now host Halloween festivals that feature these games, allowing a new generation to experience the magic and mystery of a traditional Irish Samhain. As you celebrate Halloween this year, why not try your hand at some of these old Irish games?",
+      "score": 0.57723385,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.06,
+  "request_id": "63318f26-0778-4c53-8561-b0a017372d34"
 }

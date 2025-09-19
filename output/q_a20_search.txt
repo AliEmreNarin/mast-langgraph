@@ -1,0 +1,98 @@
+================================================================================
+Attempt: 1
+Query: Wawa Welcome America is a celebration that takes place at what East Coast chain of stores?
+Full Tavily Payload:
+{
+  "query": "Wawa Welcome America is a celebration that takes place at what East Coast chain of stores?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://july4thphilly.com/",
+      "title": "Wawa Welcome America: Home",
+      "content": "Wawa Welcome America is Philadelphia's July 4th celebration of free, family-friendly programming across the city.",
+      "score": 0.69199765,
+      "raw_content": null
+    },
+    {
+      "url": "https://july4thphilly.com/about/",
+      "title": "About - Wawa Welcome America",
+      "content": "Wawa Welcome America is Philadelphia's premier summer festival that celebrates freedom and independence from Juneteenth to July 4th!",
+      "score": 0.6688159,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.independenceparkhotel.com/blog/wawa-welcome-america-fourth-july-celebration",
+      "title": "Experience Wawa Welcome America Festival - A Fourth of July Party",
+      "content": "Wawa Welcome America is a week-long festival that honors America's history and celebrates the Fourth of July. It features a wide range of events and activities.",
+      "score": 0.52130115,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.visitphilly.com/things-to-do/events/wawa-welcome-america/",
+      "title": "A Guide to Wawa Welcome America, Philly's 16-Day July 4th Fest",
+      "content": "Look no further than **Wawa Welcome America**, the largest Independence Day celebration in the nation (and one of the largest free festivals in the country — period). Philly residents and visitors alike can expect dozens of free and festive events, including concerts, free museum days, community programs, parades, fireworks and more during the 16-day celebration. All of the fun culminates on the Fourth of July with an **epic free concert**, featuring Latin Grammy Award-winning artist **Álvaro Díaz** and Grammy Award-winning icon **JoJo****,** on the Benjamin Franklin Parkway and a **dazzling fireworks display** over the Philadelphia Museum of Art. Wawa Welcome America curates an incredible lineup of over 50 events, ranging from beloved annual traditions like Wawa Hoagie Day (two words: free hoagies) to the iconic July 4th Concert and Fireworks on the Parkway.",
+      "score": 0.37999994,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.wawa.com/2024-welcome-america",
+      "title": "2025 Wawa Welcome America!",
+      "content": "Wawa is proud to be the title sponsor of Wawa Welcome America. Enjoy 16 days of FREE family-friendly fun including history, learning, concerts, fireworks, Wawa",
+      "score": 0.3793789,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.24,
+  "request_id": "4d72b9ca-021e-4df5-bb56-8ed0b2a0a134"
+}
+================================================================================
+Attempt: 2
+Query: What is Wawa store chain East Coast convenience stores
+Full Tavily Payload:
+{
+  "query": "What is Wawa store chain East Coast convenience stores",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Wawa_(company)",
+      "title": "Wawa (company) - Wikipedia",
+      "content": "Wawa, Inc is an American chain of convenience stores and gas stations originating in the Philadelphia metropolitan area and located along the East Coast of",
+      "score": 0.9016528,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.facebook.com/PABucketList/posts/wawa-a-popular-convenience-store-chain-on-the-east-coast-of-the-united-states-be/683544514325779/",
+      "title": "Wawa, a popular convenience store chain on the East Coast of the ...",
+      "content": "Wawa has grown to operate over 1,100 stores along the East Coast, offering a wide range of food, beverages, and fuel services. Wawa stores",
+      "score": 0.8138313,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.facebook.com/groups/301080196930990/posts/2502069596832028/",
+      "title": "Wawa's history as a convenience store chain - Facebook",
+      "content": "Wawa is now an American chain of convenience stores and gas stations located along the Eastern Seaboard. But, it began in 1803 as an iron",
+      "score": 0.79254496,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.reddit.com/r/todayilearned/comments/1izwakm/til_that_wawa_inc_a_popular_chain_of_convenience/",
+      "title": "TIL that Wawa Inc., a popular chain of convenience stores on the US ...",
+      "content": "TIL that Wawa Inc., a popular chain of convenience stores on the US East Coast, is 41% owned by its employees. r/todayilearned - TIL that Wawa",
+      "score": 0.76002824,
+      "raw_content": null
+    },
+    {
+      "url": "https://cspdailynews.com/top-202-convenience-stores-2024/wawa-inc",
+      "title": "Wawa Inc. - CSP Daily News",
+      "content": "Wawa Inc. is one of the nation's most well-respected convenience-store chains, particularly when it comes to foodservice.",
+      "score": 0.6628188,
+      "raw_content": null
+    }
+  ],
+  "response_time": 0.89,
+  "request_id": "f5ebc05a-bb52-4a00-af5b-17094c6392c5"
+}

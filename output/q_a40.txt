@@ -1,0 +1,42 @@
+QUESTION:
+Morgan Carroll unsuccessfully ran against Mike Coffman for which of Colorado's congressional district?
+
+GROUND TRUTH ANSWER:
+Colorado's 6th congressional district
+================================================================================
+Attempt: 1
+Query: Morgan Carroll unsuccessfully ran against Mike Coffman for which of Colorado's congressional district?
+Results:
+  [1] Search Result | 
+
+--- Prompt ---
+You are a careful researcher. Use ONLY the context below.
+
+Question:
+Morgan Carroll unsuccessfully ran against Mike Coffman for which of Colorado's congressional district?
+
+Context (web search results):
+[1] Search Result
+URL: 
+Snippet: {'query': "Morgan Carroll unsuccessfully ran against Mike Coffman for which of Colorado's congressional district?", 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://www.cbsnews.com/amp/colorado/news/state-sen-carroll-to-challenge-coffman-in-colorados-6th-congressional-district/', 'title': "State Sen. Carroll To Challenge Coffman In Colorado's 6th ...", 'content': "Jul 7, 2015—Democratic state Sen.Morgan Carrollwill challenge Republican U.S. Rep.Mike CoffmanforColorado's6thCongressional District.", 'score': 0.81524754, 'raw_content': None}, {'url': 'https://sentinelcolorado.com/uncategorized/state-sen-morgan-carroll-makes-official-her-battle-against-mike-coffman-for-auroras-congressional-seat/', 'title': 'State Sen. Morgan Carroll makes official her ba
+
+
+Instructions:
+- If the context is sufficient, produce a concise answer with inline citations [1], [2], etc.
+- If the context is insufficient, do NOT guess; instead propose ONE improved web search query that would likely retrieve the needed info.
+- If question requires multiple queries, than divide the question into multiple questions and propose one query for each question.
+
+Output format (must follow exactly):
+ANSWER: <your answer or say "I don't know based on the context">
+FOLLOW_UP_QUERY: <a single refined query or "none">
+
+--- Raw Reasoning Output ---
+ANSWER: Morgan Carroll unsuccessfully ran against Mike Coffman for Colorado's 6th Congressional District [1].
+
+FOLLOW_UP_QUERY: none
+
+--- Model Answer (this attempt) ---
+Morgan Carroll unsuccessfully ran against Mike Coffman for Colorado's 6th Congressional District [1].
+
+FOLLOW_UP_QUERY: none
+--------------------------------------------------------------------------------

@@ -1,0 +1,83 @@
+QUESTION:
+EqualityMaine was founded after the death that took place in what Maine city?
+
+GROUND TRUTH ANSWER:
+Bangor
+================================================================================
+Attempt: 1
+Query: EqualityMaine was founded after the death that took place in what Maine city?
+Results:
+  [1] Search Result | 
+
+--- Prompt ---
+You are a careful researcher. Use ONLY the context below.
+
+Question:
+EqualityMaine was founded after the death that took place in what Maine city?
+
+Context (web search results):
+[1] Search Result
+URL: 
+Snippet: {'query': 'EqualityMaine was founded after the death that took place in what Maine city?', 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://en.wikipedia.org/wiki/EqualityMaine', 'title': 'EqualityMaine - Wikipedia', 'content': '**EqualityMaine** (formerly the **Maine Lesbian/Gay Political Alliance**) is Maine\'s oldest and largest lesbian, gay, bisexual, transgender, and queer (LGBTQ) political advocacy organization. Their mission, outlined on the organization\'s website is to "secure equality for lesbian, gay, bisexual, and transgender people in Maine through political action, community organizing, education, and collaboration." EqualityMaine was founded as the Maine Lesbian/Gay Political Alliance (MLGPA) in 1984, following the murder of Charlie Howa
+
+
+Instructions:
+- If the context is sufficient, produce a concise answer with inline citations [1], [2], etc.
+- If the context is insufficient, do NOT guess; instead propose ONE improved web search query that would likely retrieve the needed info.
+- If question requires multiple queries, than divide the question into multiple questions and propose one query for each question.
+
+Output format (must follow exactly):
+ANSWER: <your answer or say "I don't know based on the context">
+FOLLOW_UP_QUERY: <a single refined query or "none">
+
+--- Raw Reasoning Output ---
+ANSWER: I don't know based on the context
+
+FOLLOW_UP_QUERY: Charlie Howa murder Maine city location 1984
+
+The context mentions that EqualityMaine was founded following the murder of Charlie Howa, but it cuts off before specifying which Maine city this death occurred in [1]. A search specifically about Charlie Howa's murder and its location would provide the missing information needed to answer the question.
+
+--- Model Answer (this attempt) ---
+I don't know based on the context
+
+
+The context mentions that EqualityMaine was founded following the murder of Charlie Howa, but it cuts off before specifying which Maine city this death occurred in [1]. A search specifically about Charlie Howa's murder and its location would provide the missing information needed to answer the question.
+
+FOLLOW_UP_QUERY: Charlie Howa murder Maine city location 1984
+--------------------------------------------------------------------------------
+Attempt: 2
+Query: Charlie Howa murder Maine city location 1984
+Results:
+  [1] Search Result | 
+
+--- Prompt ---
+You are a careful researcher. Use ONLY the context below.
+
+Question:
+EqualityMaine was founded after the death that took place in what Maine city?
+
+Context (web search results):
+[1] Search Result
+URL: 
+Snippet: {'query': 'Charlie Howa murder Maine city location 1984', 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://www.facebook.com/DowntownBangor/posts/on-this-day-in-1984-charlie-howard-was-murdered-in-downtown-bangor-maine-at-the-/10159140022788886/', 'title': 'Downtown Bangor - Facebook', 'content': 'On this day in 1984, Charlie Howard was murdered in Downtown Bangor, Maine at the age of just 23 when three teenage men attacked him for being', 'score': 0.8377398, 'raw_content': None}, {'url': 'https://www.yahoo.com/news/gay-mans-murder-haunted-town-190002585.html', 'title': "The haunting true story of a gay man's murder that inspired Stephen ...", 'content': 'On July 7th, 1984, three teenagers in Bangor, Maine, killed Charlie Howard for being gay. In the l
+
+
+Instructions:
+- If the context is sufficient, produce a concise answer with inline citations [1], [2], etc.
+- If the context is insufficient, do NOT guess; instead propose ONE improved web search query that would likely retrieve the needed info.
+- If question requires multiple queries, than divide the question into multiple questions and propose one query for each question.
+
+Output format (must follow exactly):
+ANSWER: <your answer or say "I don't know based on the context">
+FOLLOW_UP_QUERY: <a single refined query or "none">
+
+--- Raw Reasoning Output ---
+ANSWER: EqualityMaine was founded after the death that took place in Bangor, Maine. Charlie Howard was murdered in Downtown Bangor, Maine in 1984 [1].
+
+FOLLOW_UP_QUERY: none
+
+--- Model Answer (this attempt) ---
+EqualityMaine was founded after the death that took place in Bangor, Maine. Charlie Howard was murdered in Downtown Bangor, Maine in 1984 [1].
+
+FOLLOW_UP_QUERY: none
+--------------------------------------------------------------------------------

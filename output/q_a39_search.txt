@@ -1,0 +1,119 @@
+================================================================================
+Attempt: 1
+Query: Which rock band is older, Liars or Mallory Knox?
+Full Tavily Payload:
+{
+  "query": "Which rock band is older, Liars or Mallory Knox?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.last.fm/music/Deaf+Havana/Fools+And+Worthless+Liars+(Deluxe+Edition)/Little+White+Lies+(Alternative+Version)",
+      "title": "Little White Lies (Alternative Version) — Deaf Havana",
+      "content": "Read about Little White Lies (Alternative Version) from Deaf Havana's Fools And WorthlessLiars(Deluxe Edition) and see the artwork, lyrics and similar artists",
+      "score": 0.031005697,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.62,
+  "request_id": "db559d75-206c-4cb9-b470-1b36a1c24a56"
+}
+================================================================================
+Attempt: 2
+Query: Liars band formation date year
+Full Tavily Payload:
+{
+  "query": "Liars band formation date year",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.jango.com/music/Liars/_full_bio",
+      "title": "Liars on Jango Radio | Full Bio, Songs, Videos",
+      "content": "Liars is a three-piece band formed in 2000 consisting of Angus Andrew (vocals/guitar), Aaron Hemphill (percussion, guitar, synth), and Julian Gross (drums). As a four-piece, Liars were only to release two more short EPs. The first was entitled We No Longer Knew Who We Were; it was an official release of the bands' early demos recorded in 2000. During the interim between the recording and release of their previous album, Liars had already begun the work on what would eventually become Drum's Not Dead. The band officially announced their album Liars on May 24, 2007. On November 4 the band confirmed that Sisterworld would be the new album, and would be released in early 2010 on Mute Records.",
+      "score": 0.8232293,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.concertarchives.org/bands/liars",
+      "title": "Liars Concert & Tour History",
+      "content": "Liars is an experimental electro/rock band formed in 2000. Australian-born Angus Andrew is the founding and only constant member, with Aaron Hemphill",
+      "score": 0.8232293,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.encyclopedia.com/education/news-wires-white-papers-and-books/liars",
+      "title": "Liars | Encyclopedia.com",
+      "content": "Group formed in Brooklyn, NY, 2000; Hemphill and Andrew began composing four-track home recordings; Noecker and Albertson joined group, late 2000; went on tour, 2001; recorded and released debut album, *They Threw Us All in a Trench and Stuck a Monument on Top*, 2001; toured in support of the album with Sonic Youth and the Jon Spencer Blues Explosion; signed to Mute Records label, 2002; Noecker and Albertson left group, 2002; released EP *We No Longer Knew Who We Were*, 2003; released concept album *They Were Wrong, So We Drowned*, 2004. Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).",
+      "score": 0.68140936,
+      "raw_content": null
+    },
+    {
+      "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z",
+      "title": "Liars | Spotify",
+      "content": "By November 2000, the band was officially christened Liars. Working with ... That year, Liars also joined Beck's Record Club project and covered INXS",
+      "score": 0.63723457,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.last.fm/music/Liars/+wiki",
+      "title": "Liars hometown, lineup, biography | Last.fm",
+      "content": "The band has released 8 studio albums since forming and remains one of the few bands still consistently active from the post-punk revival scene in New York of 2000s. On May 18, Andrew announced a new Liars album to be released sometime in August, along with the amicable departure of founding member Aaron Hemphill. If you live in certain U.S. states (e.g., California, Colorado, Connecticut, Montana, Oregon, Texas, Utah and Virginia), some of these activities may be considered “sales” or “sharing” of your personal information, or “processing” of your personal information for “targeted advertising” purposes (as each term is defined under applicable state privacy laws), and you may have the right to opt out of these activities.",
+      "score": 0.4431913,
+      "raw_content": null
+    }
+  ],
+  "response_time": 0.89,
+  "request_id": "4167590c-3a61-4002-8d9b-c5369eed39a9"
+}
+================================================================================
+Attempt: 3
+Query: Mallory Knox band formation date year
+Full Tavily Payload:
+{
+  "query": "Mallory Knox band formation date year",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.songkick.com/artists/877317-mallory-knox",
+      "title": "Mallory Knox Tour Announcements 2025 & 2026 ... - Songkick",
+      "content": "* Mallory Knox are a band hailing from Cambridge, United Kingdom who formed in 2009. The EP itself was enough to get the band signed to Wolf At Your Door Records on its release in July 2010, and the band embarked on their first UK tour soon afterwards supporting Never Means Maybe. Mallory Knox is classified as an alternative rock band, but their sound, their 2013 album ‘Signals’ and their shows demonstrate they are capable of smashing so many different styles within the umbrella genre of rock. Due to the band’s nuanced songs and versatility, a Mallory Knox show takes on a multitude of different vibes.",
+      "score": 0.8430832,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.nts.live/artists/92391-mallory-knox",
+      "title": "Mallory Knox | Discover music on NTS",
+      "content": "1.) Forming late 2009, Mallory Knox (UK) initially formed as a creative outlet for the 5 members of the band. Collaborating their various",
+      "score": 0.80625874,
+      "raw_content": null
+    },
+    {
+      "url": "https://ramentertainment.com/mallory-knox",
+      "title": "Mallory Knox - RAM Entertainment",
+      "content": "Formed in September 2009 by Mikey Chapman (vocals), Joe Savins (guitar), James Gillett (guitar), Sam Douglas (bass), and Dave Rawling (drums) and named after",
+      "score": 0.8036831,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.rock-city.co.uk/gigs/mallory-knox/",
+      "title": "Mallory Knox | - Rock City",
+      "content": "The band played at Download Festival in June 2012, then through November and December, the band supported rock band Canterbury in the UK. The band later went on a UK headline tour in April to promote their debut album. On 7 October 2013, a deluxe version of Signals was released, signed by the band and featuring five extra tracks.Mallory Knox also supported Biffy Clyro on 28 October in Guildford as part of the Samsung Galaxy Studio live shows. Starting on 9 November 2013, the band embarked on a headline tour across Britain, supported by the bands Blitz Kids and Crooks. In November, the band toured the UK in support of the new album.",
+      "score": 0.46599558,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mallory_Knox",
+      "title": "Mallory Knox - Wikipedia",
+      "content": "Their second album *Asymmetry \"Asymmetry (Mallory Knox album)\")* was released on 27 October 2014 and reached #16 on UK Album Chart. Their fourth record, *Mallory Knox* \"Mallory Knox (album)\"), was released on 16 August 2019, after which they announced a farewell tour. The new record, *Mallory Knox* \"Mallory Knox (album)\"), was released on 16 August 2019, through A Wolf At Your Door Records. 2. ^ Jump up to: ***a*** ***b*** \"Mallory Knox -UK Chart History\". **^** \"Mallory Knox announce UK headline tour\". ^ Jump up to: ***a*** ***b*** \"Mallory Knox Announce UK Headline Tour And 'Signals' Deluxe Edition\". \"Mallory Knox, Set Your Goals + Six More Bands Added To Slam Dunk Festival - News - Rock Sound Magazine\".",
+      "score": 0.37779367,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.06,
+  "request_id": "2a80b125-98e7-441e-82e9-c0133ac18b07"
+}

@@ -1,0 +1,49 @@
+================================================================================
+Attempt: 1
+Query: What One Direction member helped write Just Hold On?
+Full Tavily Payload:
+{
+  "query": "What One Direction member helped write Just Hold On?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://onedirection.fandom.com/wiki/Just_Hold_On",
+      "title": "Just Hold On | One Direction Wiki - Fandom",
+      "content": "It was produced and co-written by DJ Steve Aoki. The single was released on December 10, 2016, primarily as a tribute to Louis's mother, Johannah Deakin, who",
+      "score": 0.8282873,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.rollingstone.com/music/music-news/watch-louis-tomlinson-steve-aoki-discuss-partying-swapping-careers-109549/",
+      "title": "Watch Louis Tomlinson, Steve Aoki Discuss Partying, Swapping ...",
+      "content": "Louis Tomlinson and Steve Aoki both took sharp left turns with their music when the pair joined forces to create the empowering hit “Just Hold On.”",
+      "score": 0.8095324,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Just_Hold_On",
+      "title": "Just Hold On - Wikipedia",
+      "content": "\"Just Hold On\" is the first solo music project by Tomlinson after One Direction began their first official break in December 2015. After watching Aoki perform",
+      "score": 0.7686816,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.facebook.com/groups/182202596184627/posts/1326071038464438/",
+      "title": "Louis Tomlinson's Debut Solo Track “Just Hold On” Delivers",
+      "content": "Louis Tomlinson & Liam Payne: The Songwriting Duo Behind 1D's Evolution As One ... One Direction might one day reunite. For Harry Styles, Zayn",
+      "score": 0.76617163,
+      "raw_content": null
+    },
+    {
+      "url": "https://onedirection.fandom.com/wiki/Louis_Tomlinson",
+      "title": "Louis Tomlinson | One Direction Wiki - Fandom",
+      "content": "Following the group's hiatus in 2016, Tomlinson released \"Just Hold On\" with Steve Aoki as a debut solo single in December 2016. It peaked at number two on the",
+      "score": 0.72675586,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.13,
+  "request_id": "55eb9a76-9a9a-47b1-9dcb-98297bcecc75"
+}

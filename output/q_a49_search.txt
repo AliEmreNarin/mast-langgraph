@@ -1,0 +1,98 @@
+================================================================================
+Attempt: 1
+Query: The Lost Children is a B-side compilation album by the heavy metal band from what city?
+Full Tavily Payload:
+{
+  "query": "The Lost Children is a B-side compilation album by the heavy metal band from what city?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Lost_Children_(album)",
+      "title": "The Lost Children (album) - Wikipedia",
+      "content": "The Lost Children is a B-sides compilation album by American heavy metal band Disturbed. It was released on November 8, 2011. The album was announced in August",
+      "score": 0.9100432,
+      "raw_content": null
+    },
+    {
+      "url": "https://music.youtube.com/browse/MPREb_SgSxhUN0axq",
+      "title": "The Lost Children - Album by Disturbed - YouTube Music",
+      "content": "The Lost Children is a B-sides compilation album by American heavy metal band Disturbed. It was released on November 8, 2011.",
+      "score": 0.898277,
+      "raw_content": null
+    },
+    {
+      "url": "https://genius.com/albums/Disturbed/The-lost-children",
+      "title": "Disturbed - The Lost Children Lyrics and Tracklist - Genius",
+      "content": "The Lost Children is a B-sides compilation album by American metal band Disturbed. It was released on November 8, 2011.",
+      "score": 0.85216236,
+      "raw_content": null
+    },
+    {
+      "url": "https://theseconddisc.com/2011/09/30/disturbed-round-up-lost-children-for-b-sides-set/",
+      "title": "Disturbed Round Up \"Lost Children\" for B-Sides Set - The Second Disc",
+      "content": "The Lost Children collates 16 tracks from the Chicago-based band, many of which have appeared on Japanese pressings, import CD singles,",
+      "score": 0.81097376,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Disturbed_(band)",
+      "title": "Disturbed (band) - Wikipedia",
+      "content": "... band members. Disturbed went into hiatus in October 2011. Disturbed released a b-side compilation album, titled The Lost Children, on November 8, 2011.",
+      "score": 0.80089486,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.01,
+  "request_id": "35295dda-5ab7-40f1-9640-c99458d6686f"
+}
+================================================================================
+Attempt: 2
+Query: What city is the heavy metal band Disturbed from?
+Full Tavily Payload:
+{
+  "query": "What city is the heavy metal band Disturbed from?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://metalcore.fandom.com/wiki/Disturbed",
+      "title": "Disturbed | Metalcore Wiki - Fandom",
+      "content": "Disturbed is an American heavy metal band from Chicago, Illinois. The band formed in 1996 when musicians Dan Donegan, Steve \"Fuzz\" Kmak, and Mike Wengren hired",
+      "score": 0.942385,
+      "raw_content": null
+    },
+    {
+      "url": "https://simple.wikipedia.org/wiki/Disturbed",
+      "title": "Disturbed - Simple English Wikipedia, the free encyclopedia",
+      "content": "* English \"Disturbed (band) – English\") **Disturbed** or **The Disturbed** is an American heavy metal rock band from Chicago. All of Disturbed's albums have been number one on the *Billboard 200*. Later in 2002, Disturbed released another CD, called *Believe&action=edit&redlink=1 \"Believe (album) (not yet started)\")*. In 2005, Disturbed released another album called *Ten Thousand Fists*. In 2008, Disturbed released another album, called *Indestructible&action=edit&redlink=1 \"Indestructible (album) (not yet started)\")*. | 2002 | *Believe&action=edit&redlink=1 \"Believe (Disturbed album) (not yet started)\")* | | 2008 | *Indestructible \"Indestructible (Disturbed album)\")* | | 2010 | *Asylum&action=edit&redlink=1 \"Asylum (Disturbed album) (not yet started)\")* | | 2015 | *Immortalized&action=edit&redlink=1 \"Immortalized (Disturbed album) (not yet started)\")* | | 2018 | *Evolution&action=edit&redlink=1 \"Evolution (Disturbed album) (not yet started)\")* |",
+      "score": 0.9288814,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.facebook.com/groups/3051209565172499/posts/3375769679383151/",
+      "title": "Disturbed is an American heavy metal band from Chicago - Facebook",
+      "content": "Disturbed is an American heavy metal band from Chicago, formed in 1994. The band includes guitarist Dan Donegan, drummer Mike Wengren,",
+      "score": 0.9205687,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.facebook.com/groups/metalpage/posts/8846405958741891/",
+      "title": "Disturbed is an American heavy metal band from Chicago, formed in",
+      "content": "Rock & metal | Disturbed is an American heavy metal band from Chicago, formed in 1994 | Facebook Image 1 Rock & metal | Disturbed is an American heavy metal band from Chicago, formed in 1994 ===================================================================================== --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- · 56.2K members Disturbed is an American heavy metal band from Chicago, formed in 1994. With over 17 million records sold worldwide, six RIAA certifications for their albums (including 5× platinum for The Sickness), singles from all eight albums reaching the top ten of the Mainstream Rock chart, and two Grammy Award nominations, Disturbed ranks alongside Slipknot and Godsmack as one of the most successful rock bands of the 21st century. Forgot password?",
+      "score": 0.91760606,
+      "raw_content": null
+    },
+    {
+      "url": "https://hq.rostr.cc/insider/news/disturbed-signs-with-iag",
+      "title": "Disturbed signs with IAG - ROSTR",
+      "content": "Disturbed is an American heavy metal band formed in 1994 in Chicago, Illinois. The band consists of lead vocalist David Draiman,",
+      "score": 0.9106172,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.13,
+  "request_id": "91da8635-ba22-48c3-922e-f6ef928c448e"
+}

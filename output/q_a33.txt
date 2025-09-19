@@ -1,0 +1,86 @@
+QUESTION:
+In which year was the band that released the song This Is Our House formed ?
+
+GROUND TRUTH ANSWER:
+1983
+================================================================================
+Attempt: 1
+Query: In which year was the band that released the song This Is Our House formed ?
+Results:
+  [1] Search Result | 
+
+--- Prompt ---
+You are a careful researcher. Use ONLY the context below.
+
+Question:
+In which year was the band that released the song This Is Our House formed ?
+
+Context (web search results):
+[1] Search Result
+URL: 
+Snippet: {'query': 'In which year was the band that released the song This Is Our House formed ?', 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://en.wikipedia.org/wiki/This_Is_Our_House', 'title': 'This Is Our House - Wikipedia', 'content': '"This Is Our House" is a song by American rock band Bon Jovi. It was originally written by Jon Bon Jovi, Richie Sambora and Desmond Child and recorded in 2009.', 'score': 0.82994765, 'raw_content': None}, {'url': 'https://www.facebook.com/d7787/videos/madness-our-house/855047009831681/', 'title': 'On this date in 1982, MADNESS released the single OUR HOUSE ...', 'content': 'In 1984, Madness performed Our House on The Young Ones, cementing their association with British pop culture. Two decades later, the song became', 's
+
+
+Instructions:
+- If the context is sufficient, produce a concise answer with inline citations [1], [2], etc.
+- If the context is insufficient, do NOT guess; instead propose ONE improved web search query that would likely retrieve the needed info.
+- If question requires multiple queries, than divide the question into multiple questions and propose one query for each question.
+
+Output format (must follow exactly):
+ANSWER: <your answer or say "I don't know based on the context">
+FOLLOW_UP_QUERY: <a single refined query or "none">
+
+--- Raw Reasoning Output ---
+Looking at the provided context, I can see that "This Is Our House" is a song by American rock band Bon Jovi [1]. However, the context does not provide information about when Bon Jovi was formed as a band.
+
+ANSWER: I don't know based on the context
+
+FOLLOW_UP_QUERY: When was the band Bon Jovi formed year
+
+--- Model Answer (this attempt) ---
+Looking at the provided context, I can see that "This Is Our House" is a song by American rock band Bon Jovi [1]. However, the context does not provide information about when Bon Jovi was formed as a band.
+
+ANSWER: I don't know based on the context
+
+FOLLOW_UP_QUERY: When was the band Bon Jovi formed year
+--------------------------------------------------------------------------------
+Attempt: 2
+Query: When was the band Bon Jovi formed year
+Results:
+  [1] Search Result | 
+
+--- Prompt ---
+You are a careful researcher. Use ONLY the context below.
+
+Question:
+In which year was the band that released the song This Is Our House formed ?
+
+Context (web search results):
+[1] Search Result
+URL: 
+Snippet: {'query': 'When was the band Bon Jovi formed year', 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://bestclassicbands.com/band-bon-jovi-formed-3-14-166/', 'title': 'March 14, 1983: The Band Bon Jovi is Formed', 'content': 'March 14, 1983: The Band Bon Jovi is Formed | Best Classic Bands March 14, 1983: The Band Bon Jovi is Formed - Best Classic Bands If you wish to opt-out of the sale, sharing to third parties, or processing of your personal or sensitive information for targeted advertising by us, please use the below opt-out section to confirm your selection. Image 1: Best Classic Bands**Homepage** John Bongiovi – better known as Jon **Bon Jovi**– had been playing in bands since he was 13 years old, and was out on the New Jersey club circuit plugging
+
+
+Instructions:
+- If the context is sufficient, produce a concise answer with inline citations [1], [2], etc.
+- If the context is insufficient, do NOT guess; instead propose ONE improved web search query that would likely retrieve the needed info.
+- If question requires multiple queries, than divide the question into multiple questions and propose one query for each question.
+
+Output format (must follow exactly):
+ANSWER: <your answer or say "I don't know based on the context">
+FOLLOW_UP_QUERY: <a single refined query or "none">
+
+--- Raw Reasoning Output ---
+Based on the provided context, I can see that the band Bon Jovi was formed on March 14, 1983 [1]. From the previous context, I know that "This Is Our House" was released by Bon Jovi.
+
+ANSWER: The band that released the song "This Is Our House" (Bon Jovi) was formed in 1983 [1].
+
+FOLLOW_UP_QUERY: none
+
+--- Model Answer (this attempt) ---
+Based on the provided context, I can see that the band Bon Jovi was formed on March 14, 1983 [1]. From the previous context, I know that "This Is Our House" was released by Bon Jovi.
+
+ANSWER: The band that released the song "This Is Our House" (Bon Jovi) was formed in 1983 [1].
+
+FOLLOW_UP_QUERY: none
+--------------------------------------------------------------------------------

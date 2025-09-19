@@ -1,24 +1,96 @@
-{
-    "task": "",
-    "trace": "",
-    "num_agents": "",
+[
+  {
+    "task": "Where do Magical Halloween type games originate?",
+    "trace": "QUESTION:\nWhere do Magical Halloween type games originate?\n\nGROUND TRUTH ANSWER:\nJapan\n================================================================================\n[5 attempts with Celtic/Samhain focus, incorrect answer]\n--- Raw Reasoning Output ---\nANSWER: Magical Halloween type games originate from the ancient Celtic festival of Samhain [1]. The Celts invented Samhain, which eventually became Halloween after modifications by Christian influences [1].\nFOLLOW_UP_QUERY: none",
+    "num_agents": 2,
     "identified_failure_modes": {
-        "failure_mode_1": {
-            "name": "",
-            "definition": "",
-            "example_from_the_trace": ""
-        },
-        "failure_mode_2": {
-            "name": "", 
-            "definition": "",
-            "example_from_the_trace": ""
-        },
-        "failure_mode_n": {
-            "name": "",
-            "definition": "",
-            "example_from_the_trace": ""
-        }
+      "failure_mode_1": {
+        "name": "Disobey Task Specification",
+        "definition": "The agent fails to adhere to specified constraints, guidelines, or requirements associated with a particular task, resulting in incorrect, suboptimal, or irrelevant outputs.",
+        "example_from_the_trace": "The agent violated the required output format by adding extraneous narrative beyond the mandated ANSWER/FOLLOW_UP_QUERY lines in multiple attempts."
+      },
+      "failure_mode_2": {
+        "name": "Fail to Ask for Clarification", 
+        "definition": "Inability to request additional information when faced with unclear or incomplete data, potentially resulting in incorrect actions or premature conclusions.",
+        "example_from_the_trace": "The agent misinterpreted 'Magical Halloween' as generic Halloween games and concluded Celtic/Samhain origins instead of Japan, without clarifying the specific type of magical games being referenced."
+      },
+      "failure_mode_3": {
+        "name": "Task Derailment",
+        "definition": "Deviation from the intended objective or focus of a given task, potentially resulting in irrelevant or unproductive actions.",
+        "example_from_the_trace": "The agent focused on general Halloween traditions and Celtic origins rather than specifically researching 'Magical Halloween type games' which have distinct Japanese origins."
+      },
+      "failure_mode_4": {
+        "name": "Weak Verification",
+        "definition": "Verification mechanisms exist but fail to comprehensively cover all essential aspects necessary for generating robust and reliable outputs.",
+        "example_from_the_trace": "The agent accepted a single blog snippet about Celtic Samhain traditions without cross-referencing multiple sources or verifying the specific connection to 'Magical Halloween type games'."
+      }
     },
-    "summary": ""
-}
-    
+    "summary": "The system failed to correctly answer the question about Magical Halloween type games originating from Japan. Instead, it misinterpreted the query as asking about general Halloween games and concluded Celtic/Samhain origins. The agent violated output format specifications, failed to ask for clarification about the specific type of magical games, and exhibited weak verification by accepting insufficient evidence."
+  },
+  {
+    "task": "From which city is the band that released the single Artificial Light?",
+    "trace": "QUESTION:\nFrom which city is the band that released the single Artificial Light?\n\nGROUND TRUTH ANSWER:\nSeattle, Washington\n================================================================================\n[4 attempts, multiple bands identified, settled on The Kinks from London]\n--- Raw Reasoning Output ---\nANSWER: London. The Kinks, who released the single 'Artificial Light,' originated from London, specifically from Muswell Hill in northern London [1].\nFOLLOW_UP_QUERY: none",
+    "num_agents": 2,
+    "identified_failure_modes": {
+      "failure_mode_1": {
+        "name": "Fail to Ask for Clarification",
+        "definition": "Inability to request additional information when faced with unclear or incomplete data, potentially resulting in incorrect actions or premature conclusions.",
+        "example_from_the_trace": "The system acknowledged multiple bands with songs titled 'Artificial Light' (ALPHABET, Demon Hunter, The Kinks) but failed to clarify which was intended and prematurely settled on The Kinks."
+      },
+      "failure_mode_2": {
+        "name": "Premature Termination",
+        "definition": "Ending a dialogue, interaction or task before all necessary information has been exchanged or objectives have been met.",
+        "example_from_the_trace": "The agent verified only The Kinks' origin (London) instead of resolving the ambiguity between multiple bands, yielding an incorrect answer when the correct answer was Seattle (Demon Hunter)."
+      },
+      "failure_mode_3": {
+        "name": "Weak Verification",
+        "definition": "Verification mechanisms exist but fail to comprehensively cover all essential aspects necessary for generating robust and reliable outputs.",
+        "example_from_the_trace": "The agent failed to verify which 'Artificial Light' single was most relevant or famous, settling on the first band found rather than conducting thorough verification."
+      }
+    },
+    "summary": "The system correctly identified that multiple bands have released songs titled 'Artificial Light' but failed to clarify which specific single was being referenced. It prematurely settled on The Kinks (London) without proper verification, when the correct answer was Demon Hunter from Seattle. The agent exhibited weak verification by not determining which band's version was most relevant or famous."
+  },
+  {
+    "task": "Who is the mother of the man who ruled Friuli from 874 until at least 890?",
+    "trace": "QUESTION:\nWho is the mother of the man who ruled Friuli from 874 until at least 890?\n\nGROUND TRUTH ANSWER:\nGisela\n================================================================================\n[1 attempt, correct answer]\n--- Raw Reasoning Output ---\nANSWER: Based on the context, the mother of the man who ruled Friuli from 874 until at least 890 (Berengario del Friuli) was Gisella (or Gisla), who was the daughter of Louis the Pious [1].\nFOLLOW_UP_QUERY: none",
+    "num_agents": 2,
+    "identified_failure_modes": {
+      "failure_mode_1": {
+        "name": "Disobey Task Specification",
+        "definition": "The agent fails to adhere to specified constraints, guidelines, or requirements associated with a particular task, resulting in incorrect, suboptimal, or irrelevant outputs.",
+        "example_from_the_trace": "The agent violated the required output format by adding preface text before the mandated ANSWER/FOLLOW_UP_QUERY lines."
+      },
+      "failure_mode_2": {
+        "name": "Step Repetition",
+        "definition": "Step repetition occurs when an agent or system unnecessarily repeats a phase, a task, a stage that have already been completed.",
+        "example_from_the_trace": "The agent duplicated the same answer content in both the 'Raw Reasoning Output' and 'Model Answer' sections, indicating unnecessary repetition."
+      }
+    },
+    "summary": "The system provided the correct answer (Gisela) but violated the required output format by adding extraneous text before the mandated ANSWER/FOLLOW_UP_QUERY lines. Additionally, it exhibited step repetition by duplicating the same answer content in both the Raw Reasoning Output and Model Answer sections, indicating inefficient processing."
+  },
+  {
+    "task": "When was the band that performed The Rock The Nation World Tour founded?",
+    "trace": "QUESTION:\nWhen was the band that performed The Rock The Nation World Tour founded?\n\nGROUND TRUTH ANSWER:\nearly 1970s\n================================================================================\n[2 attempts, correct answer]\n--- Raw Reasoning Output ---\nANSWER: The band KISS, which performed The Rock The Nation World Tour, was founded in January 1973 [1]. KISS is an American rock band formed in New York City in January 1973 by Paul Stanley, Gene Simmons, Peter Criss, and Ace Frehley [1].\nFOLLOW_UP_QUERY: none",
+    "num_agents": 2,
+    "identified_failure_modes": {},
+    "summary": "The system successfully completed the task with no observed failure modes. The agent properly requested a refined search when context was insufficient and then answered correctly (January 1973) using the provided results with proper citation format."
+  },
+  {
+    "task": "Both the Jack and Coke and Orange Tundra can be poured into what kind of glass?",
+    "trace": "QUESTION:\nBoth the Jack and Coke and Orange Tundra can be poured into what kind of glass?\n\nGROUND TRUTH ANSWER:\nold-fashioned\n================================================================================\n[5 attempts, correct answer]\n--- Raw Reasoning Output ---\nANSWER: Both the Jack and Coke and Orange Tundra can be poured into an old-fashioned glass (also known as a rocks glass).\nFOLLOW_UP_QUERY: none",
+    "num_agents": 2,
+    "identified_failure_modes": {
+      "failure_mode_1": {
+        "name": "Disobey Task Specification",
+        "definition": "The agent fails to adhere to specified constraints, guidelines, or requirements associated with a particular task, resulting in incorrect, suboptimal, or irrelevant outputs.",
+        "example_from_the_trace": "The agent disobeyed task specs by aggregating evidence across attempts and omitting required inline citations in the final answer."
+      },
+      "failure_mode_2": {
+        "name": "No or Incorrect Verification",
+        "definition": "Omission of proper checking or confirmation of task outcomes or system outputs, potentially allowing errors or inconsistencies to propagate undetected.",
+        "example_from_the_trace": "The agent's verification was weak by relying on non-authoritative sources (e.g., Reddit/Amazon) to assert Jack & Coke can be served in a rocks/old-fashioned glass without proper verification."
+      }
+    },
+    "summary": "The system provided the correct answer (old-fashioned glass) but violated task specifications by aggregating evidence across multiple attempts and omitting required inline citations in the final answer. The agent exhibited weak verification by relying on non-authoritative sources without proper cross-referencing, though the final answer was ultimately correct."
+  }
+]

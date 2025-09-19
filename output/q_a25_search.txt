@@ -1,0 +1,42 @@
+================================================================================
+Attempt: 1
+Query: Monk Turner won the Free Music Archive's competition to create a copyright-free replacement for a based on what melody?
+Full Tavily Payload:
+{
+  "query": "Monk Turner won the Free Music Archive's competition to create a copyright-free replacement for a based on what melody?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Monk_Turner#:~:text=In 2013, WFMU and the,Birthday!” won the contest.",
+      "title": "Monk Turner - Wikipedia",
+      "content": "In 2013, WFMU and the Free Music Archive held a competition to create a copyright-free version of the ubiquitous “Happy Birthday to You",
+      "score": 0.8473754,
+      "raw_content": null
+    },
+    {
+      "url": "https://freemusicarchive.org/blog/meet-monk-turner/",
+      "title": "Meet Monk Turner",
+      "content": "Jul 2, 2025—Itwonthe FMA and WFMU's 2013contesttocreateacopyright-free alternative to“Happy Birthday to You,” which at the time was still owned",
+      "score": 0.83290404,
+      "raw_content": null
+    },
+    {
+      "url": "https://freemusicarchive.org/music/Monk_Turner__Fascinoma/bio",
+      "title": "Monk Turner + Fascinoma",
+      "content": "Turner'scomposition with Fascinomawonacompetitionheld by radio station WFMU and theFree Music Archivefor analternativeversion of the popular “Happy",
+      "score": 0.6803909,
+      "raw_content": null
+    },
+    {
+      "url": "https://creativecommons.org/2016/07/13/monk-turner-music-for-the-people/",
+      "title": "\"It's music for the people\": Monk Turner on defying genre ...",
+      "content": "Jul 13, 2016—In 2012,Turner wontheFree Music Archive'sBirthday Songcompetitionwith his song, “It's Your Birthday!” As a successful musician who",
+      "score": 0.53021276,
+      "raw_content": null
+    }
+  ],
+  "response_time": 2.5,
+  "request_id": "b1e8dfe0-b0ac-4a5c-8309-57f51c63eb01"
+}

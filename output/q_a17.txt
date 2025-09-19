@@ -1,0 +1,42 @@
+QUESTION:
+Minshull Vernon is a civil parish in which unitary authority area with borough status in the ceremonial county of Cheshire, England?
+
+GROUND TRUTH ANSWER:
+Cheshire East
+================================================================================
+Attempt: 1
+Query: Minshull Vernon is a civil parish in which unitary authority area with borough status in the ceremonial county of Cheshire, England?
+Results:
+  [1] Search Result | 
+
+--- Prompt ---
+You are a careful researcher. Use ONLY the context below.
+
+Question:
+Minshull Vernon is a civil parish in which unitary authority area with borough status in the ceremonial county of Cheshire, England?
+
+Context (web search results):
+[1] Search Result
+URL: 
+Snippet: {'query': 'Minshull Vernon is a civil parish in which unitary authority area with borough status in the ceremonial county of Cheshire, England?', 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://en.wikipedia.org/wiki/Minshull_Vernon', 'title': 'Minshull Vernon - Wikipedia', 'content': 'Minshull Vernon is a hamlet and civil parish in the unitary authority of Cheshire East and the ceremonial county of Cheshire, England.', 'score': 0.8941352, 'raw_content': None}, {'url': 'https://minshull-vernon.parish.uk/', 'title': 'Minshull Vernon - PARISH.UK Network', 'content': 'Minshull Vernon is a hamlet and civil parish in the unitary authority of Cheshire East and the ceremonial county of Cheshire, England.', 'score': 0.87605256, 'raw_content': None}, {'url': '
+
+
+Instructions:
+- If the context is sufficient, produce a concise answer with inline citations [1], [2], etc.
+- If the context is insufficient, do NOT guess; instead propose ONE improved web search query that would likely retrieve the needed info.
+- If question requires multiple queries, than divide the question into multiple questions and propose one query for each question.
+
+Output format (must follow exactly):
+ANSWER: <your answer or say "I don't know based on the context">
+FOLLOW_UP_QUERY: <a single refined query or "none">
+
+--- Raw Reasoning Output ---
+ANSWER: Based on the provided context, Minshull Vernon is a civil parish in the unitary authority of Cheshire East [1].
+
+FOLLOW_UP_QUERY: none
+
+--- Model Answer (this attempt) ---
+Based on the provided context, Minshull Vernon is a civil parish in the unitary authority of Cheshire East [1].
+
+FOLLOW_UP_QUERY: none
+--------------------------------------------------------------------------------

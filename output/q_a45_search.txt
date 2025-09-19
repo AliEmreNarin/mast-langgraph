@@ -1,0 +1,98 @@
+================================================================================
+Attempt: 1
+Query: What important political role did the female star of the film Talk About a Stranger hold ?
+Full Tavily Payload:
+{
+  "query": "What important political role did the female star of the film Talk About a Stranger hold ?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.imdb.com/title/tt0045216/",
+      "title": "Talk About a Stranger (1952) - IMDb",
+      "content": "Later, Ms. Davis was, of course, wonderfully cast as the second Mrs. Ronald Reagan. The film's weaknesses might have been arrested by strengthening the \"",
+      "score": 0.47212428,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Stranger_(1946_film)",
+      "title": "The Stranger (1946 film) - Wikipedia",
+      "content": "The Stranger is a 1946 American thriller film noir directed and (although uncredited) co-written by Orson Welles, starring himself along with Edward G.",
+      "score": 0.06527648,
+      "raw_content": null
+    },
+    {
+      "url": "https://howard.edu/",
+      "title": "Howard University Home | Excellence in Truth and Service",
+      "content": "# Howard University # Howard University Baltimore State Attorney Ivan Bates has served the city of Baltimore since 2023, but his passion for serving people and his community began as a student at Howard University. Elijah Cummings graduated from Howard University in 1973 with a bachelor’s degree in political science. Henson transferred to Howard University, where she studied theater while working two jobs to support herself and her newborn son. Kwame Ture (formerly Stokely Carmichael) was a civil rights activist, writer, and orator known as a lead figure within the Pan-African and Black nationalist movements, and for coining the slogan, “Black power.” Ture was born in Trinidad in 1941 and immigrated to New York City in 1952.",
+      "score": 0.052235804,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.facebook.com/mmauncensoredplus/posts/stiflers-dad-its-confirmed-that-actor-charliesheen-is-in-talks-to-join-the-cast-/1304221341154991/",
+      "title": "STIFLER'S DAD! It's confirmed that actor #CharlieSheen is in talks ...",
+      "content": "- Apparently Stifler's dad will arrive at his ex-wife's funeral and meet Stifler' s friends, he will be part of the big party that will be held",
+      "score": 0.026078671,
+      "raw_content": null
+    },
+    {
+      "url": "https://harvardlawreview.org/print/vol-137/unshielded-how-the-police-can-become-touchable/",
+      "title": "Unshielded: How the Police Can Become Touchable",
+      "content": "^ *See* Hassan Kanu, *Police Are Not Primarily Crime Fighters, According to the Data*, Reuters (Nov. 2, 2022, 1:33 PM), https://www.reuters.com/legal/government/police-are-not-primarily-crime-fighters-according-data-2022-11-02 [https://perma.cc/C7DQ-YU2X] (“Overall, sheriff patrol officers spend significantly more time on officer-initiated stops — ‘proactive policing’ in law enforcement parlance — than they do responding to community members’ calls for help, according to the report.”); Ramenda Cyrus, *Police Have No Duty to Protect the Public*, Am. Prospect (Apr. 18, 2022), https://prospect.org/justice/police-have-no-duty-to-protect-the-public [https://perma.cc/F4MP-3WEU] (“Lozito lost [a lawsuit alleging New York police failed to protect him from a stabbing] because of a precedent established by the U.S. Supreme Court: the cops do not have a duty to protect you, or anyone.”).",
+      "score": 0.017337393,
+      "raw_content": null
+    }
+  ],
+  "response_time": 0.95,
+  "request_id": "1e19697d-0624-4335-8775-f9b3e342e51e"
+}
+================================================================================
+Attempt: 2
+Query: Nancy Davis Talk About a Stranger 1952 female star political role First Lady
+Full Tavily Payload:
+{
+  "query": "Nancy Davis Talk About a Stranger 1952 female star political role First Lady",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.imdb.com/title/tt0045216/",
+      "title": "Talk About a Stranger (1952) - IMDb",
+      "content": "Later, Ms. Davis was, of course, wonderfully cast as the second Mrs. Ronald Reagan. The film's weaknesses might have been arrested by strengthening the \"",
+      "score": 0.6530611,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nancy_Reagan",
+      "title": "Nancy Reagan - Wikipedia",
+      "content": "Nancy Davis Reagan was an American film actress who was the first lady of the United States from 1981 to 1989, as the second wife of President Ronald Reagan",
+      "score": 0.3939683,
+      "raw_content": null
+    },
+    {
+      "url": "http://archive.firstladies.org/blog/the-hollywood-movie-star-who-became-first-lady-nancy-reagans-film-career/",
+      "title": "The Hollywood Movie Star who became First Lady: Nancy Reagan's ...",
+      "content": "The Hollywood Movie Star who became First Lady: Nancy Reagan’s Film Career The Hollywood Movie Star who became First Lady: Nancy Reagan’s Film Career [![Image 2: The future First Lady Nancy Davis [Reagan] posing for a Hollywood publicity still. (RRPL)](http://www.firstladies.org/blog/wp-content/uploads/2014/02/The-future-First-Lady-Nancy-Davis-Reagan-posing-for-a-Hollywood-publicity-still.-RRPL.jpg)](http://www.firstladies.org/blog/wp-content/uploads/2014/02/The-future-First-Lady-Nancy-Davis-Reagan-posing-for-a-Hollywood-publicity-still.-RRPL.jpg) The future First Lady Nancy Davis [Reagan] posing for a Hollywood publicity still. Image 4: Nancy Reagan in her high school production of a play called First Lady. Nancy Davis in her high school production of a play called _First Lady._ (_My Turn_, Reagan) Image 7: Nancy Reagan's East Side, West Side scene with Barbara Stanwyck which the young actress filmed in one take and impressed the big star. **The Feature Film Roles of Nancy Davis Reagan** inFirst Ladies and film, First Ladies professional careers, Nancy Reagan *   First Ladies Together (4) ",
+      "score": 0.36134556,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.facebook.com/groups/363569810721942/posts/2218116978600540/",
+      "title": "Nancy Reagan's Early Life and Career as an Actress and First Lady",
+      "content": "The Fabulous Fifties | Not too many people knew that Nancy Davis aka Nancy Reagan was the Goddaughter of famed actress Alla Nazimova | Facebook Image 1 The Fabulous Fifties | Not too many people knew that Nancy Davis aka Nancy Reagan was the Goddaughter of famed actress Alla Nazimova ==================================================================================================================================== ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- · 724.5K members Not too many people knew that Nancy Davis aka Nancy Reagan was the Goddaughter of famed actress Alla Nazimova. When Edith Davis eventually married, they continued their warm relationship, and in 1920, Davis would shock her family by naming Nazimova the godmother of her newborn child, Nancy Robbins. Her fame, however, came in later years, for Nancy Robbins (who used the name Nancy Davis for the stage) eventually married another actor, Ronald Reagan.",
+      "score": 0.32459977,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.reaganlibrary.gov/reagans/nancy-reagan/nancy-reagans-acting-career",
+      "title": "Nancy Reagan's Acting Career",
+      "content": "Even after her marriage to Ronald Reagan, she was credited as Nancy Davis, her screen name. With James Whitmore (Joe Smith), Nancy Davis (Mary Smith), Gary Gray (Johnny Smith) Cast included Ethel Barrymore (Mrs. Brian Patrick Riordan), Gary Cooper (Texas), Nancy Davis (Miss Coleman), Van Johnson (Reverend Adam Burch), Gene Kelly (Icarus Xenophon), Janet Leigh (Rosa Szabo), Marjorie Main (Mrs. Wrenley), Fredric March (Joe Esposito), George Murphy (Mr. Callaghan), William Powell (Professor), S. With Ronald Reagan (Dr. David Glenn), Nancy Davis (Laura Glenn), Tommy Rettig (Robin Glenn). With Steve Cochran (Obie Roberts), Gary Merrill (Harry Sellers), Dina Merrill (Carol Manson), Nancy Davis (Flora Roberts), John Ireland (Earl Green), Eduard Franz (Prisoner).",
+      "score": 0.28784838,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.09,
+  "request_id": "06ed3ff9-6f0f-423e-a977-652546df01ca"
+}

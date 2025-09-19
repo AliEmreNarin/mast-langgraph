@@ -9,13 +9,6 @@ Full Tavily Payload:
   "images": [],
   "results": [
     {
-      "url": "https://beerscout.wordpress.com/2014/01/24/intermission-song-review-typhoons-artificial-light/",
-      "title": "Intermission: Song review, Typhoon's 'Artificial Light' | Beer Scout",
-      "content": "It is by the Portland band Typhoon, and it's their first song on their recent release, called Artificial Light. Portland does beer well, we all",
-      "score": 0.8282873,
-      "raw_content": null
-    },
-    {
       "url": "https://earmilk.com/2024/09/21/alphabets-debut-single-artificial-light-shines-brightly/",
       "title": "ALPHABET's debut single “Artificial Light” shines brightly - EARMILK",
       "content": "While that's probably akin to a decade to any eager new band seeking to be let off the leash this London-based, Brighton-formed quartet of",
@@ -37,13 +30,167 @@ Full Tavily Payload:
       "raw_content": null
     },
     {
-      "url": "https://www.youtube.com/watch?v=MG7mlPKhVmQ",
-      "title": "WGBH Music: Typhoon - Artificial Light (Live) - YouTube",
-      "content": "Typhoon's first ever show in Boston and one in which the band and audience won't soon forget. According to the band, the Boston show was one",
-      "score": 0.6944897,
+      "url": "https://www.youtube.com/watch?v=IHojo0fjIa0",
+      "title": "Rainer Maria - Artificial Light [OFFICIAL AUDIO] - YouTube",
+      "content": "... Artificial Light\" is taken from Rainer Maria's album, A Better Version of Me - released January 23, 2001 via @PolyvinylRecords. https://www",
+      "score": 0.58919704,
+      "raw_content": null
+    },
+    {
+      "url": "https://jesuswired.com/2014/02/14/demon-hunter-artificially-light-world-new-single",
+      "title": "Demon Hunter Artificially Light Up The World With New Single",
+      "content": "Now, only a month away from their next release Extremist, they have released the first single off the new record entitled “Artificial Light.”",
+      "score": 0.53648347,
       "raw_content": null
     }
   ],
-  "response_time": 1.2,
-  "request_id": "3d7c4065-04a8-4160-8802-f603f7a243b6"
+  "response_time": 1.49,
+  "request_id": "8290c03b-79f7-407b-8a98-99303d55bc92"
+}
+================================================================================
+Attempt: 2
+Query: "Artificial Light" single band city origin which band most famous
+Full Tavily Payload:
+{
+  "query": "\"Artificial Light\" single band city origin which band most famous",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.nature.com/articles/s44284-025-00258-2",
+      "title": "Artificial light at night outweighs temperature in lengthening ...",
+      "content": "From rural to urban areas (represented by ten buffers where _β_ increased from 0 to 1), we observed a consistently nonlinear trend of earlier SOS, later EOS and increasing ALAN and _T_ a in 378 (88.3%) of 428 Northern Hemisphere cities (Fig. 2 and Extended Data Figs. **Extended Data Fig. 2 The spatial patterns of phenology (that is, SOS and EOS), ALAN, and Ta along rural-urban gradients in Asia (a-c), Europe (d-f), and North America (g-i).** **Extended Data Fig. 3 Comparison of spatial patterns of SOS and EOS along rural-urban gradients in 62 selected cities using 500 m VIIRS phenology products and 30 m urban phenology dataset during 2014-2015.**",
+      "score": 0.058544792,
+      "raw_content": null
+    },
+    {
+      "url": "https://quizlet.com/86899604/chapter-30-the-early-twentieth-century-flash-cards/",
+      "title": "Chapter 30: The Early Twentieth Century Flashcards",
+      "content": "Theartificial lightof the large electric lamps shedding fantastic rays about them suggests the idea of childish games: they play hide and seek, they try",
+      "score": 0.046106957,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.intechopen.com/chapters/75498",
+      "title": "Artificial Light at Night: A Global Threat to Plant Biological ...",
+      "content": "by R Sodani·2021·Cited by 9—Artificial lightat night became an unavoidable technology from the societies however this indispensable tool has harmful side effect in term of light pollution",
+      "score": 0.038964175,
+      "raw_content": null
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3330268/",
+      "title": "Detection Technique for Artificially Illuminated Objects in ...",
+      "content": "by A Loeb·2012·Cited by 59—Since ∼103km objects were already found at distances beyond ∼50 AU, we conclude that existing telescopes and surveys could detect theartificial lightfrom a",
+      "score": 0.021667069,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Light_pollution",
+      "title": "Light pollution",
+      "content": "Light pollution is caused by inefficient or unnecessary use ofartificial light. Specific categories of light pollution include light trespass, over-",
+      "score": 0.019140568,
+      "raw_content": null
+    }
+  ],
+  "response_time": 0.74,
+  "request_id": "bd05fce6-64fe-43dd-a1e0-4a2e1f67f316"
+}
+================================================================================
+Attempt: 3
+Query: "Artificial Light" song single band musician artist discography
+Full Tavily Payload:
+{
+  "query": "\"Artificial Light\" song single band musician artist discography",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://rateyourmusic.com/release/single/the-kinks/rock-n-roll-fantasy-artificial-light/",
+      "title": "Rock 'n' Roll Fantasy / Artificial Light by The Kinks",
+      "content": "Rock 'n' Roll Fantasy / Artificial Light, a Single by The Kinks. Released 19 May 1978 on Arista (catalog no. ARIST 189; Vinyl 7\"). Genres: Pop Rock, Art",
+      "score": 0.77589405,
+      "raw_content": null
+    },
+    {
+      "url": "https://music.apple.com/gb/album/artificial-light-single/1599115915",
+      "title": "Artificial Light - Single - Album by Louis Patten & MANÜKA",
+      "content": "Listen to Artificial Light - Single by Louis Patten & MANÜKA on Apple Music. 2022. 1 Song. Duration: 3 minutes.",
+      "score": 0.73981786,
+      "raw_content": null
+    },
+    {
+      "url": "https://open.spotify.com/track/7d50o8ry0rojz7oDgOBi6s",
+      "title": "Artificial Light - song and lyrics by The Kinks",
+      "content": "Listen to Artificial Light on Spotify. Song · The Kinks · 2006. ... Single • 2025 · I'm Not Like Everybody Else (Live at the Royal Albert Hall",
+      "score": 0.65835214,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IHojo0fjIa0",
+      "title": "Rainer Maria - Artificial Light [OFFICIAL AUDIO]",
+      "content": "... Artificial Light\" is taken from Rainer Maria's album, A Better Version of Me - released January 23, 2001 via @PolyvinylRecords. https://www",
+      "score": 0.6326168,
+      "raw_content": null
+    },
+    {
+      "url": "https://open.spotify.com/track/7xQunxHC3XhTZFdaedZcwh",
+      "title": "Artificial Light (Live) - song and lyrics by Typhoon",
+      "content": "Listen to Artificial Light (Live) on Spotify. Song · Typhoon · 2015. ... Single • 2022 · New Wife. Single • 2022 · Never Be Your Lover (Bonus Track). Single",
+      "score": 0.62852204,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.21,
+  "request_id": "b318c6ac-146b-4868-8d10-48fc1437c9b3"
+}
+================================================================================
+Attempt: 4
+Query: The Kinks band origin city hometown where from
+Full Tavily Payload:
+{
+  "query": "The Kinks band origin city hometown where from",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.facebook.com/groups/139634569939476/posts/1666202777282640/",
+      "title": "The Kinks Music History and Evolution - Facebook",
+      "content": "Formed as a rhythm-and-blues band in 1963 by brothers Ray and Dave Davies, the Kinks originated in Muswell Hill in northern London. Built on",
+      "score": 0.81524754,
+      "raw_content": null
+    },
+    {
+      "url": "https://simple.wikipedia.org/wiki/The_Kinks",
+      "title": "The Kinks - Simple English Wikipedia, the free encyclopedia",
+      "content": "The band was formed in 1962 by the brothers Ray and Dave Davies. The Kinks. Original line-up in 1965. Background information. Origin, London",
+      "score": 0.81097376,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.facebook.com/groups/7770644756330437/posts/8779881412073428/",
+      "title": "The Kinks British Rock Band History and Influence - Facebook",
+      "content": "Formed as a rhythm-and-blues band in 1963 by brothers Ray and Dave Davies, the Kinks originated in Muswell Hill in northern London. Built on",
+      "score": 0.8020137,
+      "raw_content": null
+    },
+    {
+      "url": "https://ultimatepopculture.fandom.com/wiki/The_Kinks",
+      "title": "The Kinks | Ultimate Pop Culture Wiki - Fandom",
+      "content": "The Kinks were an English rock band formed in Muswell Hill, North London, by brothers Ray and Dave Davies in 1964. Categorised in the United States as a",
+      "score": 0.78572035,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Kinks",
+      "title": "The Kinks - Wikipedia",
+      "content": "**The Kinks** were an English rock band formed in London in 1963 by brothers Ray and Dave Davies, and Pete Quaife. | Related articles | * Discography * Band members * Konk \"Konk (recording studio)\") * The Kast Off Kinks * Argent \"Argent (band)\") * *X-Ray \"X-Ray (book)\")* * *Do It Again \"Do It Again (film)\")* * *Give the People What We Want: Songs of The Kinks* * *This Is Where I Belong – The Songs of Ray Davies & The Kinks* * *Sunny Afternoon* (musical) \"Sunny Afternoon (musical)\") |",
+      "score": 0.71305263,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.03,
+  "request_id": "cdd811de-1c36-443a-ad13-79fb94528873"
 }

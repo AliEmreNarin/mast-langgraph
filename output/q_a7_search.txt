@@ -1,0 +1,196 @@
+================================================================================
+Attempt: 1
+Query: The Professional Basketball Club LLC is an investment group headed by an American businessman who is the chairman of Dorchester Capital Corporation, and is also the chairman emeritus of the board of directors of what organization?
+Full Tavily Payload:
+{
+  "query": "The Professional Basketball Club LLC is an investment group headed by an American businessman who is the chairman of Dorchester Capital Corporation, and is also the chairman emeritus of the board of directors of what organization?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Professional_Basketball_Club",
+      "title": "Professional Basketball Club - Wikipedia",
+      "content": "**Professional Basketball Club LLC** is an investment group headed by Clay Bennett \"Clay Bennett (businessman)\") that owns the National Basketball Association (NBA)'s Oklahoma City Thunder franchise (formerly the Seattle SuperSonics) and the Thunder's NBA G League affiliate Oklahoma City Blue. | Western Conference \"Western Conference (NBA)\") | |  |  | | --- | --- | | Southwest \"Southwest Division (NBA)\") | * Miriam Adelson and Patrick Dumont (Dallas Mavericks) * Tilman Fertitta (Houston Rockets) * Robert Pera (Memphis Grizzlies) * Gayle Benson (New Orleans Pelicans) * Spurs Sports & Entertainment (Julianna Holt) (San Antonio Spurs) | | Northwest \"Northwest Division (NBA)\") | * Ann Walton Kroenke (Denver Nuggets) * Glen Taylor (Minnesota Timberwolves) * Professional Basketball Club (Clayton Bennett \"Clay Bennett (businessman)\")) (Oklahoma City Thunder) * Jody Allen (Portland Trail Blazers) * Ryan Smith \"Ryan Smith (businessman)\") (Utah Jazz) | | Pacific \"Pacific Division (NBA)\") | * Peter Guber and Joe Lacob (Golden State Warriors) * Steve Ballmer (Los Angeles Clippers) * Mark Walter and Jeanie Buss (Los Angeles Lakers) * Mat and Justin Ishbia (Phoenix Suns) * Vivek Ranadivé (Sacramento Kings) | |",
+      "score": 0.9051298,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Clay_Bennett_(businessman)",
+      "title": "Clay Bennett (businessman) - Wikipedia",
+      "content": "**Clayton Ike Bennett** (born November 14, 1959) is an American businessman and chairman of the Professional Basketball Club LLC, the ownership group of the Oklahoma City Thunder, an NBA franchise formerly known as the Seattle SuperSonics. | Western Conference \"Western Conference (NBA)\") | |  |  | | --- | --- | | Southwest \"Southwest Division (NBA)\") | * Miriam Adelson and Patrick Dumont (Dallas Mavericks) * Tilman Fertitta (Houston Rockets) * Robert Pera (Memphis Grizzlies) * Gayle Benson (New Orleans Pelicans) * Spurs Sports & Entertainment (Julianna Holt) (San Antonio Spurs) | | Northwest \"Northwest Division (NBA)\") | * Ann Walton Kroenke (Denver Nuggets) * Glen Taylor (Minnesota Timberwolves) * Professional Basketball Club (Clayton Bennett) (Oklahoma City Thunder) * Jody Allen (Portland Trail Blazers) * Ryan Smith \"Ryan Smith (businessman)\") (Utah Jazz) | | Pacific \"Pacific Division (NBA)\") | * Peter Guber and Joe Lacob (Golden State Warriors) * Steve Ballmer (Los Angeles Clippers) * Mark Walter and Jeanie Buss (Los Angeles Lakers) * Mat and Justin Ishbia (Phoenix Suns) * Vivek Ranadivé (Sacramento Kings) | |",
+      "score": 0.87139857,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.instagram.com/reel/DLSiNI0RxF1/",
+      "title": "Clayton Ike Bennett is an American businessman and chairman of ...",
+      "content": "Bennett is the chairman of Oklahoma City-based Dorchester Capital Corporation, as well as the chairman emeritus of the board of directors of the",
+      "score": 0.846159,
+      "raw_content": null
+    },
+    {
+      "url": "https://massinvestordatabase.com/Dorchester+Capital/investmentfirm.php",
+      "title": "Dorchester Capital - Massinvestor Venture Capital and Private ...",
+      "content": "Bennett (born 1960) is an American businessman and chairman of the Professional Basketball Club, LLC, the ownership group of the Oklahoma City Thunder NBA",
+      "score": 0.8058924,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.nba.com/thunder/ownership",
+      "title": "The Professional Basketball Club, LLC | Oklahoma City Thunder - NBA",
+      "content": "* TICKETS + Ticket Memberships + Single‑Game Tickets + Ticket Interest + Mobile Ticketing + NBA Code of Conduct * TEAM + Team Roster + Team Stats + Executive Team + Media Guide * SCHEDULE + Full Schedule + Home Schedule + Downloadable Schedule + Printable Schedule * NEWS + News & Media + Radio Network + OKC Thunder Films + Thunder Legacy Network + Thunder Entertainers Auditions + Love's Loud City + Bar Network The PBC owns both the Oklahoma City Thunder of the NBA and the Oklahoma City Blue of the NBA Developmental League. The PBC purchased the NBA franchise in 2006. Chairman, Dorchester Capital Chairman, BOK Financial Howard II********** Chairman, Howard Investments",
+      "score": 0.70871735,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.35,
+  "request_id": "9b1de2d7-384c-41ee-bad9-8a6ac083dc27"
+}
+================================================================================
+Attempt: 2
+Query: Clay Bennett Dorchester Capital Corporation chairman emeritus board of directors
+Full Tavily Payload:
+{
+  "query": "Clay Bennett Dorchester Capital Corporation chairman emeritus board of directors",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.wikiwand.com/en/articles/Clay_Bennett_(businessman)",
+      "title": "Clay Bennett (businessman) - Wikiwand",
+      "content": "Bennett is the chairman of Oklahoma City-based Dorchester Capital Corporation, as well as the chairman emeritus of the board of directors of the Oklahoma",
+      "score": 0.90692574,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.sportskeeda.com/basketball/news-who-oklahoma-city-thunder-owner-clay-bennett-all-need-know",
+      "title": "Who is Oklahoma City Thunder owner Clay Bennett? All you need to ...",
+      "content": "Outside of basketball, Clay Bennett serves as the chairman for Dorchester Capital Corporation and the chairman emeritus of the board of",
+      "score": 0.852752,
+      "raw_content": null
+    },
+    {
+      "url": "https://massinvestordatabase.com/Dorchester+Capital/investmentfirm.php",
+      "title": "Dorchester Capital - Massinvestor Venture Capital and Private ...",
+      "content": "Clayton 'Clay' Ike Bennett is the chairman of Oklahoma City-based Dorchester Capital Corporation, a private investment corporation. Bennett (born 1960) is",
+      "score": 0.7944651,
+      "raw_content": null
+    },
+    {
+      "url": "https://okqha.org/portfolio-item/clay-bennett-bud-breeding-spirit-award-winner/",
+      "title": "Clay Bennett – Bud Breeding Spirit Award Winner",
+      "content": "Clayton I Bennett serves as President of Dorchester Capital, a diversified private Investment Company, and Chairman of Oklahoma City Thunder, a franchise of",
+      "score": 0.73981786,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.oklahoman.com/story/news/2003/09/07/chairman-of-the-board-clayton-i-bennett-president-dorchester-capital/62027198007/",
+      "title": "Chairman of the Board, Clayton I. Bennett, President, Dorchester ...",
+      "content": "Bennett was elected to the board of directors of the Oklahoma State Fair Inc. in 1986 and has served as chairman since 1997.",
+      "score": 0.7192461,
+      "raw_content": null
+    }
+  ],
+  "response_time": 0.99,
+  "request_id": "9fc7e5b6-a6cc-49fd-8a11-d01189f3f8ce"
+}
+================================================================================
+Attempt: 3
+Query: Clay Bennett chairman emeritus board of directors Oklahoma organization
+Full Tavily Payload:
+{
+  "query": "Clay Bennett chairman emeritus board of directors Oklahoma organization",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.wikiwand.com/en/articles/Clay_Bennett_(businessman)",
+      "title": "Clay Bennett (businessman) - Wikiwand",
+      "content": "Bennett is the chairman of Oklahoma City-based Dorchester Capital Corporation, as well as the chairman emeritus of the board of directors of the Oklahoma",
+      "score": 0.8747745,
+      "raw_content": null
+    },
+    {
+      "url": "https://downtownokc.com/board-of-directors/",
+      "title": "Board of Directors - Downtown OKC",
+      "content": "... Emeritus Board Member. Clay Bennett Dorchester Capital Emeritus Board Member. Mick Cornett ... OKLAHOMA CITY INITIATIVES BOARD OF DIRECTORS. Steve Mason Mason",
+      "score": 0.80442166,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Clay_Bennett_(businessman)",
+      "title": "Clay Bennett (businessman) - Wikipedia",
+      "content": "**Clayton Ike Bennett** (born November 14, 1959) is an American businessman and chairman of the Professional Basketball Club LLC, the ownership group of the Oklahoma City Thunder, an NBA franchise formerly known as the Seattle SuperSonics. | Western Conference \"Western Conference (NBA)\") | |  |  | | --- | --- | | Southwest \"Southwest Division (NBA)\") | * Miriam Adelson and Patrick Dumont (Dallas Mavericks) * Tilman Fertitta (Houston Rockets) * Robert Pera (Memphis Grizzlies) * Gayle Benson (New Orleans Pelicans) * Spurs Sports & Entertainment (Julianna Holt) (San Antonio Spurs) | | Northwest \"Northwest Division (NBA)\") | * Ann Walton Kroenke (Denver Nuggets) * Glen Taylor (Minnesota Timberwolves) * Professional Basketball Club (Clayton Bennett) (Oklahoma City Thunder) * Jody Allen (Portland Trail Blazers) * Ryan Smith \"Ryan Smith (businessman)\") (Utah Jazz) | | Pacific \"Pacific Division (NBA)\") | * Peter Guber and Joe Lacob (Golden State Warriors) * Steve Ballmer (Los Angeles Clippers) * Mark Walter and Jeanie Buss (Los Angeles Lakers) * Mat and Justin Ishbia (Phoenix Suns) * Vivek Ranadivé (Sacramento Kings) | |",
+      "score": 0.7460839,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.oklahoman.com/story/news/2004/04/11/association-re-elects-chairman-fills-posts/61994732007/",
+      "title": "Association re-elects chairman, fills posts - The Oklahoman",
+      "content": "The Oklahoma Heritage Association re-elected Clayton I. Bennett of Oklahoma City as its chairman of the board and filled other officer positions.",
+      "score": 0.72325134,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.sportskeeda.com/basketball/news-who-oklahoma-city-thunder-owner-clay-bennett-all-need-know",
+      "title": "Who is Oklahoma City Thunder owner Clay Bennett? All you need to ...",
+      "content": "Clay Bennett is the chairman of Professional Basketball Club LLC, which is the group that owns the Oklahoma City Thunder.",
+      "score": 0.6836946,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.25,
+  "request_id": "6e61436d-385d-465a-83ef-56c6b16d3f5c"
+}
+================================================================================
+Attempt: 4
+Query: "Clay Bennett" "chairman emeritus" "Oklahoma City" board directors organization name
+Full Tavily Payload:
+{
+  "query": "\"Clay Bennett\" \"chairman emeritus\" \"Oklahoma City\" board directors organization name",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://alchetron.com/Clay-Bennett-(businessman)",
+      "title": "Clay Bennett (businessman) - Alchetron, the free social encyclopedia",
+      "content": "Bennett is the chairman of Oklahoma City-based Dorchester Capital Corporation, as well as the chairman emeritus of the board of directors of the",
+      "score": 0.8568246,
+      "raw_content": null
+    },
+    {
+      "url": "https://prezi.com/1rv8dqwd1cfv/clayton-bennett-owner-of-the-oklahoma-city-thunder/",
+      "title": "Clayton Bennett: Owner of the Oklahoma City Thunder - Prezi",
+      "content": "He is currently the chairman emeritus of the board of directors of the Oklahoma Heritage Association. ... “Clay Bennett had the resourcefulness, tenacity",
+      "score": 0.8512743,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.therichest.com/celebnetworth/celebrity-business/men/clay-bennett-net-worth/",
+      "title": "Clay Bennett Net Worth | TheRichest",
+      "content": "Clay Bennett was named the chairman of the relocation committee of the NBA. ... chairman emeritus of the board of directors of the Oklahoma Heritage Association.",
+      "score": 0.84215075,
+      "raw_content": null
+    },
+    {
+      "url": "https://en-academic.com/dic.nsf/enwiki/10203053",
+      "title": "Clayton Bennett - Academic Dictionaries and Encyclopedias",
+      "content": "Bennett is the chairman of Oklahoma City-based Dorchester Capital Corporation, as well as the chairman emeritus of the board of directors of the Oklahoma",
+      "score": 0.81524754,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.oklahoman.com/story/news/columns/2018/01/14/step-up-oklahoma-how-the-organization-formed-and-evolved/60549635007/",
+      "title": "How the organization formed and evolved - Step Up Oklahoma",
+      "content": "... chairman emeritus of Devon Energy Corp.; Clay Bennett, a member of the ownership group for the Oklahoma City Thunder; and David Rainbolt",
+      "score": 0.7574541,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.0,
+  "request_id": "0002c14f-4aec-4cda-9b36-ee36f57504f8"
+}

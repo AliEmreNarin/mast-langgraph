@@ -1,0 +1,98 @@
+================================================================================
+Attempt: 1
+Query: Jordan Mark Chapell plays for a team that plays at which stadium ?
+Full Tavily Payload:
+{
+  "query": "Jordan Mark Chapell plays for a team that plays at which stadium ?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Jordan_Chapell",
+      "title": "Jordan Chapell - Wikipedia",
+      "content": "Born in Sheffield, he started his career with his hometown club Sheffield United from where he had loan spells at Burton Albion and Torquay United, who he",
+      "score": 0.68496037,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.soccerbase.com/players/player.sd?player_id=55574",
+      "title": "Jordan Chapell | Football Stats | Matlock Town | Age 33 | Soccer Base",
+      "content": "Jordan Chapell. (Born 08 Sep, 1991) Forward for Matlock Town. Current season & career stats available, including appearances, goals & transfer fees.",
+      "score": 0.67243975,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.transfermarkt.us/jordan-chapell/profil/spieler/158334",
+      "title": "Jordan Chapell - Player profile | Transfermarkt",
+      "content": "Jordan Chapell ➤ former footballer from England ➤ Right Midfield ➤ last club: Sheffield FC ➤ * Sep 8, 1991 in Sheffield, England.",
+      "score": 0.6347929,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.facebook.com/groups/784323663906341/posts/1054726323532739/",
+      "title": "Jordan off to a fantastic start to summer league. He looks so much ...",
+      "content": "Playing him at PF hurts this team defensively on the perimeter. It also throws JT, JB, and White out of their usual rotation. This team plays",
+      "score": 0.13641296,
+      "raw_content": null
+    },
+    {
+      "url": "https://utmsports.com/sports/womens-soccer/roster/kamryn-chappell/2322",
+      "title": "Kamryn Chappell - 2021 Soccer Roster - UTM Athletics",
+      "content": "Became the fourth player in Skyhawk history to be named OVC Defensive Player of the Year as a fifth-year starter on the UTM back line.",
+      "score": 0.09892066,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.59,
+  "request_id": "47f0975a-4b29-46e4-848f-b813050bb937"
+}
+================================================================================
+Attempt: 2
+Query: Matlock Town FC home stadium ground venue
+Full Tavily Payload:
+{
+  "query": "Matlock Town FC home stadium ground venue",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://nonleaguetravelsblog.wordpress.com/2017/10/23/grounds-review-the-autoworld-arena-home-of-matlock-town-fc/",
+      "title": "Grounds Review- The Autoworld Arena (Home of Matlock Town FC)",
+      "content": "The Autoworld Arena is located on Causeway Lane, Matlock, it faces Hall Leys Park and it is close to Matlock Cricket Club as well and it is",
+      "score": 0.84246206,
+      "raw_content": null
+    },
+    {
+      "url": "https://jdgsport.com/grounds/proctors-cars-stadium/",
+      "title": "Proctors Cars Stadium, home to Matlock Town FC - JDG Sport",
+      "content": "The focal point of the ground itself is The Twigg Stand, a relatively new all-seater stand which has an adjoining clubhouse, changing rooms and",
+      "score": 0.7610953,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.matlocktownfc.co.uk/guide-to-matlock-town.asp",
+      "title": "Guide to Matlock Town",
+      "content": "We are situated on The Proctor Cars Stadium, just 200 yards from the town centre. With that in mind, parking at the Ground is limited to special match days",
+      "score": 0.7489592,
+      "raw_content": null
+    },
+    {
+      "url": "https://fc-utd.co.uk/grounds/causeway-lane",
+      "title": "Causeway Lane - Matlock Town - FC United of Manchester",
+      "content": "Ground Address: Causeway Lane, Matlock, Derbyshire, DE4 3AR View Map · Ground Capacity: 2,400 · Has the first team played there before? · Getting to the ground by",
+      "score": 0.73868835,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.transfermarkt.us/matlock-town/stadion/verein/16040",
+      "title": "Matlock Town - Stadium - The Proctor Cars Stadium | Transfermarkt",
+      "content": "The Proctor Cars Stadium ; Causeway Lane ; DE4 3AR Matlock ; England",
+      "score": 0.6952351,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.18,
+  "request_id": "4b0aa1bb-f16e-44b7-ba9d-4aa99ec927a0"
+}

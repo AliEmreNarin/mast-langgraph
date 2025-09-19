@@ -1,0 +1,42 @@
+QUESTION:
+What university in Logan Utah owns Space Dynamics Laboratory?
+
+GROUND TRUTH ANSWER:
+Utah State University
+================================================================================
+Attempt: 1
+Query: What university in Logan Utah owns Space Dynamics Laboratory?
+Results:
+  [1] Search Result | 
+
+--- Prompt ---
+You are a careful researcher. Use ONLY the context below.
+
+Question:
+What university in Logan Utah owns Space Dynamics Laboratory?
+
+Context (web search results):
+[1] Search Result
+URL: 
+Snippet: {'query': 'What university in Logan Utah owns Space Dynamics Laboratory?', 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://en.wikipedia.org/wiki/Space_Dynamics_Laboratory', 'title': 'Space Dynamics Laboratory - Wikipedia', 'content': "**Space Dynamics Laboratory** (**SDL**) is a nonprofit government contractor owned by Utah State University. Together with Utah State University, SDL has completed over 420 successful space missions and deployed over 500 independent hardware and software systems into space. SDL was formed in 1982 from the merger of Utah State University's Electro Dynamics Laboratories (founded in 1959) and the University of Utah's Upper Air Research Laboratory (founded in 1948). SDL origins date back to 1948 with experiments by the Univ
+
+
+Instructions:
+- If the context is sufficient, produce a concise answer with inline citations [1], [2], etc.
+- If the context is insufficient, do NOT guess; instead propose ONE improved web search query that would likely retrieve the needed info.
+- If question requires multiple queries, than divide the question into multiple questions and propose one query for each question.
+
+Output format (must follow exactly):
+ANSWER: <your answer or say "I don't know based on the context">
+FOLLOW_UP_QUERY: <a single refined query or "none">
+
+--- Raw Reasoning Output ---
+ANSWER: Utah State University owns Space Dynamics Laboratory [1].
+
+FOLLOW_UP_QUERY: none
+
+--- Model Answer (this attempt) ---
+Utah State University owns Space Dynamics Laboratory [1].
+
+FOLLOW_UP_QUERY: none
+--------------------------------------------------------------------------------

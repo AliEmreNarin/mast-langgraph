@@ -1,0 +1,196 @@
+================================================================================
+Attempt: 1
+Query: How many years of service must be performed to receive the ribbon created by the first United States Secretary of Defense?
+Full Tavily Payload:
+{
+  "query": "How many years of service must be performed to receive the ribbon created by the first United States Secretary of Defense?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://tmd.texas.gov/us-service-campaign-medals-and-service-and-training-ribbons-army",
+      "title": "U.S. service (campaign) medals and service and training ribbons army",
+      "content": "The service prescribed must have been performed under any of the following conditions: ... (1) Such years of service must have been performed within a period of",
+      "score": 0.32293206,
+      "raw_content": null
+    },
+    {
+      "url": "https://veteranmedals.army.mil/home/us-army-medals-award-badges-ribbon-and-attachments-information/us-army-service-campaign-medals-and-foreign-awards-information",
+      "title": "U.S. Army Service, Campaign Medals and Foreign Awards Information",
+      "content": "... years to three years; however, this change was not retroactive. Service must have been consecutive and service performed in the Reserve Component of the U.S.",
+      "score": 0.31878248,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/National_Defense_Service_Medal",
+      "title": "National Defense Service Medal - Wikipedia",
+      "content": "The **National Defense Service Medal** (**NDSM**) is a service award of the United States Armed Forces established by President Dwight D. Executive Order 11265, dated January 11, 1966, extended eligibility for the NDSM to service members \"who served during any period after December 31, 1960, which the Secretary of Defense designates as being a period for which active military service merits special recognition.\" The closing date of this period of eligibility was later set at August 14, 1974 by a letter from the Assistant Secretary of Defense for Manpower and Reserve Affairs, subject: Termination of Eligibility for the National Defense Service Medal, dated June 30, 1974. The National Defense Service Medal (NDSM) is awarded to anyone who has served on active duty, or as an active reservist, in the United States Armed Forces during any of four specified time periods.",
+      "score": 0.24369235,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.afpc.af.mil/Fact-Sheets/Display/Article/421890/national-defense-service-medal/",
+      "title": "National Defense Service Medal - Air Force Personnel Center",
+      "content": "National Defense Service Medal > Air Force's Personnel Center > Display  *   The Air Force's Personnel Center *   Air Force Families Forever Image 1: Air Force's Personnel CenterAir Force's Personnel Center It is awarded for honorable active military service as a member of the armed forces of the United States including the Coast Guard, during the following periods: -Service members who earned the medal during the first qualifying period, and who again became entitled to the medal, wear a bronze star on the ribbon to denote the second award of the medal. _The appearance of external links on this site does not constitute official endorsement on behalf of the U.S. Air Force or Department of Defense._ *   Air Force Benefits *   Air Force Careers",
+      "score": 0.09923447,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Defense_Meritorious_Service_Medal",
+      "title": "Defense Meritorious Service Medal - Wikipedia",
+      "content": "The Defense Meritorious Service Medal (DMSM) is an award bestowed upon members of the United States military by the United States Department of Defense.",
+      "score": 0.09492092,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.57,
+  "request_id": "b703f26a-cc89-4512-9427-244cacda8e53"
+}
+================================================================================
+Attempt: 2
+Query: James Forrestal first Secretary of Defense ribbon award years of service requirement
+Full Tavily Payload:
+{
+  "query": "James Forrestal first Secretary of Defense ribbon award years of service requirement",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/James_Forrestal",
+      "title": "James Forrestal - Wikipedia",
+      "content": "Awards. Forrestal was awarded both the Distinguished Service Medal and the Medal of Merit by President Truman.",
+      "score": 0.5837973,
+      "raw_content": null
+    },
+    {
+      "url": "https://military-history.fandom.com/wiki/James_Forrestal",
+      "title": "James Forrestal | Military Wiki | Fandom",
+      "content": "James Vincent Forrestal (February 15, 1892 – May 22, 1949) was the last Cabinet-level United States Secretary of the Navy and the first United States Secretary",
+      "score": 0.5809471,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/United_States_Secretary_of_Defense",
+      "title": "United States Secretary of Defense - Wikipedia",
+      "content": "The first secretary of defense, James Forrestal, who in his previous capacity as the secretary of the Navy had opposed the creation of the new position, found",
+      "score": 0.44217938,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.omsa.org/files/Carr%20&%20Menke%20ADSM.pdf",
+      "title": "[PDF] THE AMERICAN DEFENSE SERVICE MEDAL",
+      "content": "The ribbon design was approved by the Secretary of War and the Secretary of Navy on January 7, 1942. Production and issue of ribbon bars commenced about a year",
+      "score": 0.3068494,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.trumanlibrary.gov/library/public-papers/63/citation-accompanying-distinguished-service-medal-awarded-james-forrestal",
+      "title": "Citation Accompanying Distinguished Service Medal Awarded to ...",
+      "content": "Beginning this challenging assignment with a background of more than seven years of distinguished public service, he performed his duties as Secretary of",
+      "score": 0.25823525,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.1,
+  "request_id": "4ff83ec9-94b1-40c8-813f-006a032a7376"
+}
+================================================================================
+Attempt: 3
+Query: Defense Distinguished Service Medal James Forrestal years of service requirement eligibility
+Full Tavily Payload:
+{
+  "query": "Defense Distinguished Service Medal James Forrestal years of service requirement eligibility",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.omsa.org/files/Carr%20&%20Menke%20ADSM.pdf",
+      "title": "[PDF] THE AMERICAN DEFENSE SERVICE MEDAL",
+      "content": "On December 10,. 1948, James Forrestal, the Secretary of Defense, issued ... Even though the last date of eligibility for the medal was 69 years ago, there",
+      "score": 0.6786044,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/James_Forrestal",
+      "title": "James Forrestal - Wikipedia",
+      "content": "James Vincent Forrestal (February 15, 1892 – May 22, 1949) was the last cabinet-level United States secretary of the Navy and the first United States",
+      "score": 0.4184836,
+      "raw_content": null
+    },
+    {
+      "url": "https://military-history.fandom.com/wiki/James_Forrestal",
+      "title": "James Forrestal | Military Wiki | Fandom",
+      "content": "James Vincent Forrestal (February 15, 1892 – May 22, 1949) was the last Cabinet-level United States Secretary of the Navy and the first United States Secretary",
+      "score": 0.38755178,
+      "raw_content": null
+    },
+    {
+      "url": "https://navy.togetherweserved.com/usn/servlet/tws.webapp.WebApp?cmd=ShadowBoxProfile&type=AssignmentExt&ID=1475811",
+      "title": "LT James Forrestal - Navy - Together We Served",
+      "content": "James Forrestal (February 15, 1892 – May 22, 1949) was the last Cabinet-level United States Secretary of the Navy and the first United States Secretary of",
+      "score": 0.3164965,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/f/forrestal-cva-59.html",
+      "title": "Forrestal (CVA-59) - Naval History and Heritage Command",
+      "content": "From her home port in Norfolk, Va., Forrestal spent the first year of her commissioned service in intensive training operations off the Virginia capes and in",
+      "score": 0.25006524,
+      "raw_content": null
+    }
+  ],
+  "response_time": 2.54,
+  "request_id": "d4adb596-8487-4d37-bff2-9c94e47b5552"
+}
+================================================================================
+Attempt: 4
+Query: American Defense Service Medal eligibility requirements years of service 1948 Forrestal
+Full Tavily Payload:
+{
+  "query": "American Defense Service Medal eligibility requirements years of service 1948 Forrestal",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.omsa.org/files/Carr%20&%20Menke%20ADSM.pdf",
+      "title": "[PDF] THE AMERICAN DEFENSE SERVICE MEDAL",
+      "content": "On December 10,. 1948, James Forrestal, the Secretary of Defense, issued ... Even though the last date of eligibility for the medal was 69 years ago,.",
+      "score": 0.74697095,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.officialmilitaryribbons.com/military_ribbon_info/usmc_military_ribbons/american_defense.html",
+      "title": "american defense military medal",
+      "content": "Service members in the U.S. Army were required to have had served for a period of at least 12 months. Recipients of the American Defense Service Medal",
+      "score": 0.67037153,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.amervets.com/replacement/adm.htm",
+      "title": "American Defense Service Medal Display Recognition",
+      "content": "Army members had to serve 12 months to be eligible, but Navy and Marine Corps members were eligible based on any length of service. Order of Precedence. The",
+      "score": 0.650934,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.rollofhonor.org/public/htmldetails.aspx?Cat=award&EntID=4580",
+      "title": "American Defense Service Medal - Military Roll of Honor",
+      "content": "Army members had to serve 12 months to be eligible, but Navy and Marine Corps members were eligible based on any length of service. Order of Precedence. The",
+      "score": 0.6150191,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.history.navy.mil/browse-by-topic/heritage/awards/service-campaign/american-defense-service-medal.html",
+      "title": "American Defense Service Medal",
+      "content": "The American Defense Service Medal will be awarded to all persons in the naval service who served on active duty at any time between 8 September 1939 and 7",
+      "score": 0.5414337,
+      "raw_content": null
+    }
+  ],
+  "response_time": 2.39,
+  "request_id": "8de86119-786c-4d0e-9583-e5dfe9840c41"
+}

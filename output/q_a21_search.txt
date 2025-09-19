@@ -1,0 +1,98 @@
+================================================================================
+Attempt: 1
+Query: What interface standard does FireWire cameras use for transmission of audio,video, and data?
+Full Tavily Payload:
+{
+  "query": "What interface standard does FireWire cameras use for transmission of audio,video, and data?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://hansenmedia.net/ddm/firewire/",
+      "title": "FireWire (IEEE 1394) - Hansen Media",
+      "content": "FireWire (IEEE 1394) ... (n.) An interface standard that specifies a transmission method, medium, and protocol. This high-performance serial bus defines a point-",
+      "score": 0.7352811,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.seagate.com/support/kb/lacie/firewire-questions-answers-007272en/",
+      "title": "FireWire Questions & Answers | Seagate US",
+      "content": "The FireWire interface is a fast, cross-platform serial bus, and is ideal for digital audio, video and graphic applications that demand plenty of bandwidth.",
+      "score": 0.6912478,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.cmple.com/learn/firewire-cables-2?srsltid=AfmBOoolvJGNWASDRafzBpSazPrAL-VVClGRHCj4aab5rBBqR3hOf9gR",
+      "title": "firewire cables | learning center - Cmple.com",
+      "content": "FireWire cables are basically used with the standard serial bus interface that helps with communication at high speed and also uses isochronous real-time data",
+      "score": 0.68697983,
+      "raw_content": null
+    },
+    {
+      "url": "https://computer.howstuffworks.com/firewire.htm",
+      "title": "How FireWire Works - Computer | HowStuffWorks",
+      "content": "Sending Data via FireWire​​ FireWire uses 64-bit fixed addressing, based on the IEEE 1212 standard. There are three parts to each packet of information sent by a",
+      "score": 0.6742441,
+      "raw_content": null
+    },
+    {
+      "url": "https://iec.net/home/technical-information/ieee-1394-firewire/",
+      "title": "IEEE-1394 (FIREWIRE) - IEC.net",
+      "content": "FireWire is a high-speed serial communication standard defined by IEEE 1394. It was originally designated by Apple, where the name \"FireWire\" came from.",
+      "score": 0.6693348,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.06,
+  "request_id": "b39d3c89-a199-4dd0-a3f8-f94c263cb886"
+}
+================================================================================
+Attempt: 2
+Query: FireWire IEEE 1394 interface standard audio video data transmission protocol
+Full Tavily Payload:
+{
+  "query": "FireWire IEEE 1394 interface standard audio video data transmission protocol",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://hansenmedia.net/ddm/firewire/",
+      "title": "FireWire (IEEE 1394) - Hansen Media",
+      "content": "The FireWire IEEE 1394 standard supports asynchronous and isochronous data transfers. The asynchronous format transfers data and transaction layer information",
+      "score": 0.73981786,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/IEEE_1394",
+      "title": "IEEE 1394",
+      "content": "IEEE 1394 is an interface standard for a serial bus for high-speed communications and isochronous real-time data transfer. It was developed in the late 1980s",
+      "score": 0.6964752,
+      "raw_content": null
+    },
+    {
+      "url": "https://computer.howstuffworks.com/firewire.htm",
+      "title": "How FireWire Works",
+      "content": "FireWire is a method of transferring information between digital devices, especially audio and video equipment. Also known as IEEE 1394, FireWire is fast.",
+      "score": 0.683948,
+      "raw_content": null
+    },
+    {
+      "url": "https://forwardtechnologies.com/ieee-1394-firewire-overview/",
+      "title": "What Is FireWire (IEEE 1394)? High-Speed Data Transfer ...",
+      "content": "Learn about IEEE 1394, also known as FireWire, a high-speed serial bus for data transfer, video, and audio—used in Apple, Sony, and industrial systems.",
+      "score": 0.65887916,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.ti.com/lit/pdf/sllt199",
+      "title": "1394 (FireWire®)",
+      "content": "IEEE 1394 high-speed interconnection enables simple, low-cost, high-bandwidth real-time data connectivity between many types of electronic equipment. As a",
+      "score": 0.6437107,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.14,
+  "request_id": "6dc1ce19-9264-49b0-a68e-3f8c312517e8"
+}

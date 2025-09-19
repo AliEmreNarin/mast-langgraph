@@ -1,0 +1,224 @@
+================================================================================
+Attempt: 1
+Query: Who tied the record of an American college football quarterback for the University of Nevada for most touchdown passes in a season by a freshman that was later broken by an American football quarterback for the Minnesota Vikings of the National Football League who attended Putnam City North High School in Oklahoma City, where he starred in football, basketball and golf ?
+Full Tavily Payload:
+{
+  "query": "Who tied the record of an American college football quarterback for the University of Nevada for most touchdown passes in a season by a freshman that was later broken by an American football quarterback for the Minnesota Vikings of the National Football League who attended Putnam City North High School in Oklahoma City, where he starred in football, basketball and golf ?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://issuu.com/gcccks6/docs/2025_football_media_guide",
+      "title": "2025 Football Media Guide by gcccks6 - Issuu",
+      "content": "But the strong-armed freshman immediately won the starting quarterback job, pushing Matt Miller's offense to new heights. Marshall threw for a",
+      "score": 0.4024631,
+      "raw_content": null
+    },
+    {
+      "url": "https://herosports.com/trivia-most-touchdowns-freshman-ahah/",
+      "title": "Who Holds the Record for Most Touchdown Passes by a Freshman?",
+      "content": "+ FCS Home # College Football Countdown Trivia: Who Holds the Record for Most Touchdown Passes by a Freshman? HERO Sports is counting down the 100 days until the kickoff of the 2018 college football season on Saturday, Aug. 25, with daily trivia. **MORE:** Best FCS Player for Each Jersey Number[divider] ### 11 Best New College Football Uniforms of 2018 ### 11 Best New College Football Uniforms of 2018 HERO Sports is the go-to website for FBS and FCS football news, analysis, and predictions. For new customer offers, Bonus Bets expire in seven days. First Bet Offer for new customers only (if applicable). US PROMOTIONAL OFFERS NOT AVAILABLE IN MISSISSIPPI, NEVADA, NEW YORK, ONTARIO AND PUERTO RICO. + FCS Home",
+      "score": 0.20510544,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.si.com/college/usc/football/minnesota-vikings-sam-darnold-undefeated-leading-nfl-with-11-touchdown-passes-usc-trojans-aaron-rodgers-new-york-jets-london",
+      "title": "Minnesota Vikings' Sam Darnold Undefeated, Leading NFL with 11 ...",
+      "content": "Minnesota Vikings' Sam Darnold Undefeated, Leading NFL with 11 Touchdown Passes. Former USC Trojans Sam Darnold and the Minnesota Vikings moved",
+      "score": 0.18369643,
+      "raw_content": null
+    },
+    {
+      "url": "https://nevadawolfpack.com/news/2010/11/7/Kaepernick_Leads_No_23_Nevada_To_Record_Breaking_Win.aspx?path=studdev",
+      "title": "Kaepernick Leads No. 23 Nevada To Record-Breaking Win",
+      "content": "The touchdown enabled Kaepernick to tie Nevada's career record of 78 touchdown passes set by Eric Beavers from 1983-86.",
+      "score": 0.14695458,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.reddit.com/r/CFB/comments/e0on25/unc_qb_sam_howell_has_broken_the_fbs_record_for/",
+      "title": "UNC QB Sam Howell has broken the FBS record for most TD passes ...",
+      "content": "I assume someone here will mention Jameis Winston. He did, in fact, pass for 40 TDs in his first season but as a redshirt freshman.",
+      "score": 0.14447471,
+      "raw_content": null
+    }
+  ],
+  "response_time": 2.3,
+  "request_id": "686b2de1-adee-45f2-a507-dd5a46e9c648"
+}
+================================================================================
+Attempt: 2
+Query: University of Nevada freshman quarterback touchdown pass record tied broken Minnesota Vikings Putnam City North High School
+Full Tavily Payload:
+{
+  "query": "University of Nevada freshman quarterback touchdown pass record tied broken Minnesota Vikings Putnam City North High School",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://nevadawolfpack.com/news/2025/9/14/football-late-touchdown-sends-nevada-to-defeat.aspx",
+      "title": "Late touchdown sends Nevada to defeat",
+      "content": "Nicholas Vattiato scrambled 5 yards for a touchdown with 21 seconds remaining, lifting Middle Tennessee to a 14-13 victory over Nevada on",
+      "score": 0.054304067,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.espn.com/college-football/playbyplay?gameId=401752705",
+      "title": "https://www.espn.com/college-football/playbyplay?g...",
+      "content": "No information is available for this page. · Learn why",
+      "score": 0.05165867,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.4,
+  "request_id": "2c0f938c-0a52-4832-9a02-145919303a6e"
+}
+================================================================================
+Attempt: 3
+Query: Minnesota Vikings quarterback Putnam City North High School Oklahoma City football basketball golf
+Full Tavily Payload:
+{
+  "query": "Minnesota Vikings quarterback Putnam City North High School Oklahoma City football basketball golf",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sam_Bradford",
+      "title": "Sam Bradford",
+      "content": "He attended Putnam City North High School in Oklahoma City, where he starred in football, basketball, baseball, and golf for the Putnam City North Panthers.",
+      "score": 0.78493005,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.vikings.com/news/how-the-hardwood-huddle-shaped-a-well-rounded-sam-bradford-19336953",
+      "title": "How the Hardwood, Huddle Shaped a Well-Rounded Sam ...",
+      "content": "Sep 9, 2017—As a senior at Putnam City North High School,Bradford averaged 18.4 points and 10.5 rebounds per game. He also garnered plenty of attention",
+      "score": 0.29917732,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.twincities.com/2016/09/24/vikings-qb-sam-bradford-was-an-all-everything-athlete-until-football-won-out/",
+      "title": "Vikings QB Sam Bradford was an all-everything athlete",
+      "content": "“The greatest thing about playing sports growing up is my parents, they didn’t make me specialize, they didn’t tell me to pick a sport,’’ said Bradford, the only child of Kent and Martha. “I grew up an Oklahoma fan, grew up going to games,’’ Bradford said. “If he wasn’t playing football, I feel like he would have been either a lawyer or a financial adviser or something like that,’’ said Bench, who has maintained a close friendship with Bradford. By the end of the year, you saw the Sam Bradford I remembered from his rookie season.’’ “I was the offensive coordinator (for Bradford) in two places and I knew what he was good at,’’ Shurmur said.",
+      "score": 0.25958434,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.vikings.com/news/5-things-to-know-about-new-vikings-qb-sam-bradford-17617657",
+      "title": "5 Things to Know About New Vikings QB Sam Bradford",
+      "content": "# 5 Things to Know About New Vikings QB Sam Bradford The Vikings acquired quarterback Sam Bradford on Saturday in a trade with the Philadelphia Eagles, adding another signal caller to the roster after Teddy Bridgewater suffered a season-ending knee injury last week. Bradford will see a few recognizable faces around Winter Park, as he was teammates with Vikings running back Adrian Peterson at the University of Oklahoma during the 2006 season when Bradford was a redshirt freshman. Vikings tight ends coach Pat Shurmur was the Eagles offensive coordinator and interim head coach last season when Bradford started 14 games. Bradford excelled with the Rams during his rookie season, throwing for 3,512 yards and 18 touchdowns to win the 2010 NFL Offensive Rookie of the Year.",
+      "score": 0.13031887,
+      "raw_content": null
+    },
+    {
+      "url": "https://championships.usga.org/usamateurfourball/2025/articles/bradford--bench-seeking-four-ball-heisman-moment-in-new-jersey-.html",
+      "title": "Bradford, Bench Seeking Four-Ball Heisman Moment in ...",
+      "content": "Although Bench’s father and three uncles (Kevin Bench qualified for the 1980 U.S. Amateur) all played on the Division I golf team at the Air Force Academy, in Colorado Springs, Colo., it was Bradford who first prodded Bench into taking up the game. Had Bradford focused solely on golf over football – and it appears he made the proper career choice – Bench, who helped Oklahoma City University win consecutive NAIA titles in 2007 and ’08 (the program has 11 total), feels that he had the talent to play Division I college golf. Bradford also struggles to find time to practice and play at Oklahoma City Golf & Country Club, where he’s a member.",
+      "score": 0.08111866,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.39,
+  "request_id": "222553c0-045b-4ed7-b2da-eb3b8129ed33"
+}
+================================================================================
+Attempt: 4
+Query: Sam Bradford University of Nevada freshman touchdown pass record tied who
+Full Tavily Payload:
+{
+  "query": "Sam Bradford University of Nevada freshman touchdown pass record tied who",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.heisman.com/heisman-winners/sam-bradford/",
+      "title": "Sam Bradford - Heisman",
+      "content": "Sam Bradford became the second consecutive sophomore and the fifth Oklahoma player to be awarded the Heisman Trophy. In 2008, Bradford became the fifth Oklahoma player — and second-consecutive sophomore — to win the Heisman. Bradford’s combined 53 touchdowns running and passing are tied with Marcus Mariota for the most in Heisman history. The 2008 Heisman vote was an intriguing one, as Bradford beat out Colt McCoy and Tim Tebow despite Tebow getting the most first-place votes. | 1 | Sam Bradford | RS SO | QB | Oklahoma | 300 | 315 | 196 | 1726 | + Heisman Records & Statistics Heisman",
+      "score": 0.78334314,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.oklahoman.com/picture-gallery/sports/college/sooners/2008/11/24/sam-bradford-heisman-blitz/17725960007/",
+      "title": "Sam Bradford: Heisman Blitz - The Oklahoman",
+      "content": "Bradford tied a school record with five touchdown passes. (AP Photo/Sue Ogrocki) ORG XMIT: OKSO109. Sue Ogrocki.",
+      "score": 0.7009158,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.heisman.com/articles/10th-anniversary-heisman-winner-sam-bradford/",
+      "title": "10th Anniversary Heisman Winner: Sam Bradford",
+      "content": "The redshirt sophomore from Oklahoma City accumulated a Heisman-record 53 touchdowns that year—a mark since equaled in 2014 by Marcus Mariota—",
+      "score": 0.6133529,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.si.com/college/oklahoma/football/heisman-memories-sam-bradford-managed-to-exceed-lofty-expectations-in-historic-2008-season",
+      "title": "Heisman Memories: Sam Bradford Managed to Exceed Lofty ...",
+      "content": "After a stellar freshman campaign that saw him toss a freshman program-record 36 touchdowns, the expectations for **Sam Bradford** in his second year as starting quarterback were sky high. With a roster that included future NFL stars **DeMarco Murray**, **Jermaine Gresham**, **Trent Williams** and **Phil Loadholt**, along with one of the greatest college receivers of all-time in **Ryan Broyles**, everyone expected Bradford and the Oklahoma offense to put up jaw-dropping statistics all season long. Bradford would continue his stellar play to put together quite arguably the best season by a freshman quarterback in Sooners' history throwing for 3,121 yards and 36 touchdowns en route to a 12-win season and a Big 12 title.",
+      "score": 0.5942929,
+      "raw_content": null
+    },
+    {
+      "url": "https://americanfootball.fandom.com/wiki/Sam_Bradford",
+      "title": "Sam Bradford | American Football Wiki - Fandom",
+      "content": "After the regular season, Bradford captured the Davey O'Brien Award[16] and the Heisman Trophy.[17][18] He is the second sophomore, after 2007 winner Tim Tebow of the University of Florida, to receive the Heisman; he also became the fifth University of Oklahoma player, as well as the first person of Native American descent since Jim Plunkett in 1970, to capture the trophy.[19] Bradford received 1,726 total points while the other finalists, Colt McCoy, of the University of Texas, and Tim Tebow, received 1,604 and 1,575, respectively.",
+      "score": 0.5809471,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.12,
+  "request_id": "839ed372-d6ec-4078-9022-7b709521734e"
+}
+================================================================================
+Attempt: 5
+Query: University of Nevada Wolf Pack freshman quarterback touchdown pass record history Colin Kaepernick
+Full Tavily Payload:
+{
+  "query": "University of Nevada Wolf Pack freshman quarterback touchdown pass record history Colin Kaepernick",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Nevada_Wolf_Pack_football_statistical_leaders",
+      "title": "Nevada Wolf Pack football statistical leaders - Wikipedia",
+      "content": "Colin Kaepernick holds Wolf Pack career records in passing touchdowns, rushing touchdowns, and total offense yards. Although Nevada began competing in",
+      "score": 0.7065353,
+      "raw_content": null
+    },
+    {
+      "url": "https://nevadawolfpack.com/news/2010/11/7/Kaepernick_Leads_No_23_Nevada_To_Record_Breaking_Win.aspx?path=studdev",
+      "title": "Kaepernick Leads No. 23 Nevada To Record-Breaking Win",
+      "content": "Kaepernick threw a caree-high five touchdown passes and No. 25 Nevada piled up a team-record 844 yards of offense as the Wolf Pack beat Idaho 63",
+      "score": 0.67758125,
+      "raw_content": null
+    },
+    {
+      "url": "https://nevadasportsnet.com/news/reporters/this-week-in-wolf-pack-history-colin-kaepernick-sets-nfl-record-in-playoff-debut",
+      "title": "This Week in Wolf Pack History: Colin Kaepernick sets NFL record in ...",
+      "content": "Kaepernick rushed for 181 yards and two touchdowns in a 45-31 romp. The 181 rushing yards were the most ever by a quarterback in an NFL playoff.",
+      "score": 0.67347145,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.unr.edu/nevada-today/news/2024/colin-kaepernick-and-the-legacy-of-giants",
+      "title": "Colin Kaepernick and the legacy of giants | University of Nevada ...",
+      "content": "Kaepernick '10 made individual history in 2010 by becoming the first FBS quarterback to have passed for over 10,000 yards and rushed for over",
+      "score": 0.650934,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Colin_Kaepernick",
+      "title": "Colin Kaepernick - Wikipedia",
+      "content": "Kaepernick finished his junior season with 2,052 passing yards, 20 passing touchdowns, six interceptions 1,183 rushing yards and 16 rushing touchdowns.",
+      "score": 0.5889134,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.09,
+  "request_id": "a759f2f2-f848-4e8a-8e35-a1ee43c809e4"
+}

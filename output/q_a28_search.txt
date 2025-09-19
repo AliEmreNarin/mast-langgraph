@@ -1,0 +1,147 @@
+================================================================================
+Attempt: 1
+Query: An EF4 tornado touched down near which county in Kansas on May 18th?
+Full Tavily Payload:
+{
+  "query": "An EF4 tornado touched down near which county in Kansas on May 18th?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.cjonline.com/story/news/state/2025/05/19/21-tornadoes-reported-late-may-18-in-western-and-central-kansas/83721116007/",
+      "title": "21 tornadoes reported late May 18 in western and central Kansas",
+      "content": "Reno County Emergency Management said on Facebook that a \"powerful tornado\" touched down about 11:50 p.m., moving northeast through a rural",
+      "score": 0.8622012,
+      "raw_content": null
+    },
+    {
+      "url": "https://data.southcoasttoday.com/tornado-archive/kansas/1253117/",
+      "title": "Tornado on May. 18, 2025 16:27 PM CDT | southcoasttoday.com",
+      "content": "The first couple of tornadic|supercells occurred near Scott City KS in Scott County during the|late afternoon and progressed northward with both storms",
+      "score": 0.8386933,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.facebook.com/groups/severeweatherphoto/posts/2971487746351029/",
+      "title": "Wedge tornado tosses semi-trucks May 18th, 2025 Grinnell, Kansas",
+      "content": "Northern Rice County in central Kansas... South central Ellsworth County in central Kansas... Southeastern Barton County in central Kansas... *",
+      "score": 0.79883134,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.ksn.com/weather/weather-stories/tornado-hits-grinnell-multiple-damage-reports/",
+      "title": "Tornado hits Grinnell, multiple damage reports - KSN-TV",
+      "content": "A tornado hit the town of Grinnell in Gove County, Kansas, causing significant damage and leaving many without power and gas.",
+      "score": 0.74004334,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.weather.gov/gld/may18tornado",
+      "title": "May 18th 2025 Tornado Outbreak - National Weather Service",
+      "content": "Watching this image you can see the initial circulation move north out of Scott County and weaken, while new circulation (which becomes Grinnell tornado) begins to develop to its east.2245 UTC 0.5 Reflectivity, 0.5 Storm Relative Velocity, 0.5 Correlation Coefficient, 0.5 base velocity. Correlation coefficient (CC) showing an area of 0.85 and lower in same location as circulation, indicating debris being lofted by tornado.2249 UTC 0.5 Reflectivity, 0.5 Storm Relative Velocity, 0.5 Correlation Coefficient, 0.5 base velocity. The red dot is where the two tornadoes occurred.0.5 Degree Reflectivity / Storm Relative Velocity loop 0007 UTC image. Less than a minute later a second weaker tornado will form just west of the main one.0.5 Degree Reflectivity / Storm Relative Velocity loop 0010 UTC image.",
+      "score": 0.66569364,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.1,
+  "request_id": "86325e4a-6268-4268-a53a-69c805571049"
+}
+================================================================================
+Attempt: 2
+Query: EF4 tornado Kansas May 18 2025 county location
+Full Tavily Payload:
+{
+  "query": "EF4 tornado Kansas May 18 2025 county location",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://data.seacoastonline.com/tornado-archive/kansas/1253118/",
+      "title": "Tornado on May. 18, 2025 16:34 PM CDT - Seacoastonline.com",
+      "content": "The first couple of tornadic|supercells occurred near Scott City KS in Scott County during the|late afternoon and progressed northward with both storms",
+      "score": 0.7938904,
+      "raw_content": null
+    },
+    {
+      "url": "https://data.norwichbulletin.com/tornado-archive/kansas/1263308/",
+      "title": "Tornado on May. 18, 2025 16:39 PM CDT | norwichbulletin.com",
+      "content": "A lone supercell thunderstorm tracked across southwest Kansas and eventually moved into Reno County. This storm produced a long track wedge tornado that was on",
+      "score": 0.7927375,
+      "raw_content": null
+    },
+    {
+      "url": "https://data.southcoasttoday.com/tornado-archive/kansas/1253118/",
+      "title": "Tornado on May. 18, 2025 16:34 PM CDT | southcoasttoday.com",
+      "content": "The first couple of tornadic|supercells occurred near Scott City KS in Scott County during the|late afternoon and progressed northward with both storms",
+      "score": 0.7876867,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.facebook.com/groups/312043495856170/posts/2416948525365646/",
+      "title": "Greensburg, Kansas wedge tornado on May 18, 2025. This storm ...",
+      "content": "- Cherry County: Storm chasers reported a tornado three miles west-southwest of Merritt Reservoir in Cherry County. ... On the afternoon of May 21",
+      "score": 0.78314424,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.weather.gov/gld/may18tornado",
+      "title": "May 18th 2025 Tornado Outbreak - National Weather Service",
+      "content": "Watching this image you can see the initial circulation move north out of Scott County and weaken, while new circulation (which becomes Grinnell tornado) begins to develop to its east.2245 UTC 0.5 Reflectivity, 0.5 Storm Relative Velocity, 0.5 Correlation Coefficient, 0.5 base velocity. Correlation coefficient (CC) showing an area of 0.85 and lower in same location as circulation, indicating debris being lofted by tornado.2249 UTC 0.5 Reflectivity, 0.5 Storm Relative Velocity, 0.5 Correlation Coefficient, 0.5 base velocity. The red dot is where the two tornadoes occurred.0.5 Degree Reflectivity / Storm Relative Velocity loop 0007 UTC image. Less than a minute later a second weaker tornado will form just west of the main one.0.5 Degree Reflectivity / Storm Relative Velocity loop 0010 UTC image.",
+      "score": 0.73891455,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.01,
+  "request_id": "9e217d33-864f-4a63-8b2d-00f6c01cd0a0"
+}
+================================================================================
+Attempt: 3
+Query: "EF4 tornado" "May 18 2025" Kansas county rating classification
+Full Tavily Payload:
+{
+  "query": "\"EF4 tornado\" \"May 18 2025\" Kansas county rating classification",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.tiktok.com/@tornadoes_wx/video/7516338102831533354",
+      "title": "Tornado Chasing in Kansas: EF-4 Storm Highlights",
+      "content": "2011 Cullman-Arab ef4 tornado. How does the wide look ... The tornado that struck Plevna, Kansas on May 18, 2025, was rated an EF3.",
+      "score": 0.8458536,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.facebook.com/groups/777347005676867/posts/9870693599675450/",
+      "title": "Massive Tornado in Kansas with EF4 Rating and Debris ...",
+      "content": "... May 18 2025 The National Weather Service in Dodge City has issued a * Tornado Warning for... Eastern Kiowa County in south central Kansas",
+      "score": 0.83678174,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.tiktok.com/discover/tornado-damage-chart",
+      "title": "Tornado Damage Chart",
+      "content": "14.8K1w ago. vortexwx.cc. vortexwx.cc. The tornado that struck Plevna, Kansas on May 18, 2025, was rated an EF3. ... Explore the deadly EF4 tornado that tore",
+      "score": 0.80735475,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.tiktok.com/en/trending/detail/tornado-damages-plevna-ks",
+      "title": "Tornado Damages Plevna, Ks",
+      "content": "14.8K1w ago. vortexwx.cc. vortexwx.cc. The tornado that struck Plevna, Kansas on May 18, 2025, was rated an EF3. ... Chapman, Kansas EF4 Tornado 5",
+      "score": 0.7931224,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.reddit.com/r/tornado/comments/wtghd4/hackleburg_phil_campbell_tornado_42711_wind_speed/",
+      "title": "Hackleburg Phil Campbell tornado 4/27/11 wind speed ...",
+      "content": "r/tornado - First EF4 tornado of 2025; Diaz, AR ... r/tornado - My take on the May 18, 2025 plevna Kansas EF3 tornado. 31 upvotes · 11 comments",
+      "score": 0.63098115,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.05,
+  "request_id": "63d09423-42f1-40fe-8bca-09ddc851da8f"
+}

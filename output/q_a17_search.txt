@@ -1,0 +1,49 @@
+================================================================================
+Attempt: 1
+Query: Minshull Vernon is a civil parish in which unitary authority area with borough status in the ceremonial county of Cheshire, England?
+Full Tavily Payload:
+{
+  "query": "Minshull Vernon is a civil parish in which unitary authority area with borough status in the ceremonial county of Cheshire, England?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Minshull_Vernon",
+      "title": "Minshull Vernon - Wikipedia",
+      "content": "Minshull Vernon is a hamlet and civil parish in the unitary authority of Cheshire East and the ceremonial county of Cheshire, England.",
+      "score": 0.8941352,
+      "raw_content": null
+    },
+    {
+      "url": "https://minshull-vernon.parish.uk/",
+      "title": "Minshull Vernon - PARISH.UK Network",
+      "content": "Minshull Vernon is a hamlet and civil parish in the unitary authority of Cheshire East and the ceremonial county of Cheshire, England.",
+      "score": 0.87605256,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Church_Minshull",
+      "title": "Church Minshull - Wikipedia",
+      "content": "Church Minshull is a village and civil parish in the unitary authority of Cheshire East and the ceremonial county of Cheshire, England.",
+      "score": 0.7890553,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ceremonial_counties_of_England",
+      "title": "Ceremonial counties of England - Wikipedia",
+      "content": "| * Bedfordshire * Berkshire * Bristol * Buckinghamshire * Cambridgeshire * Cheshire * Cornwall * Cumbria * Derbyshire * Devon * Dorset * Durham * East Riding of Yorkshire * East Sussex * Essex * Gloucestershire * Greater London * Greater Manchester * Hampshire * Herefordshire * Hertfordshire * Isle of Wight * Kent * Lancashire * Leicestershire * Lincolnshire * City of London * Merseyside * Norfolk * Northamptonshire * Northumberland * North Yorkshire * Nottinghamshire * Oxfordshire * Rutland * Shropshire * Somerset * South Yorkshire * Staffordshire * Suffolk * Surrey * Tyne and Wear * Warwickshire * West Midlands \"West Midlands (county)\") * West Sussex * West Yorkshire * Wiltshire * Worcestershire | |",
+      "score": 0.2658565,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Civil_parishes_in_Cheshire",
+      "title": "Civil parishes in Cheshire - Wikipedia",
+      "content": "|  | Alpraham and Calveley\") | Civil parish | 642 | Cheshire East | Nantwich Rural District |   | |  | Austerson | Civil parish | 145 | Cheshire East | Nantwich Rural District |   | |  | Bulkeley and Ridley\") | Civil parish | 360 | Cheshire East | Nantwich Rural District |   | |  | Burland and Acton\") | Civil parish |  | Cheshire East | Nantwich Rural District |   | |  | Chorley | Civil parish | 100 | Cheshire East | Nantwich Rural District |   | |  | Leighton | Civil parish | 4,863 | Cheshire East | Nantwich Rural District |   | |  | Wistaston | Civil parish | 8,222 | Cheshire East | Nantwich Rural District |   |",
+      "score": 0.22666417,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.77,
+  "request_id": "f9edf429-f463-48af-991e-d225b7b9d490"
+}

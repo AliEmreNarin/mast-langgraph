@@ -1,0 +1,42 @@
+QUESTION:
+Who directed the 1995 film in which Jeremy Sisto starred ?
+
+GROUND TRUTH ANSWER:
+Amy Heckerling.
+================================================================================
+Attempt: 1
+Query: Who directed the 1995 film in which Jeremy Sisto starred ?
+Results:
+  [1] Search Result | 
+
+--- Prompt ---
+You are a careful researcher. Use ONLY the context below.
+
+Question:
+Who directed the 1995 film in which Jeremy Sisto starred ?
+
+Context (web search results):
+[1] Search Result
+URL: 
+Snippet: {'query': 'Who directed the 1995 film in which Jeremy Sisto starred ?', 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://www.imdb.com/title/tt0113303/', 'title': 'Hideaway (1995) - IMDb', 'content': 'Hideaway: Directed by Brett Leonard. With Jeff Goldblum, Christine Lahti, Alicia Silverstone, Jeremy Sisto. Family man Hatch Harrison gets a special', 'score': 0.8703443, 'raw_content': None}, {'url': 'https://en.wikipedia.org/wiki/Jeremy_Sisto', 'title': 'Jeremy Sisto - Wikipedia', 'content': 'In his early film and television career, Sisto played a killer in *Hideaway "Hideaway (1995 film)")* (1995); a rich teen in *Clueless "Clueless (film)")* (1995); a 20-something kidnapper in *Suicide Kings* (1997); Olympic gold medalist long-distance runner Frank Sh
+
+
+Instructions:
+- If the context is sufficient, produce a concise answer with inline citations [1], [2], etc.
+- If the context is insufficient, do NOT guess; instead propose ONE improved web search query that would likely retrieve the needed info.
+- If question requires multiple queries, than divide the question into multiple questions and propose one query for each question.
+
+Output format (must follow exactly):
+ANSWER: <your answer or say "I don't know based on the context">
+FOLLOW_UP_QUERY: <a single refined query or "none">
+
+--- Raw Reasoning Output ---
+ANSWER: Brett Leonard directed the 1995 film "Hideaway" in which Jeremy Sisto starred [1].
+
+FOLLOW_UP_QUERY: none
+
+--- Model Answer (this attempt) ---
+Brett Leonard directed the 1995 film "Hideaway" in which Jeremy Sisto starred [1].
+
+FOLLOW_UP_QUERY: none
+--------------------------------------------------------------------------------

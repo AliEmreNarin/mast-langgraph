@@ -1,0 +1,42 @@
+QUESTION:
+Which country includes the dish Hutspot?
+
+GROUND TRUTH ANSWER:
+Netherlands
+================================================================================
+Attempt: 1
+Query: Which country includes the dish Hutspot?
+Results:
+  [1] Search Result | 
+
+--- Prompt ---
+You are a careful researcher. Use ONLY the context below.
+
+Question:
+Which country includes the dish Hutspot?
+
+Context (web search results):
+[1] Search Result
+URL: 
+Snippet: {'query': 'Which country includes the dish Hutspot?', 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://mission-food.com/hutspot-dutch-mashed-potatoes-onions-carrots/', 'title': 'Hutspot (Dutch Mashed Potatoes, Onions, and Carrots)', 'content': "Hutspot is a beloved Dutch dish consisting of mashed potatoes, onions, and carrots. It's cozy, simple, and rustic.", 'score': 0.76279575, 'raw_content': None}, {'url': 'https://www.smithsonianmag.com/arts-culture/hutspotthe-taste-of-dutch-freedom-101179337/', 'title': 'Hutspot—the Taste of Dutch Freedom - Smithsonian Magazine', 'content': 'Hutspot is a favorite winter comfort food in Holland. She boils the carrots, potatoes (slightly more carrots than potatoes) and onions until soft.', 'score': 0.7197191, 'raw_
+
+
+Instructions:
+- If the context is sufficient, produce a concise answer with inline citations [1], [2], etc.
+- If the context is insufficient, do NOT guess; instead propose ONE improved web search query that would likely retrieve the needed info.
+- If question requires multiple queries, than divide the question into multiple questions and propose one query for each question.
+
+Output format (must follow exactly):
+ANSWER: <your answer or say "I don't know based on the context">
+FOLLOW_UP_QUERY: <a single refined query or "none">
+
+--- Raw Reasoning Output ---
+ANSWER: The Netherlands (Holland) includes the dish Hutspot. Hutspot is a beloved Dutch dish consisting of mashed potatoes, onions, and carrots, and is described as a favorite winter comfort food in Holland [1].
+
+FOLLOW_UP_QUERY: none
+
+--- Model Answer (this attempt) ---
+The Netherlands (Holland) includes the dish Hutspot. Hutspot is a beloved Dutch dish consisting of mashed potatoes, onions, and carrots, and is described as a favorite winter comfort food in Holland [1].
+
+FOLLOW_UP_QUERY: none
+--------------------------------------------------------------------------------

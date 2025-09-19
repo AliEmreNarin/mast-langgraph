@@ -1,0 +1,49 @@
+================================================================================
+Attempt: 1
+Query: Which American rock band from Newark, New Jersey, active from 2001 to 2013 has James Dewees been involved in?
+Full Tavily Payload:
+{
+  "query": "Which American rock band from Newark, New Jersey, active from 2001 to 2013 has James Dewees been involved in?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://slyarmy.fandom.com/wiki/My_Chemical_Romance",
+      "title": "My Chemical Romance | Sly Army Wiki - Fandom",
+      "content": "James Dewees. My Chemical Romance is an American rock band that ran from 2001 to 2013. Currently, they have reunited as of 2019, and have gone on tour since",
+      "score": 0.88822687,
+      "raw_content": null
+    },
+    {
+      "url": "https://excellentmusic.miraheze.org/wiki/My_Chemical_Romance",
+      "title": "My Chemical Romance - Excellent Music Wiki - Miraheze",
+      "content": "*   Page | | Genres: | Alternative rock • emo • pop punk • hard rock • post-hardcore • punk rock | | Years active: | 2001-2013 • 2019-Present | | Labels: | Reprise Records • Eyeball Records | | Members: | Gerard Way\") Ray Toro Frank Iero\") Mikey Way\") Bob Bryar (former) Matt Pelissier (former) James Dewees (former) | | **My Chemical Romance** is an American rock band from Newark, New Jersey. action=edit&redlink=1 \"The Black Parade (My Chemical Romance album) (page does not exist)\")_ being their most well known. action=edit&redlink=1 \"The Black Parade (My Chemical Romance album) (page does not exist)\") tour. action=edit&redlink=1 \"The Black Parade (My Chemical Romance album) (page does not exist)\")_ (2006) *   Rock bands\")",
+      "score": 0.8747745,
+      "raw_content": null
+    },
+    {
+      "url": "https://aminoapps.com/c/pop-punk/page/blog/my-chemical-romance/z6mU_xuBDknGYpbKDWB1qRYpEjDQ3YW",
+      "title": "My Chemical Romance - Pop Punk - Amino Apps",
+      "content": "My Chemical Romance (often abbreviated as MCR) was an American rock band from Jersey City, New Jersey, active from 2001 to 2013. The band",
+      "score": 0.8703443,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/James_Dewees",
+      "title": "James Dewees - Wikipedia",
+      "content": "James Matthew Dewees (born March 13, 1976) is an American musician best known for his work with The Get Up Kids, Reggie and the Full Effect and My Chemical",
+      "score": 0.7927375,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.punknews.org/article/45799/interviews-james-dewees-reggie-and-the-full-effect-the-get-up-kids-coalesce",
+      "title": "James Dewees (Reggie and the Full Effect, The Get Up Kids ...",
+      "content": "Dewees was also a member of influential bands The Get Up Kids and Coalesce, and most recently he is the touring keyboardist for My Chemical Romance.",
+      "score": 0.77792513,
+      "raw_content": null
+    }
+  ],
+  "response_time": 2.0,
+  "request_id": "673060ac-bc20-47f3-a835-42066ea0ab17"
+}

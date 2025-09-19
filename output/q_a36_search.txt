@@ -1,0 +1,49 @@
+================================================================================
+Attempt: 1
+Query: who wrote the movie which John Magaro starred alongside
+Full Tavily Payload:
+{
+  "query": "who wrote the movie which John Magaro starred alongside",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://deadline.com/2024/10/the-mastermind-movie-taps-john-magaro-undisclosed-role-1236157621/",
+      "title": "'The Mastermind' Movie Taps John Magaro For Undisclosed Role",
+      "content": "John Magaro (Past Lives) has closed a deal to star opposite Josh O'Connor and Alana Haim in writer-director Kelly Reichardt's next film, The Mastermind.",
+      "score": 0.8156003,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Past_Lives_(film)",
+      "title": "Past Lives (film) - Wikipedia",
+      "content": "Past Lives is a 2023 romantic drama film written and directed by Celine Song in her feature directorial debut. Starring Greta Lee, Teo Yoo, and John Magaro,",
+      "score": 0.8016413,
+      "raw_content": null
+    },
+    {
+      "url": "https://tv.apple.com/us/person/john-magaro/umc.cpc.lfh0c3k5detptfxrwjqdurwq",
+      "title": "John Magaro Movies and Shows - Apple TV",
+      "content": "Then in 2012 Magaro landed his first big break when he was cast as the lead in David Chase's feature film debut \"Not Fade Away.\" Magaro starred alongside the late James Gandolfini in the film, about a 1960s New Jersey rock group trying to make it in the music industry. A starving toddler found wandering the streets alone leads detectives to the home of Manuela Ozuna (guest star Jessica Pimental) and another child in grave condition. The police question Department of Child Services caseworker Keith Musio (guest star John Magaro), whose vague and backdated reports on the family suggest he hadn't checked on the children in months.",
+      "score": 0.8010817,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.imdb.com/name/nm1910274/",
+      "title": "John Magaro - IMDb",
+      "content": "# John Magaro John Robert Magaro was born in 1983 in Akron, Ohio, to Wendy and James Magaro, and was raised in the local suburb Munroe Falls. He was also seen in Reginald Hudlin's \"Marshall,\" alongside Chadwick Boseman, in Netflix's \"War Machine,\" starring Brad Pitt, and also in Paramount's award winning \"The Big Short.\" \"The Big Short\" was awarded Best Ensemble by the National Board of Review for 2015 and received the Ensemble Performance Award at the Palm Springs Film Festival, as well as being nominated for a Critics' Choice Award for Best Acting Ensemble and a SAG award for Outstanding Performance by a Cast in a Motion Picture. A stage actor as well, Magaro starred in the Public Theatre's premiere of \"Illyria,\" playing the Public's founder Joseph Papp. Keep track of how much of John Magaro’s work you have rated. John Magaro",
+      "score": 0.78334314,
+      "raw_content": null
+    },
+    {
+      "url": "https://orange-is-the-new-black.fandom.com/wiki/John_Magaro",
+      "title": "John Magaro - Orange Is the New Black Wiki - Fandom",
+      "content": "John Robert Magaro is an American film, television and stage actor best known for his role in the 2012 movie Not Fade Away alongside James Gandolfini",
+      "score": 0.7587435,
+      "raw_content": null
+    }
+  ],
+  "response_time": 0.95,
+  "request_id": "538c8158-b864-4daa-86df-f0dde75b5a73"
+}

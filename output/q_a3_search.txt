@@ -19,14 +19,21 @@ Full Tavily Payload:
       "url": "https://www.geni.com/people/Berengar-I-emperor-of-the-Romans/6000000001669654269",
       "title": "Emperor Berengar I, margrave of Friuli, king of Italy (c.845 - 924) - Geni",
       "content": "He is usually known as Berengar of Friuli, since he ruled the March of Friuli from 874 until at least 890, but he had lost control of the region",
-      "score": 0.67988104,
+      "score": 0.680136,
       "raw_content": null
     },
     {
       "url": "https://quizlet.com/815738861/holy-roman-emperors-1-flash-cards",
       "title": "Holy Roman Emperors 1 Flashcards - Quizlet",
       "content": "He is usually known as Berengar of Friuli, since he ruled the March of Friuli from 874 until at least 890, but he had lost control of the region by 896.[2].",
-      "score": 0.5382315,
+      "score": 0.5380859,
+      "raw_content": null
+    },
+    {
+      "url": "https://sites.rootsmagic.com/lipthay/individual.php?p=3801",
+      "title": "Berengar I Emperor of the Holy Roman Empire, Marquis of Friaul",
+      "content": "Berengar was the margrave of Friuli from 874 until no earlier than 890 and no later than 896, king of Italy (as Berengar I) from 887 (with interruption) until",
+      "score": 0.5360463,
       "raw_content": null
     },
     {
@@ -35,15 +42,8 @@ Full Tavily Payload:
       "content": "* 1200-1600 ▼ + History               ► + Family Trees      ► - Patriarch            ► - Descendants      ► + Towns               ► + Family Trees     ► - Patriarchs          ► * Search ▼ + Search Notes * Others ▼ # Berengar I of Italy * | Name | Berengar I of Italy | | | Father | Eberhard Duc de Friuli,   **b.** ~810   **d.** 16 Dec 866 | | Gisela of Friuli,   **b.** ~876   **d.** Aft 23 Jan 913 | | | * | Notes | + Berengar I (Latin: Berengarius, Perngarius; Italian: Berengario; c. 845 - 7 April 924 was the king of Italy from 887. He was Holy Roman Emperor between 915 and his death in 924.",
       "score": 0.5191075,
       "raw_content": null
-    },
-    {
-      "url": "https://laidman.one-name.net/getperson.php?personID=I22645&tree=Laidman",
-      "title": "DEL FRIULI, Berengar Holy Roman Emperor b. Abt 845 d. 7 Apr 924",
-      "content": "By 915, Berengar's eldest daughter, Bertha, was abbess of San Salvatore in Brescia, where her aunt had once been a nun. In that year, the following year, and in",
-      "score": 0.50490767,
-      "raw_content": null
     }
   ],
-  "response_time": 1.54,
-  "request_id": "a0f2d2f4-bad8-4b53-aa13-effbec8b25d0"
+  "response_time": 1.28,
+  "request_id": "a1f9e1c1-a2ac-47ac-8f58-c2d712110fea"
 }

@@ -1,0 +1,245 @@
+================================================================================
+Attempt: 1
+Query: Which institution of higher education consists of more separate establishments, Grinnell College or Texas Tech University System?
+Full Tavily Payload:
+{
+  "query": "Which institution of higher education consists of more separate establishments, Grinnell College or Texas Tech University System?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Texas_Tech_University_System",
+      "title": "Texas Tech University System - Wikipedia",
+      "content": "Texas Tech University Health Sciences Center has five schools and operates on six campuses in addition to the main campus in Lubbock, Texas. The Chancellor carries out the policies of the System as determined by the Regents and has direct responsibility for all aspects of the operations of the Texas Tech University System's six primary components: Texas Tech University, Texas Tech University Health Sciences Center, Angelo State University, Texas Tech University Health Sciences Center El Paso, Midwestern State University and the Texas Tech University System Administration. The presidents of Texas Tech University, Texas Tech University Health Sciences Center, Angelo State University, Texas Tech University Health Sciences Center El Paso and Midwestern State University are appointed by the Chancellor and are the CEOs of their respective institutions and responsible for the strategic operation of each institution.",
+      "score": 0.3895703,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.lisanehermusic.com/calendar.html",
+      "title": "Calendar - Lisa Neher",
+      "content": "University of Northern Texas, Denton, Texas More info here. Performer ... Grinnell College, Grinnell, Iowa. WORLD PREMIERE: \"Thaw\" for marimba duo by",
+      "score": 0.24217023,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.texastech.edu/",
+      "title": "Texas Tech University System",
+      "content": "## TTU System Texas Tech University System Regents to Meet Aug. 14-15 ## TTU Texas Tech to Earn $14M for Advanced Semiconductor Power Devices Program ### Texas Tech University Health Sciences Center ### Texas Tech University Health Sciences Center El Paso ### Texas Tech University ### Texas Tech University Health Sciences Center ### Texas Tech University Health Sciences Center El Paso ### Texas Tech University ### Texas Tech University Health Sciences Center ### Texas Tech University Health Sciences Center El Paso ## Texas Tech University System’s Values-Based Culture ## Texas Tech University System 3 Rivers Ranch ## Texas Tech University System Public Art Collection ## Texas Tech University System’s Values-Based Culture ## Texas Tech University System 3 Rivers Ranch",
+      "score": 0.15800568,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.scribd.com/document/866061905/HE-Titles-List-21-May-2025",
+      "title": "HE-Titles-List-21-May-2025 | PDF | Physics | Earth Sciences - Scribd",
+      "content": "Carroll Gender and ElectonsMcCormick American Foreign Policy and ProcessLandy American GovernmenComan Governance and Politcs in he Pos-Crisis European USone Republic a RiskMinz Beyond RatonaliyMunck Latn American Politcs and SocieyBarrilleaux Democratc PolicymakingDeardor Race and he Law in he Unied SaesGreen Social Science ExperimensWeeks U.S. and Latn American RelatonsKellsed The Fundamenals of Politcal Science ResearchWan Eas Asian Inernatonal RelatonsWolford The Politcs of he Firs World WarPinder Black Politcal ThoughGvosdev Decision-Making in American Foreign PolicyLelieveld The Politcs of he European UnionHajnal Race and Inequaliy in American PolitcsHarvey An Inroducton o BuddhismJordanova The Look of he PasSingh Engineering DrawingMaher The Psychology of Visual ArMaznevski Inernatonal Managemen BehaviorBarle Transnatonal ManagemenShields Managing Employee Performance and RewardArnold Ehical Theory and BusinessHunsinger Business AnalytcsBerkel Learning o NegotaeBeech Managing ChangeÖzman Sraegic Managemen of Innovaton NeworksBeech Managing ChangeGhauri Research Mehods in Business SudiesBarle Transnatonal ManagemenLane Inernatonal Managemen Behaviordu Plessis Principles of Conemporary Corporae GovernanceVerbeke Inernatonal Business Sraegydu Plessis Principles of Conemporary Corporae GovernanceSeers Managemen Across CuluresShields Managing Employee Performance and Rewardvan Aken Problem Solving in OrganizatonsBuron Organizatonal DesignFrazier Marketng Channel ManagemenCorcoran Inegraed Digial Marketng in PractceCzinkoa Inernatonal BusinessÖzbilgin Inernatonal Human Resource Managemen",
+      "score": 0.12331308,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.tiktok.com/@boagojackson/video/7474135808375557381",
+      "title": "ICCR Scholarships for Botswana Nationals in 2025-26 | TikTok",
+      "content": "... Higher Education Institutions. This flagship programme of the ... #university #universities #ukeducation #studentlife #highereducation",
+      "score": 0.043548565,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.8,
+  "request_id": "072ccbd2-8f57-46ef-9817-51335278ccb0"
+}
+================================================================================
+Attempt: 2
+Query: How many separate establishments or campuses does Grinnell College have?
+Full Tavily Payload:
+{
+  "query": "How many separate establishments or campuses does Grinnell College have?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.franklin.edu/colleges-near/iowa/grinnell",
+      "title": "Colleges & Universities Near Grinnell, Iowa | 2025 Best Schools",
+      "content": "There are at least 9 colleges serving the area, including 7 private colleges and universities, 0 public colleges and universities, and 2 community colleges",
+      "score": 0.4527543,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.niche.com/colleges/grinnell-college/",
+      "title": "Grinnell College - Niche",
+      "content": "Every Grinnellian has access to study, work, and experiences in more than 30 countries. Even on campus, you'll hear more than 70 languages spoken by students.",
+      "score": 0.39152282,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Grinnell_College",
+      "title": "Grinnell College - Wikipedia",
+      "content": "Grinnell College is a private liberal arts college in Grinnell, Iowa, United States. It was founded in 1846 when a group of Congregationalists from New",
+      "score": 0.35851082,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.grinnell.edu/",
+      "title": "Grinnell College | Grinnell College",
+      "content": "You’ll work alongside world-class experts, advisers, and mentors who are dedicated to your success. You’re at Grinnell to discover what you want to do and what you can do for this world. Across our open community, you’ll find we’re not afraid to step into unfamiliar conversations, challenging perspectives, or countries far away from home. Campus & Community Campus & Community As summer draws to a close, anticipation builds for the arrival of the Class of 2029 and the start of another year of discovery and connection. Grinnell College opens its doors to the Class of 2029 — 421 students whose stories, talents, and ambitions will shape our community in the years ahead. Catch what's new on campus and connect with Grinnellians around the world.",
+      "score": 0.32998574,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.grinnell.edu/about/grinnell-glance",
+      "title": "Grinnell at a Glance",
+      "content": "About 1,750 students attend the College. + Most classes have fewer than 20 students + 40% of students complete a Mentored Advanced Project (MAP) + 100+ student groups * ### Our Students Grinnellians represent nearly all 50 states and 60 countries. 24% identify as people of color, and 19% of our students come from outside of the U.S. More than half of students will study off campus. of students complete at least one independent study course of students participate in community service projects of students compete in varsity NCAA athletics 51% of Grinnellians hold an advanced degree ten years after graduation. Here are a few places graduates have gone: * University of California * University  of Chicago * University of Iowa",
+      "score": 0.29411915,
+      "raw_content": null
+    }
+  ],
+  "response_time": 0.93,
+  "request_id": "28509668-b719-4bd1-aa32-2ff0e1d164d0"
+}
+================================================================================
+Attempt: 3
+Query: How many campuses or separate establishments does Grinnell College operate
+Full Tavily Payload:
+{
+  "query": "How many campuses or separate establishments does Grinnell College operate",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Grinnell_College",
+      "title": "Grinnell College - Wikipedia",
+      "content": "Although the college does not offer any graduate degrees, it does have dual ... In Iowa, 2 Colleges Separated by 150 Miles and $1.37-Billion: Grinnell",
+      "score": 0.6139086,
+      "raw_content": null
+    },
+    {
+      "url": "https://myliaison.com/colleges/grinnell-college-ia/",
+      "title": "Grinnell College - MyLiaison",
+      "content": "According to the most recent information, there are 110 open-membership organizations at Grinnell College. The student organization that gathers the largest",
+      "score": 0.51793724,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.niche.com/colleges/grinnell-college/",
+      "title": "Grinnell College - Niche",
+      "content": "Every Grinnellian has access to study, work, and experiences in more than 30 countries. Even on campus, you'll hear more than 70 languages spoken by students.",
+      "score": 0.38685668,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.grinnell.edu/",
+      "title": "Grinnell College | Grinnell College",
+      "content": "You’ll work alongside world-class experts, advisers, and mentors who are dedicated to your success. You’re at Grinnell to discover what you want to do and what you can do for this world. Across our open community, you’ll find we’re not afraid to step into unfamiliar conversations, challenging perspectives, or countries far away from home. Campus & Community Campus & Community As summer draws to a close, anticipation builds for the arrival of the Class of 2029 and the start of another year of discovery and connection. Grinnell College opens its doors to the Class of 2029 — 421 students whose stories, talents, and ambitions will shape our community in the years ahead. Catch what's new on campus and connect with Grinnellians around the world.",
+      "score": 0.33692038,
+      "raw_content": null
+    },
+    {
+      "url": "https://datausa.io/profile/university/grinnell-college",
+      "title": "Grinnell College - Data USA",
+      "content": "The full-time enrollment at Grinnell College is 1,707 students and the part-time enrollment is 68. This means that 96.2% of students enrolled at Grinnell",
+      "score": 0.2973531,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.41,
+  "request_id": "d8004c0f-589d-4445-bd51-67a894113501"
+}
+================================================================================
+Attempt: 4
+Query: "Grinnell College" number of campuses locations establishments
+Full Tavily Payload:
+{
+  "query": "\"Grinnell College\" number of campuses locations establishments",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://collegesofdistinction.com/school/grinnell-college/",
+      "title": "Grinnell College",
+      "content": "Find unparalleled opportunities for learning at the Grinnell College. Grinnell is a private institution with 42 areas of study.",
+      "score": 0.53692055,
+      "raw_content": null
+    },
+    {
+      "url": "https://myliaison.com/colleges/grinnell-college-ia/",
+      "title": "Grinnell College",
+      "content": "According to the most recent information, there are 110 open-membership organizations at Grinnell College. The student organization that gathers the largest",
+      "score": 0.50915486,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.grinnell.edu/",
+      "title": "Grinnell College | Grinnell College",
+      "content": "You’ll work alongside world-class experts, advisers, and mentors who are dedicated to your success. You’re at Grinnell to discover what you want to do and what you can do for this world. Across our open community, you’ll find we’re not afraid to step into unfamiliar conversations, challenging perspectives, or countries far away from home. Campus & Community Campus & Community As summer draws to a close, anticipation builds for the arrival of the Class of 2029 and the start of another year of discovery and connection. Grinnell College opens its doors to the Class of 2029 — 421 students whose stories, talents, and ambitions will shape our community in the years ahead. Catch what's new on campus and connect with Grinnellians around the world.",
+      "score": 0.36799732,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Grinnell_College",
+      "title": "Grinnell College",
+      "content": "Grinnell College is a private liberal arts college in Grinnell, Iowa, United States. It was founded in 1846 when a group of Congregationalists from New",
+      "score": 0.36006194,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.grinnell.edu/about/grinnell-glance",
+      "title": "Grinnell at a Glance",
+      "content": "About 1,750 students attend the College. + Most classes have fewer than 20 students + 40% of students complete a Mentored Advanced Project (MAP) + 100+ student groups * ### Our Students Grinnellians represent nearly all 50 states and 60 countries. 24% identify as people of color, and 19% of our students come from outside of the U.S. More than half of students will study off campus. of students complete at least one independent study course of students participate in community service projects of students compete in varsity NCAA athletics 51% of Grinnellians hold an advanced degree ten years after graduation. Here are a few places graduates have gone: * University of California * University  of Chicago * University of Iowa",
+      "score": 0.31728923,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.7,
+  "request_id": "6ad8641d-bf6c-41cd-b221-7e3b4d58a414"
+}
+================================================================================
+Attempt: 5
+Query: "Texas Tech University System" complete list of institutions campuses components
+Full Tavily Payload:
+{
+  "query": "\"Texas Tech University System\" complete list of institutions campuses components",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Texas_Tech_University_System",
+      "title": "Texas Tech University System - Wikipedia",
+      "content": "Texas Tech University Health Sciences Center has five schools and operates on six campuses in addition to the main campus in Lubbock, Texas. The Chancellor carries out the policies of the System as determined by the Regents and has direct responsibility for all aspects of the operations of the Texas Tech University System's six primary components: Texas Tech University, Texas Tech University Health Sciences Center, Angelo State University, Texas Tech University Health Sciences Center El Paso, Midwestern State University and the Texas Tech University System Administration. The presidents of Texas Tech University, Texas Tech University Health Sciences Center, Angelo State University, Texas Tech University Health Sciences Center El Paso and Midwestern State University are appointed by the Chancellor and are the CEOs of their respective institutions and responsible for the strategic operation of each institution.",
+      "score": 0.8834878,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.linkedin.com/company/texas-tech-university-system",
+      "title": "Texas Tech University System | LinkedIn",
+      "content": "Overview:\nThe Texas Tech University System was formed in 1996 and formally established by the State of Texas three years later in 1999. Since its inception, the TTU System has emerged as one of the top public university systems in the nation and is a dynamic force in higher education. Today, the TTU System consists of five component institutions and operates at 23 campuses and academic sites in 20 cities across the state and globe. • Texas Tech University • Texas Tech University Health Sciences Center • Angelo State University • Texas Tech University Health Sciences Center El Paso • Midwestern State University Focused on advancing higher education, health care, research and outreach, the TTU System is headquartered in Lubbock, Texas, and provides its universities with the resources needed to meet the global challenges of today and the future. Whether it’s contributing billions of dollars annually in economic impact or being the only system in Texas to house an academic institution, law school, and medical school at the same location, the TTU System is on the rise.\n\nWebsite: https://www.texastech.edu/\nCrunchbase Url: N/A\nLinkedin Url: https://www.linkedin.com/company/texas-tech-university-system\n\nIndustry:\nHigher Education\n\nCompany size:\n10,001+ employees\n185 associated members (LinkedIn members who’ve listed Texas Tech University System as their current workplace on their profile)\n\nFounded:\n1996\n\nFunding:\nLast Round Date: N/A\nLast Round Type: N/A\nTotal Rounds: N/A\nLast Round Raised: N/A\n\nInvestors:\nN/A",
+      "score": 0.87706697,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.texastech.edu/universities/",
+      "title": "Institutions of the TTU System | Texas Tech University System",
+      "content": "Institutions of the TTU System. From on campus to online, off campus to distance education, the component institutions of the Texas Tech University System",
+      "score": 0.71088976,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.ttuhsc.edu/medicine/immunology-molecular-biology/life-in-lubbock.aspx",
+      "title": "Lubbock History and Information | Texas Tech University Health ...",
+      "content": "# Lubbock History and Information The Texas Tech University System (TTUS) is based in Lubbock and consists of Texas Tech University, Texas Tech University Health Sciences Center, and Angelo State University. Tech University (TTU) which is located in Lubbock and home to almost 40,000 undergraduate, Known as the \"Music Crossroads of West Texas,: Lubbock has produced Other well-known Lubbock musicians include Lubbock is the cultural center of West Texas featuring a variety of art galleries, **Lubbock Regional Arts Center**   See ever changing exhibits of regional contemporary art and Lubbock Community Theater **Lubbock Municipal Garden and Arts Center**   The Center collects, preserves, and interprets artifacts relevant to Lubbock's most An outdoor museum in Lubbock, Texas, established to preserve the history of ranching,",
+      "score": 0.56517935,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.depts.ttu.edu/irim/Reports/StateReports/SYSTEM/Financial/FY23TTUS_CombinedAFR.pdf",
+      "title": "[PDF] TEXAS TECH UNIVERSITY SYSTEM",
+      "content": "Formally established by the Texas Legislature in 1999, the Texas Tech University System (the System) is composed of a central administrative",
+      "score": 0.5104727,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.68,
+  "request_id": "ab3fadc8-2591-4071-903d-1123fb06b8d0"
+}

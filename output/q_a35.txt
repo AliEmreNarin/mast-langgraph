@@ -1,0 +1,86 @@
+QUESTION:
+Jordan Mark Chapell plays for a team that plays at which stadium ?
+
+GROUND TRUTH ANSWER:
+Deva Stadium
+================================================================================
+Attempt: 1
+Query: Jordan Mark Chapell plays for a team that plays at which stadium ?
+Results:
+  [1] Search Result | 
+
+--- Prompt ---
+You are a careful researcher. Use ONLY the context below.
+
+Question:
+Jordan Mark Chapell plays for a team that plays at which stadium ?
+
+Context (web search results):
+[1] Search Result
+URL: 
+Snippet: {'query': 'Jordan Mark Chapell plays for a team that plays at which stadium ?', 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://en.wikipedia.org/wiki/Jordan_Chapell', 'title': 'Jordan Chapell - Wikipedia', 'content': 'Born in Sheffield, he started his career with his hometown club Sheffield United from where he had loan spells at Burton Albion and Torquay United, who he', 'score': 0.68496037, 'raw_content': None}, {'url': 'https://www.soccerbase.com/players/player.sd?player_id=55574', 'title': 'Jordan Chapell | Football Stats | Matlock Town | Age 33 | Soccer Base', 'content': 'Jordan Chapell. (Born 08 Sep, 1991) Forward for Matlock Town. Current season & career stats available, including appearances, goals & transfer fees.', 'score': 0.67243975, 'raw
+
+
+Instructions:
+- If the context is sufficient, produce a concise answer with inline citations [1], [2], etc.
+- If the context is insufficient, do NOT guess; instead propose ONE improved web search query that would likely retrieve the needed info.
+- If question requires multiple queries, than divide the question into multiple questions and propose one query for each question.
+
+Output format (must follow exactly):
+ANSWER: <your answer or say "I don't know based on the context">
+FOLLOW_UP_QUERY: <a single refined query or "none">
+
+--- Raw Reasoning Output ---
+Looking at the provided context, I can see that Jordan Chapell currently plays for Matlock Town [1]. However, the context does not provide information about which stadium Matlock Town plays at.
+
+ANSWER: I don't know based on the context
+
+FOLLOW_UP_QUERY: Matlock Town FC home stadium ground venue
+
+--- Model Answer (this attempt) ---
+Looking at the provided context, I can see that Jordan Chapell currently plays for Matlock Town [1]. However, the context does not provide information about which stadium Matlock Town plays at.
+
+ANSWER: I don't know based on the context
+
+FOLLOW_UP_QUERY: Matlock Town FC home stadium ground venue
+--------------------------------------------------------------------------------
+Attempt: 2
+Query: Matlock Town FC home stadium ground venue
+Results:
+  [1] Search Result | 
+
+--- Prompt ---
+You are a careful researcher. Use ONLY the context below.
+
+Question:
+Jordan Mark Chapell plays for a team that plays at which stadium ?
+
+Context (web search results):
+[1] Search Result
+URL: 
+Snippet: {'query': 'Matlock Town FC home stadium ground venue', 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://nonleaguetravelsblog.wordpress.com/2017/10/23/grounds-review-the-autoworld-arena-home-of-matlock-town-fc/', 'title': 'Grounds Review- The Autoworld Arena (Home of Matlock Town FC)', 'content': 'The Autoworld Arena is located on Causeway Lane, Matlock, it faces Hall Leys Park and it is close to Matlock Cricket Club as well and it is', 'score': 0.84246206, 'raw_content': None}, {'url': 'https://jdgsport.com/grounds/proctors-cars-stadium/', 'title': 'Proctors Cars Stadium, home to Matlock Town FC - JDG Sport', 'content': 'The focal point of the ground itself is The Twigg Stand, a relatively new all-seater stand which has an adjoining clubhouse, changin
+
+
+Instructions:
+- If the context is sufficient, produce a concise answer with inline citations [1], [2], etc.
+- If the context is insufficient, do NOT guess; instead propose ONE improved web search query that would likely retrieve the needed info.
+- If question requires multiple queries, than divide the question into multiple questions and propose one query for each question.
+
+Output format (must follow exactly):
+ANSWER: <your answer or say "I don't know based on the context">
+FOLLOW_UP_QUERY: <a single refined query or "none">
+
+--- Raw Reasoning Output ---
+Based on the context provided, Jordan Mark Chapell plays for Matlock Town FC, and Matlock Town FC plays at the Autoworld Arena [1]. The context also mentions it's called Proctors Cars Stadium [1].
+
+ANSWER: Jordan Mark Chapell plays for Matlock Town FC, which plays at the Autoworld Arena (also known as Proctors Cars Stadium) [1].
+
+FOLLOW_UP_QUERY: none
+
+--- Model Answer (this attempt) ---
+Based on the context provided, Jordan Mark Chapell plays for Matlock Town FC, and Matlock Town FC plays at the Autoworld Arena [1]. The context also mentions it's called Proctors Cars Stadium [1].
+
+ANSWER: Jordan Mark Chapell plays for Matlock Town FC, which plays at the Autoworld Arena (also known as Proctors Cars Stadium) [1].
+
+FOLLOW_UP_QUERY: none
+--------------------------------------------------------------------------------

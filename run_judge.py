@@ -271,12 +271,13 @@ def compute_source_averages(failure_mode_results: Dict[str, List[int]], source_s
 
 def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Run notebook-equivalent LLM judge on traces (free-text parsing)")
-    p.add_argument("--traces", nargs="+", required=True, help="One or more trace .txt files")
+    p.add_argument("--traces", nargs="*", help="One or more trace .txt files")
+    p.add_argument("--all-traces", action="store_true", help="Run on all q_a*.txt files in output/ directory")
     p.add_argument("--definitions", required=True, help="Path to definitions.txt")
     p.add_argument("--examples", default="", help="Path to examples.txt (optional)")
     p.add_argument("--outdir", default="saved_results", help="Directory to save pickled results")
     p.add_argument("--log-file", default="", help="Path to JSONL log file for prompts/responses")
-    p.add_argument("--model", default="o1", help="Model name (default mirrors notebook)")
+    p.add_argument("--model", default="gpt-5", help="Model name (default mirrors notebook)")
     p.add_argument("--api-key", default=os.environ.get("OPENAI_API_KEY"), help="API key or set OPENAI_API_KEY")
     p.add_argument("--base-url", default=os.environ.get("OPENAI_BASE_URL"), help="Optional base URL for OpenAI-compatible servers")
     p.add_argument("--temperature", type=float, default=1.0, help="Sampling temperature (default mirrors notebook)")
@@ -288,6 +289,26 @@ def main() -> None:
     args = parse_args()
     outdir = Path(args.outdir)
     ensure_outdir(outdir)
+    
+    # Determine trace files to process
+    if args.all_traces:
+        # Find all q_a*.txt files in output/ directory
+        output_dir = Path("output")
+        if not output_dir.exists():
+            print("Error: output/ directory not found. Run the agent first to generate traces.")
+            return
+        trace_files = sorted([f for f in output_dir.glob("q_a*.txt") if not f.name.endswith("_search.txt")], 
+                            key=lambda x: int(x.stem.replace('q_a', '')))
+        if not trace_files:
+            print("Error: No q_a*.txt files found in output/ directory.")
+            return
+        print(f"Found {len(trace_files)} trace files: {[f.name for f in trace_files]}")
+    elif args.traces:
+        trace_files = [Path(t) for t in args.traces]
+    else:
+        print("Error: Must specify either --traces or --all-traces")
+        return
+    
     # If a specific log file is provided, use it; otherwise we will write one log per trace
     global_log_file_path = Path(args.log_file) if args.log_file else None
 
@@ -297,19 +318,19 @@ def main() -> None:
     examples = read_text_file(Path(args.examples)) if args.examples else ""
 
     full_trace_list: List[str] = []
-    for trace_path in args.traces:
-        trace_text = read_text_file(Path(trace_path))
+    for trace_path in trace_files:
+        trace_text = read_text_file(trace_path)
         if len(trace_text + examples) > BUDGET_LIMIT:
             trace_text = trace_text[: max(0, BUDGET_LIMIT - len(examples))]
         full_trace_list.append(trace_text)
 
     openai_results: List[str] = []
-    checkpoint_path = outdir / 'o1_results_checkpoint.pkl'
+    checkpoint_path = outdir / 'gpt5_results_checkpoint.pkl'
 
     if global_log_file_path:
         print(f"Logging prompts/responses to: {global_log_file_path}")
     else:
-        print(f"Logging prompts/responses per trace to: {outdir}/judge_log_{'<trace_stem>'}.txt")
+        print(f"Logging prompts/responses per trace to: {outdir}/judge_log_{'<trace_stem>'}.jsonl")
 
     for i, trace_text in enumerate(full_trace_list):
         try:
@@ -318,23 +339,33 @@ def main() -> None:
 
             # Write log entry for this trace
             try:
+                parsed = parse_single_response_for_log(evaluation)
                 log_entry = {
                     "index": i,
-                    "trace_path": args.traces[i] if i < len(args.traces) else "",
+                    "trace_path": str(trace_files[i]) if i < len(trace_files) else "",
                     "prompt": prompt,
                     "response": evaluation,
-                    "parsed": parse_single_response_for_log(evaluation),
+                    "parsed": parsed,
                 }
                 # Determine file path: use provided --log-file, else name by trace stem
                 if global_log_file_path:
                     per_trace_log_path = global_log_file_path
                 else:
-                    trace_stem = Path(args.traces[i]).stem if i < len(args.traces) else f"trace_{i}"
-                    per_trace_log_path = outdir / f"judge_log_{trace_stem}.txt"
+                    trace_stem = trace_files[i].stem if i < len(trace_files) else f"trace_{i}"
+                    per_trace_log_path = outdir / f"judge_log_{trace_stem}.jsonl"
                 with open(per_trace_log_path, 'a', encoding='utf-8') as lf:
                     lf.write(json.dumps(log_entry, ensure_ascii=False) + "\n")
+
+                # Also save a per-trace JSON with parsed results
+                per_trace_path = outdir / f"judge_{trace_stem}.json"
+                with open(per_trace_path, 'w', encoding='utf-8') as pf:
+                    json.dump({
+                        "trace_path": str(trace_files[i]) if i < len(trace_files) else "",
+                        "failure_mode_results": parsed,
+                        "raw_response": evaluation,
+                    }, pf, ensure_ascii=False, indent=2)
             except Exception as le:
-                print(f"Failed to write log entry for {i+1}: {le}")
+                print(f"Failed to write log entry or per-trace file for {i+1}: {le}")
 
             with open(checkpoint_path, 'wb') as f:
                 pickle.dump(openai_results, f)
@@ -370,7 +401,7 @@ def main() -> None:
 
     # Save a summary JSON of final results
     try:
-        first_stem = Path(args.traces[0]).stem if args.traces else 'trace'
+        first_stem = trace_files[0].stem if trace_files else 'trace'
         summary_path = outdir / f'judge_summary_{first_stem}.json'
         with open(summary_path, 'w', encoding='utf-8') as sf:
             json.dump({
@@ -387,12 +418,8 @@ if __name__ == "__main__":
 
 #
 # Example usage:
-# python run_judge.py \
-#   --traces output/q_a1.txt \
-#   --definitions MAST/taxonomy_definitions_examples/definitions.txt \
-#   --examples MAST/taxonomy_definitions_examples/examples.txt \
-#   --outdir mast_agent/saved_results \
-#   --model o1 \
-#   --temperature 1.0 \
-#   --source-sizes 30,30,30 \
-#   --log-file mast_agent/saved_results/judge_log.jsonl
+# Run on all q_a*.txt files in output/:
+# python run_judge.py --all-traces --definitions MAST/taxonomy_definitions_examples/definitions.txt --outdir mast_agent/saved_results
+#
+# Run on specific files:
+# python run_judge.py --traces output/q_a1.txt output/q_a2.txt --definitions MAST/taxonomy_definitions_examples/definitions.txt --outdir mast_agent/saved_results

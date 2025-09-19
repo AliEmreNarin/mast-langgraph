@@ -1,0 +1,49 @@
+================================================================================
+Attempt: 1
+Query: Which country includes the dish Hutspot?
+Full Tavily Payload:
+{
+  "query": "Which country includes the dish Hutspot?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://mission-food.com/hutspot-dutch-mashed-potatoes-onions-carrots/",
+      "title": "Hutspot (Dutch Mashed Potatoes, Onions, and Carrots)",
+      "content": "Hutspot is a beloved Dutch dish consisting of mashed potatoes, onions, and carrots. It's cozy, simple, and rustic.",
+      "score": 0.76279575,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.smithsonianmag.com/arts-culture/hutspotthe-taste-of-dutch-freedom-101179337/",
+      "title": "Hutspot—the Taste of Dutch Freedom - Smithsonian Magazine",
+      "content": "Hutspot is a favorite winter comfort food in Holland. She boils the carrots, potatoes (slightly more carrots than potatoes) and onions until soft.",
+      "score": 0.7197191,
+      "raw_content": null
+    },
+    {
+      "url": "https://dutchwafflecompany.us/blogs/recipes/stamppot-hutspot",
+      "title": "Stamppot: Traditional Dutch Recipe",
+      "content": "Dutch Stamppot Hutspot, a classic Dutch dish featuring creamy mashed potatoes and seasonal vegetables.",
+      "score": 0.62330866,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hutspot",
+      "title": "Hutspot - Wikipedia",
+      "content": "a dish of boiled and mashed potatoes, carrots, and onions with a long history in traditional Dutch cuisine.",
+      "score": 0.6133529,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=r9JxZpE8CbE",
+      "title": "Dutch hutspot recipe a typical meal in the Netherlands - YouTube",
+      "content": "... dutch food, hutspot recipe, hutspot maken, hutspot english recipe, hutspot dutch dish, dutch food recipes, best dutch food.",
+      "score": 0.5874941,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.1,
+  "request_id": "ea2952e5-27ff-4cfc-9a9c-3c40e2313f91"
+}

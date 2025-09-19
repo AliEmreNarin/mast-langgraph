@@ -1,0 +1,98 @@
+================================================================================
+Attempt: 1
+Query: What non-Asian American U.S. Senator from Hawaii was appointed to replace Senator Daniel Inouye after his death?
+Full Tavily Payload:
+{
+  "query": "What non-Asian American U.S. Senator from Hawaii was appointed to replace Senator Daniel Inouye after his death?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.politico.com/story/2012/12/report-replacing-inouye-down-to-3-085509",
+      "title": "Schatz chosen to replace Inouye",
+      "content": "Dec 27, 2012—Lt. Gov. Brian Schatzwill fill the seat of the late Sen. Daniel Inouye, Hawaii Gov. Neil Abercrombie announced Wednesday.",
+      "score": 0.82728493,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Brian_Schatz",
+      "title": "Brian Schatz",
+      "content": "Heserved as lieutenant governor until December 26,2012, when Abercrombieappointedhim to servetherest ofDaniel Inouye'sU.S.Senate termafterInouye's",
+      "score": 0.657033,
+      "raw_content": null
+    },
+    {
+      "url": "https://encyclopedia.densho.org/Daniel_Inouye/",
+      "title": "Daniel Inouye",
+      "content": ". Inouye was part of a group of politically active Japanese American veterans including Determined to pursue a career in public service, Inouye became the first Japanese American to serve in the United States House of Representatives in 1959 and later was elected to the Senate in 1962. Inouye's military service and support for redress as well as the efforts of his fellow Japanese American colleagues led the way for the passage of the Civil Liberties Act. However, other Native Hawaiians have supported Inouye including Senator Daniel Akaka who worked with Inouye to pass the Apology Resolution whereby the United States government issued an apology to Native Hawaiians for the overthrow of the Kingdom of Hawai'i.",
+      "score": 0.63316137,
+      "raw_content": null
+    },
+    {
+      "url": "https://history.house.gov/People/Detail/15647",
+      "title": "INOUYE, Daniel Ken | US House of Representatives",
+      "content": "Inouyeserved asamember oftheCongressionalAsianPacificAmericanCaucus and, in 1997, joined fellowHawaiian Senator DanielAkaka to help Philippine",
+      "score": 0.47300056,
+      "raw_content": null
+    },
+    {
+      "url": "https://history.house.gov/People/Detail/8354",
+      "title": "AKAKA, Daniel Kahikina | US House of Representatives",
+      "content": "As the first Native Hawaiian in the U.S. Senate,Daniel K. Akakaused his genial nature and influence in committee to effect change on the national stage.",
+      "score": 0.4398682,
+      "raw_content": null
+    }
+  ],
+  "response_time": 2.02,
+  "request_id": "b936c594-6a93-4b74-a64c-679b71286058"
+}
+================================================================================
+Attempt: 2
+Query: Brian Schatz ethnicity race background non-Asian American Hawaii Senator
+Full Tavily Payload:
+{
+  "query": "Brian Schatz ethnicity race background non-Asian American Hawaii Senator",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Brian_Schatz",
+      "title": "Brian Schatz - Wikipedia",
+      "content": "Brian Emanuel Schatz is an American educator and politician serving as the senior United States senator from Hawaii, a seat he has held since 2012.",
+      "score": 0.75659186,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.csmonitor.com/USA/Politics/DC-Decoder/2014/0618/Democrat-vs.-Democrat-five-tough-primaries-that-pit-left-against-itself/Hawaii-Colleen-Hanabusa-vs.-Brian-Schatz",
+      "title": "Hawaii: Colleen Hanabusa vs. Brian Schatz - CSMonitor.com",
+      "content": "Schatz is only the second non-Asian to represent Hawaii in the Senate, adding a racial component to the primary. President Obama, born in",
+      "score": 0.7132923,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.civilbeat.org/2025/05/with-his-political-star-on-the-rise-brian-schatz-aims-for-a-powerful-new-role/",
+      "title": "With His Political Star On The Rise, Brian Schatz Aims ... - Civil Beat",
+      "content": "With His Political Star On The Rise, Brian Schatz Aims For A Powerful New Role - Honolulu Civil Beat *   [![Image 3: Civil Beat](https://www.civilbeat.org/wp-content/themes/becivil/assets/images/ideas/ideas-logo.svg)](https://www.civilbeat.org/ideas) [![Image 4: Civil Beat](https://www.civilbeat.org/wp-content/themes/becivil/assets/images/ideas/ideas-logo.svg)](https://www.civilbeat.org/ideas)[Support](https://www.civilbeat.org/donate/?rel=head) *   [Let The Sunshine In](https://www.civilbeat.org/category/let-the-sunshine-in/) With His Political Star On The Rise, Brian Schatz Aims For A Powerful New Role  [](https://www.facebook.com/sharer/sharer.php?u=https://www.civilbeat.org/2025/05/with-his-political-star-on-the-rise-brian-schatz-aims-for-a-powerful-new-role/) [](http://twitter.com/share?text=With%20His%20Political%20Star%20On%20The%20Rise,%20Brian%20Schatz%20Aims%20For%20A%20Powerful%20New%20Role&url=https://www.civilbeat.org/2025/05/with-his-political-star-on-the-rise-brian-schatz-aims-for-a-powerful-new-role/) [](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.civilbeat.org%2F2025%2F05%2Fwith-his-political-star-on-the-rise-brian-schatz-aims-for-a-powerful-new-role%2F&title=With+His+Political+Star+On+The+Rise%2C+Brian+Schatz+Aims+For+A+Powerful+New+Role) [](mailto:?subject=With+His+Political+Star+On+The+Rise%2C+Brian+Schatz+Aims+For+A+Powerful+New+Role&body=I%20thought%20you%20might%20find%20this%20information%20interesting:%20https%3A%2F%2Fwww.civilbeat.org%2F2025%2F05%2Fwith-his-political-star-on-the-rise-brian-schatz-aims-for-a-powerful-new-role%2F) [](https://www.facebook.com/sharer/sharer.php?u=https://www.civilbeat.org/2025/05/with-his-political-star-on-the-rise-brian-schatz-aims-for-a-powerful-new-role/)[](http://twitter.com/share?text=With%20His%20Political%20Star%20On%20The%20Rise,%20Brian%20Schatz%20Aims%20For%20A%20Powerful%20New%20Role&url=https://www.civilbeat.org/2025/05/with-his-political-star-on-the-rise-brian-schatz-aims-for-a-powerful-new-role/)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.civilbeat.org%2F2025%2F05%2Fwith-his-political-star-on-the-rise-brian-schatz-aims-for-a-powerful-new-role%2F&title=With+His+Political+Star+On+The+Rise%2C+Brian+Schatz+Aims+For+A+Powerful+New+Role)[](mailto:?subject=With+His+Political+Star+On+The+Rise%2C+Brian+Schatz+Aims+For+A+Powerful+New+Role&body=I%20thought%20you%20might%20find%20this%20information%20interesting:%20https%3A%2F%2Fwww.civilbeat.org%2F2025%2F05%2Fwith-his-political-star-on-the-rise-brian-schatz-aims-for-a-powerful-new-role%2F)[![Image 5](https://www.civilbeat.org/wp-content/themes/becivil/assets/images/ideas/comment-icon.svg) 53](https://www.civilbeat.org/2025/05/with-his-political-star-on-the-rise-brian-schatz-aims-for-a-powerful-new-role/#comments) Schatz had already emerged as one of the Senate’s foremost proponents for building more housing and [responding to climate change](https://www.civilbeat.org/2019/04/schatz-leads-senate-dems-on-climate-change-the-crisis-of-our-generation/). (Kevin Fujii/Civil Beat/2024)](https://d1l18ops95qbzp.cloudfront.net/wp-content/2024/08/15134729/240815-kf-Brian-Schatz-010-1024x682.jpg) (Nathan Eagle/Civil Beat/2023)](https://d1l18ops95qbzp.cloudfront.net/wp-content/2023/08/21191322/schatz-case-hirono-biden-visit-lahaina-maui-wildfire-1024x714.jpg) ![Image 15: Civil Beat](https://www.civilbeat.org/wp-content/themes/becivil/dist/images/logo10.png) Sign up for our FREE morning newsletter and face each day more informed. [Read more](https://www.civilbeat.org/2025/05/with-his-political-star-on-the-rise-brian-schatz-aims-for-a-powerful-new-role/#comments) [Join the conversation](https://www.civilbeat.org/2025/05/with-his-political-star-on-the-rise-brian-schatz-aims-for-a-powerful-new-role/#comments) [![Image 19](https://www.civilbeat.org/wp-content/themes/becivil/assets/images/ideas/app-store-badge-blk.svg)](https://apps.apple.com/us/app/honolulu-civil-beat/id1398616853)[![Image 20](https://www.civilbeat.org/wp-content/themes/becivil/assets/images/ideas/play-store-badge-blk.png)](https://play.google.com/store/apps/details?id=com.civilbeat.digestapp&hl=en_US) Go[Cancel](https://www.civilbeat.org/2025/05/with-his-political-star-on-the-rise-brian-schatz-aims-for-a-powerful-new-role/#search) [](https://www.civilbeat.org/2025/05/with-his-political-star-on-the-rise-brian-schatz-aims-for-a-powerful-new-role/#menu) [](https://www.civilbeat.org/2025/05/with-his-political-star-on-the-rise-brian-schatz-aims-for-a-powerful-new-role/#) [](https://www.civilbeat.org/2025/05/with-his-political-star-on-the-rise-brian-schatz-aims-for-a-powerful-new-role/)[](https://www.civilbeat.org/2025/05/with-his-political-star-on-the-rise-brian-schatz-aims-for-a-powerful-new-role/) [](https://www.civilbeat.org/2025/05/with-his-political-star-on-the-rise-brian-schatz-aims-for-a-powerful-new-role/) [](https://www.civilbeat.org/2025/05/with-his-political-star-on-the-rise-brian-schatz-aims-for-a-powerful-new-role/)",
+      "score": 0.64585793,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.c-span.org/person/brian-e-schatz/87784/",
+      "title": "Brian E. Schatz | C-SPAN.org",
+      "content": "Senate Brian Emanuel Schatz is an American educator and politician serving as the senior United States senator from Hawaii, a seat he has held since 2012. Schatz has 445 videos in the C-SPAN Video Library; the first appearance was a 2011 Ceremony as a Lieutenant Governor. U.S. Senator, D-HI View Map The Senate voted on amendments to and then approved the House-passed $9.4 billion rescissions package that includes spending … Schatz - D162,905 + Departments of Labor, Health and Human Services, and Education, and Related Agencies + Senate Foreign Relations When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. These cookies do not store any personally identifiable information.",
+      "score": 0.61834323,
+      "raw_content": null
+    },
+    {
+      "url": "https://ballotpedia.org/Brian_Schatz",
+      "title": "Brian Schatz - Ballotpedia",
+      "content": "Brian E. Schatz (Democratic Party) is a member of the US Senate from Hawaii. He assumed office on December 27, 2012. His current term ends on January 3, 2029.",
+      "score": 0.58976424,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.29,
+  "request_id": "84fb5288-e828-463f-b4a4-e11b965e4847"
+}

@@ -1,0 +1,147 @@
+================================================================================
+Attempt: 1
+Query: What actress that starred in Carol, Carl, Whoopi and Robin has been nominated for 13 Emmy Awards?
+Full Tavily Payload:
+{
+  "query": "What actress that starred in Carol, Carl, Whoopi and Robin has been nominated for 13 Emmy Awards?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Carol,_Carl,_Whoopi_and_Robin",
+      "title": "Carol, Carl, Whoopi and Robin - Wikipedia",
+      "content": "It starred Carol Burnett, Carl Reiner, Whoopi Goldberg and Robin Williams. Burnett served as the host of the one hour long spinoff special",
+      "score": 0.8302782,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0381943/",
+      "title": "Carol, Carl, Whoopi and Robin (TV Special 1987) - IMDb",
+      "content": "Whoopi Goldberg, Robin Williams, Carol Burnett, and Carl Reiner in Carol, Carl, Whoopi and Robin (1987) Comedy",
+      "score": 0.798077,
+      "raw_content": null
+    },
+    {
+      "url": "https://robinwright.org.es/awardsandnominations/",
+      "title": "Robin Wright (Awards and Nominations)",
+      "content": "[➨ Robin Wright as Kelly Capwell on Santa Barbara![Image 57: ➨ Robin Wright as Kelly Capwell on Santa Barbara (1987) #RobinWright #KellyCapwell #SantaBarbara #SoapOpera #1987 #80s #santabarbaratvseries #santabarbarasoap #californiaclan #robinwrightsite #robinwrightfilms #SantaBarbaraStars](https://robinwright.org.es/wp-content/uploads/sb-instagram-feed-images/442676845_335801759531280_5571284825765976528_nthumb.jpg)](https://www.instagram.com/p/C61LIPMNS7M/) [➨ Robin Wright as Kelly Capwell ➨ Santa Barbar![Image 60: ➨ Robin Wright as Kelly Capwell ➨ Santa Barbara (1984) #RobinWright #KellyCapwell #SantaBarbara #SoapOpera #1984 #80s #santabarbaratvseries #santabarbarasoap #californiaclan #robinwrightsite #robinwrightfilms #SantaBarbaraStars](https://robinwright.org.es/wp-content/uploads/sb-instagram-feed-images/403958627_366984995900754_5185034781371504608_nthumb.jpg)](https://www.instagram.com/p/C0ErECAt2Xu/) [➨ Robin Wright as Kelly Capwell on Santa Barbara![Image 61: ➨ Robin Wright as Kelly Capwell on Santa Barbara (1985) #RobinWright #KellyCapwell #SantaBarbara #SoapOpera #1985 #80s #santabarbaratvseries #santabarbarasoap #californiaclan #robinwrightsite #robinwrightfilms #SantaBarbaraStars](https://robinwright.org.es/wp-content/uploads/sb-instagram-feed-images/371096508_1042707863820662_6487454785916637031_nthumb.jpg)](https://www.instagram.com/p/CwaWX2qN5GR/) [➨ Robin Wright as Kelly Capwell on Santa Barbara![Image 65: ➨ Robin Wright as Kelly Capwell on Santa Barbara (1985) #RobinWright #KellyCapwell #SantaBarbara #SoapOpera #1985 #80s #santabarbaratvseries #santabarbarasoap #californiaclan #robinwrightsite #robinwrightfilms #SantaBarbaraStars](https://robinwright.org.es/wp-content/uploads/sb-instagram-feed-images/327184892_1331569460952726_3011064386767311535_nthumb.jpg)](https://www.instagram.com/p/CnuHUJYNeGm/)",
+      "score": 0.33672404,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.kttc.com/2024/07/18/carol-burnett-makes-history-with-emmy-nomination/",
+      "title": "Carol Burnett makes history with Emmy nomination - KTTC",
+      "content": "At 91 years old, Burnett became the oldest female to be nominated for an Emmy in comedy acting. The nomination is for her supporting actress",
+      "score": 0.29013586,
+      "raw_content": null
+    },
+    {
+      "url": "https://abc30.com/post/emmys-abc-years-awards-feature-historic-nominations-groundbreaking-firsts/15286501/",
+      "title": "Emmys on ABC: This year's awards feature historic nominations and ...",
+      "content": "At 91, the legendary Carol Burnett becomes the oldest comedy actress nominee for her role in \"Palm Royale.\" Not to be outdone, Steve Martin",
+      "score": 0.24772386,
+      "raw_content": null
+    }
+  ],
+  "response_time": 0.93,
+  "request_id": "e3ae4305-efec-4e4c-baf4-5e2d8e81805d"
+}
+================================================================================
+Attempt: 2
+Query: Carol Burnett Emmy nominations total number
+Full Tavily Payload:
+{
+  "query": "Carol Burnett Emmy nominations total number",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.fox5atlanta.com/news/comedy-legend-carol-burnett-celebrates-latest-emmy-nom",
+      "title": "Comedy legend Carol Burnett celebrates latest Emmy nom",
+      "content": "... total of 11 Emmy nominations. The nomination — her 25th, according to The Television Academy — extends Burnett's incredible Emmy Awards run",
+      "score": 0.92359936,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Carol_Burnett",
+      "title": "List of awards and nominations received by Carol Burnett - Wikipedia",
+      "content": "List of awards and nominations received by Carol Burnett - Wikipedia List of awards and nominations received by Carol Burnett Burnett has received 23 Primetime Emmy Award nominations with six wins for her work for her appearances in the CBS variety series _The Garry Moore Show_ (1950–1967), the television special _Julie and Carol at Carnegie Hall_ (1962), the CBS variety-sketch series _The Carol Burnett Show_ (1967–1987) and the NBCsitcom_Mad About You_. | 2002 | Outstanding Variety, Music or Comedy Special \"Primetime Emmy Award for Outstanding Variety Special (Pre-Recorded)\") | _The Carol Burnett Show: Show Stoppers_ | Nominated |  | **List of awards and nominations received by Carol Burnett** at Wikipedia's sister projects List of awards and nominations received by Carol Burnett",
+      "score": 0.90830135,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.clickondetroit.com/live-in-the-d/2024/08/14/legendary-actress-carol-burnett-talks-about-her-latest-emmy-nomination/",
+      "title": "Legendary actress Carol Burnett talks about her latest Emmy ...",
+      "content": "“Palm Royale” has a total of 11 Emmy nominations. The Emmys will be handed out on September 15th, which is when fans can see if Burnett lands",
+      "score": 0.90830135,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.southernliving.com/carol-burnett-emmy-nomination-palm-royale-8679799?srsltid=AfmBOoqkrZTgPiU_Vpdp0eWI2DKkNbipsNe1Bnqvg34XmP3WYFnxiejR",
+      "title": "San Antonio Native Carol Burnett Just Made History With Her Emmy ...",
+      "content": "The series also stars Ricky Martin, Laura Dern, and Allison Janney and, as The Hollywood Reporter noted, received 11 Emmy nominations total,",
+      "score": 0.8727061,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/carol-burnett-oldest-female-comedy-emmys-nominee-palm-royale-1235949902/",
+      "title": "Carol Burnett Becomes Oldest Female Comedy Acting Nominee for ...",
+      "content": "Burnett herself has been nominated for an Emmy 24 times and won seven times, including outstanding guest actress in a comedy series in 1997 for",
+      "score": 0.81595254,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.24,
+  "request_id": "5c8f680e-8adf-45d8-8d62-c9ebc00bb950"
+}
+================================================================================
+Attempt: 3
+Query: Whoopi Goldberg Emmy nominations total number
+Full Tavily Payload:
+{
+  "query": "Whoopi Goldberg Emmy nominations total number",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://total-movies.fandom.com/wiki/Whoopi_Goldberg",
+      "title": "Whoopi Goldberg | Total Movies Wiki | Fandom",
+      "content": "Goldberg has been nominated for 13 Emmy Awards for her work in television. She is one of the few entertainers who have won an Emmy, Grammy, Oscar, and Tony",
+      "score": 0.8934678,
+      "raw_content": null
+    },
+    {
+      "url": "https://thefilmcraftproductions.com/special-focus-whoopi-the-first-black-egotist/",
+      "title": "SPECIAL FOCUS: WHOOPI! The First Black EGOT",
+      "content": "[![Image 1: the_firm_craft_logo7](https://thefilmcraftproductions.com/wp-content/uploads/2022/01/the_firm_craft_logo7.png)](https://thefilmcraftproductions.com/) [](https://thefilmcraftproductions.com/special-focus-whoopi-the-first-black-egotist/#) *   [Home](https://thefilmcraftproductions.com/) *   [About us](https://thefilmcraftproductions.com/about-us/) *   [Our Works](https://thefilmcraftproductions.com/our-work/) *   [Feature Films](https://thefilmcraftproductions.com/feature-films/) *   [Blog](https://thefilmcraftproductions.com/blog/) *   [Jobs](https://thefilmcraftproductions.com/jobs/) [![Image 2: the_firm_craft_logo7](https://thefilmcraftproductions.com/wp-content/uploads/2022/01/the_firm_craft_logo7.png)](https://thefilmcraftproductions.com/) [](https://thefilmcraftproductions.com/special-focus-whoopi-the-first-black-egotist/#) *   [Home](https://thefilmcraftproductions.com/) *   [About us](https://thefilmcraftproductions.com/about-us/) *   [Our Works](https://thefilmcraftproductions.com/our-work/) *   [Feature Films](https://thefilmcraftproductions.com/feature-films/) *   [Blog](https://thefilmcraftproductions.com/blog/) *   [Jobs](https://thefilmcraftproductions.com/jobs/) [Black Woman](https://thefilmcraftproductions.com/tag/black-woman/),[EGOT](https://thefilmcraftproductions.com/tag/egot/),[Emmy](https://thefilmcraftproductions.com/tag/emmy/),[First Black](https://thefilmcraftproductions.com/tag/first-black/),[Goldgerg](https://thefilmcraftproductions.com/tag/goldgerg/),[Grammy](https://thefilmcraftproductions.com/tag/grammy/),[Oscar](https://thefilmcraftproductions.com/tag/oscar/),[Tony](https://thefilmcraftproductions.com/tag/tony/),[Whoopi](https://thefilmcraftproductions.com/tag/whoopi/),[Whoopi Goldberg](https://thefilmcraftproductions.com/tag/whoopi-goldberg/) [](https://www.facebook.com/sharer/sharer.php?caption=SPECIAL+FOCUS%3A+WHOOPI%21+The+First+Black+EGOT&u=https://thefilmcraftproductions.com/special-focus-whoopi-the-first-black-egotist/)[](http://pinterest.com/pin/create/button/?url=https://thefilmcraftproductions.com/special-focus-whoopi-the-first-black-egotist/&media=https://thefilmcraftproductions.com/wp-content/uploads/2023/02/IMG_4508-1.jpg)[](https://twitter.com/intent/tweet?text=SPECIAL+FOCUS%3A+WHOOPI%21+The+First+Black+EGOT&url=https://thefilmcraftproductions.com/special-focus-whoopi-the-first-black-egotist/)0 Shares ![Image 3](http://thefilmcraftproductions.com/wp-content/uploads/2023/02/4S5BLO7R5ZFEZNESSHW3L7FHL4-300x251.jpg) **Actress, Comedian, and TV host _Whoopi Goldberg_ was the first Black person to win the coveted EGOT (Emmy, Grammy, Oscar & Tony) Award.** ![Image 4](http://thefilmcraftproductions.com/wp-content/uploads/2023/02/7a1a22f5b174fccf40cd6c5b6045ba2e-246x300.jpeg) ![Image 5](http://thefilmcraftproductions.com/wp-content/uploads/2023/02/V7SR2IIB4RDLJKICDNT3J4W6EM-300x169.jpg) ![Image 6](http://thefilmcraftproductions.com/wp-content/uploads/2023/02/5a6380f8-a704-428a-a339-fe8f9677bec6-XXX_Whoopi_Goldberg_portrait_TP0006-200x300.webp) [](https://www.facebook.com/sharer/sharer.php?caption=SPECIAL+FOCUS%3A+WHOOPI%21+The+First+Black+EGOT&u=https://thefilmcraftproductions.com/special-focus-whoopi-the-first-black-egotist/)[](http://pinterest.com/pin/create/button/?url=https://thefilmcraftproductions.com/special-focus-whoopi-the-first-black-egotist/&media=https://thefilmcraftproductions.com/wp-content/uploads/2023/02/IMG_4508-1.jpg)[](https://twitter.com/intent/tweet?text=SPECIAL+FOCUS%3A+WHOOPI%21+The+First+Black+EGOT&url=https://thefilmcraftproductions.com/special-focus-whoopi-the-first-black-egotist/)0 Shares [Black Woman](https://thefilmcraftproductions.com/tag/black-woman/)[EGOT](https://thefilmcraftproductions.com/tag/egot/)[Emmy](https://thefilmcraftproductions.com/tag/emmy/)[First Black](https://thefilmcraftproductions.com/tag/first-black/)[Goldgerg](https://thefilmcraftproductions.com/tag/goldgerg/)[Grammy](https://thefilmcraftproductions.com/tag/grammy/)[Oscar](https://thefilmcraftproductions.com/tag/oscar/)[Tony](https://thefilmcraftproductions.com/tag/tony/)[Whoopi](https://thefilmcraftproductions.com/tag/whoopi/)[Whoopi Goldberg](https://thefilmcraftproductions.com/tag/whoopi-goldberg/) #### Leave a Reply [Cancel Reply](https://thefilmcraftproductions.com/special-focus-whoopi-the-first-black-egotist/#respond) [![Image 7: Screen Shot 2025-02-27 at 3.15.52 AM](https://thefilmcraftproductions.com/wp-content/uploads/2025/02/Screen-Shot-2025-02-27-at-3.15.52-AM-150x150.png)](https://thefilmcraftproductions.com/portfolio/dano-the-wait-kitchen-tvc/) [![Image 8: IMG_4793](https://thefilmcraftproductions.com/wp-content/uploads/2024/12/IMG_4793-150x150.jpg)](https://thefilmcraftproductions.com/portfolio/betking-king-of-the-season-tvc-bts/) [![Image 9: MTN](https://thefilmcraftproductions.com/wp-content/uploads/2024/01/MTN-150x150.jpg)](https://thefilmcraftproductions.com/portfolio/mtn-the-dining-table-short-film-lyrics-to-screen-version/) [![Image 10: MTN](https://thefilmcraftproductions.com/wp-content/uploads/2024/01/MTN-150x150.jpg)](https://thefilmcraftproductions.com/portfolio/mtn-the-dining-table-tvc-short-film/) [![Image 11: Screen-Shot-2023-08-09-at-8.21.48-PM](https://thefilmcraftproductions.com/wp-content/uploads/2024/01/Screen-Shot-2023-08-09-at-8.21.48-PM-150x150.png)](https://thefilmcraftproductions.com/portfolio/betking-king-of-the-season-tvc/) [![Image 12: Golden Penny](https://thefilmcraftproductions.com/wp-content/uploads/2024/01/Golden-Penny-150x150.jpg)](https://thefilmcraftproductions.com/portfolio/golden-penny-my-soups-first-choice-tvc/) [![Image 13: _DSF4401-min](https://thefilmcraftproductions.com/wp-content/uploads/2023/01/DSF4401-min-150x150.jpg)](https://thefilmcraftproductions.com/portfolio/nigerian-idol-season-7-the-note-tvc-bts/) [![Image 14: _DSF2088-min](https://thefilmcraftproductions.com/wp-content/uploads/2023/01/DSF2088-min-150x150.jpg)](https://thefilmcraftproductions.com/portfolio/mtn-fire-broadband-sting-tvcs-bts/) [![Image 15: _DSF1161-min](https://thefilmcraftproductions.com/wp-content/uploads/2023/01/DSF1161-min-150x150.jpg)](https://thefilmcraftproductions.com/portfolio/fcmb-millionaire-level-promo-tvc-bts/)",
+      "score": 0.7036111,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.televisionacademy.com/bios/whoopi-goldberg",
+      "title": "Whoopi Goldberg - Television Academy",
+      "content": "9 Nominations · Outstanding Narrator - 2014 · Outstanding Documentary Or Nonfiction Special - 2014 · Outstanding Special Class Programs - 2009 · Outstanding",
+      "score": 0.6742441,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.imdb.com/name/nm0000155/awards/",
+      "title": "Awards - Whoopi Goldberg - IMDb",
+      "content": "Daytime Emmy Awards · The View (1997). 2024 Nominee Daytime Emmy. Outstanding Daytime Talk Series Host · The View (1997). 2023 Nominee Daytime Emmy. Outstanding",
+      "score": 0.6580885,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.fandango.com/people/whoopi-goldberg-246562/awards",
+      "title": "Whoopi Goldberg Awards + Nominations - Fandango",
+      "content": "Awards ; 2019, Emmy (Daytime) Outstanding Entertainment Talk Show Host - Nominated ; 2018, Emmy (Daytime) Outstanding Entertainment Talk Show Host - Nominated.",
+      "score": 0.45522344,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.04,
+  "request_id": "3a8a2b3a-23d5-4b23-895f-e1749570a96a"
+}

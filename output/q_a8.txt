@@ -1,0 +1,42 @@
+QUESTION:
+What is the name of the person who helped work on Les Sylphides and past away 22 August 1942?
+
+GROUND TRUTH ANSWER:
+Michael Fokine
+================================================================================
+Attempt: 1
+Query: What is the name of the person who helped work on Les Sylphides and past away 22 August 1942?
+Results:
+  [1] Search Result | 
+
+--- Prompt ---
+You are a careful researcher. Use ONLY the context below.
+
+Question:
+What is the name of the person who helped work on Les Sylphides and past away 22 August 1942?
+
+Context (web search results):
+[1] Search Result
+URL: 
+Snippet: {'query': 'What is the name of the person who helped work on Les Sylphides and past away 22 August 1942?', 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://www.facebook.com/MichelFokineEstate/posts/fokine-and-fokina-in-les-sylphides-with-the-ballet-russes-1914-fokineestatearchi/259677236450390/', 'title': 'Fokine and Fokina in “Les Sylphides,” with the Ballet Russes, 1914 ...', 'content': "Aug 22\U000f078b\U000f17e0. \U000f07dd. 83 years ago today, Michel Fokine passed away, on August 22nd, 1942. Shortly after Fokine's death there were countless", 'score': 0.8775715, 'raw_content': None}, {'url': 'https://www.encyclopedia.com/people/literature-and-arts/dance-biographies/michel-fokine', 'title': 'Michel Fokine | Encyclopedia.com', 'content': 'Fokine re
+
+
+Instructions:
+- If the context is sufficient, produce a concise answer with inline citations [1], [2], etc.
+- If the context is insufficient, do NOT guess; instead propose ONE improved web search query that would likely retrieve the needed info.
+- If question requires multiple queries, than divide the question into multiple questions and propose one query for each question.
+
+Output format (must follow exactly):
+ANSWER: <your answer or say "I don't know based on the context">
+FOLLOW_UP_QUERY: <a single refined query or "none">
+
+--- Raw Reasoning Output ---
+ANSWER: Based on the context provided, Michel Fokine is the person who helped work on Les Sylphides and passed away on August 22, 1942. The context shows that "83 years ago today, Michel Fokine passed away, on August 22nd, 1942" and mentions "Fokine and Fokina in 'Les Sylphides,' with the Ballet Russes, 1914" [1].
+
+FOLLOW_UP_QUERY: none
+
+--- Model Answer (this attempt) ---
+Based on the context provided, Michel Fokine is the person who helped work on Les Sylphides and passed away on August 22, 1942. The context shows that "83 years ago today, Michel Fokine passed away, on August 22nd, 1942" and mentions "Fokine and Fokina in 'Les Sylphides,' with the Ballet Russes, 1914" [1].
+
+FOLLOW_UP_QUERY: none
+--------------------------------------------------------------------------------

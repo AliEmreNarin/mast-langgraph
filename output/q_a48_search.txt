@@ -1,0 +1,147 @@
+================================================================================
+Attempt: 1
+Query: Nick Brennan is a British cartoonist who works mainly for D. C. Thomson & Co. Ltd, he started drawing for the company in 1993, drawing a revival of which English-language nursery rhyme and well-known alliteration tongue-twister, from "The Dandy"?
+Full Tavily Payload:
+{
+  "query": "Nick Brennan is a British cartoonist who works mainly for D. C. Thomson & Co. Ltd, he started drawing for the company in 1993, drawing a revival of which English-language nursery rhyme and well-known alliteration tongue-twister, from \"The Dandy\"?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "title": "List of The Dandy people - FamousFix List",
+      "url": "https://www.famousfix.com/list/the-dandy-people",
+      "content": "Nick Brennan British cartoonist . 0 0.David Alan Parkins (born 2 November 1955) is a British cartoonist and illustrator who has worked for D . C . Thomson , publisher of The Beano and The Dandy . Now based in Canada, he illustrates children's picture books.",
+      "score": 0.67037153,
+      "raw_content": null
+    },
+    {
+      "title": "Tongue Twister for kid’s || Peter Piper Picked || - смотреть видео...",
+      "url": "https://rutube.ru/video/33659ce76712fa49900e99042f3d810c/",
+      "content": "\"Peter Piper\" is an English - language nursery rhyme and well-known alliteration tongue - twister .",
+      "score": 0.57236487,
+      "raw_content": null
+    },
+    {
+      "title": "Peter Piper - Wikipedia",
+      "url": "https://en.m.wikipedia.org/wiki/Peter_Piper",
+      "content": "\"Peter Piper\" is an English - language nursery rhyme and well-known alliteration tongue - twister . It has a Roud Folk Song Index number of 19745. Lyrics. The traditional version, as published in John Harris' Peter Piper's Practical Pr",
+      "score": 0.534443,
+      "raw_content": null
+    },
+    {
+      "title": "Tongue Twister Sentences for Kids",
+      "url": "https://ru.pinterest.com/ideas/tongue-twister-sentences-for-kids/905127977158/",
+      "content": "Alliteration Tongue Twisters .Colorful Tongue Twisters Chart. Tongue twister is a word or group of words made difficult to articulate by a close sequence of similar consonantal sounds.",
+      "score": 0.24777849,
+      "raw_content": null
+    },
+    {
+      "title": "25 Tongue Twisters for Kids ( 2025 Edition)",
+      "url": "https://speakingtongue.com/tongue-twisters-for-kids/",
+      "content": "Here I have compiled the list of tongue twisters for kids to enjoy and learn simultaneouslySarah is a content writer and language enthusiast who loves to travel and learn about new cultures.",
+      "score": 0.21167782,
+      "raw_content": null
+    }
+  ],
+  "response_time": 3.05,
+  "request_id": "49ad2c60-4285-47b3-b235-3750da98502e"
+}
+================================================================================
+Attempt: 2
+Query: Nick Brennan cartoonist D.C. Thomson 1993 The Dandy nursery rhyme tongue twister revival
+Full Tavily Payload:
+{
+  "query": "Nick Brennan cartoonist D.C. Thomson 1993 The Dandy nursery rhyme tongue twister revival",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Nick_Brennan",
+      "title": "Nick Brennan",
+      "content": "Nick Brennan - Wikipedia **Nick Brennan** is a British cartoonist who works mainly for D. In 1997, Nick drew a comic strip for a vote for _The Beano_ which was called \"Crazy for Daisy\", and, along with Tim Traveller by Vic Neill, won the vote, followed by another strip, Pinky's Crackpot Circus, in 2004, and in 2006, a revival of \"Brassneck\" and \"Noah's Ark\". In the 2000s, Nick occasionally ghosted Nicky Nutjob\"), and contributed to the Fun Size Dandy/Fun Size Beano comics. In the final print edition of _The Dandy_, Nick drew Blinky, Peter Piper and Pinky's Crackpot Circus. In addition to comic work, Nick undertakes private and commercial commissions and has run cartoon workshops for events such as The Art of Stories at the Eden Project.",
+      "score": 0.70847535,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.mixcloud.com/CHBNRadio/nick-brennan-cartoonist-for-the-beano-and-the-dandy-and-much-much-more/",
+      "title": "Nick Brennan, cartoonist for the Beano and the Dandy and ...",
+      "content": "Nick Brennan has been working as a cartoonist and illustrator for over 25 years, for clients including the Beano & Dandy comics (Blinky, Sneaker,",
+      "score": 0.58976424,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.nickbrennancartoonist.co.uk/",
+      "title": "Nick Brennan - Cartoonist",
+      "content": "I've been working as acartoonistandillustratorfor over 30 years, for clients including the Beano &Dandycomics (Blinky, Sneaker, Billy Whizz, Crazy for",
+      "score": 0.4689128,
+      "raw_content": null
+    },
+    {
+      "url": "https://broadwaybaby.com/author/Paul+Clark",
+      "title": "Reviews by Paul Clark",
+      "content": "Many Scots first experience of comics is likely to be two series published by Dundee-basedD C Thomsonin their long-running newspaper, The Sunday Post.",
+      "score": 0.1565302,
+      "raw_content": null
+    },
+    {
+      "url": "https://canvas.shufe.edu.cn/courses/21132/files/458362/download?verifier=ONF0pvpLCC1ApYWGny4T7fNWXTiKKC332MQChQVt&wrap=1",
+      "title": "a companion to Twentieth-Century Poetry",
+      "content": "Apr 26, 2017—This series offers comprehensive, newly written surveys of key periods and movements and certain major authors, in English literary culture",
+      "score": 0.024019241,
+      "raw_content": null
+    }
+  ],
+  "response_time": 2.0,
+  "request_id": "93fd7e6e-1402-4fb6-bcb9-83d97b70ea5f"
+}
+================================================================================
+Attempt: 3
+Query: "Nick Brennan" 1993 "The Dandy" nursery rhyme tongue twister first comic strip
+Full Tavily Payload:
+{
+  "query": "\"Nick Brennan\" 1993 \"The Dandy\" nursery rhyme tongue twister first comic strip",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "title": "Hey Kids Comics Wiki Nick Brennan | Hey Kids Comics Wiki | Fandom",
+      "url": "https://heykidscomics.fandom.com/wiki/Nick_Brennan",
+      "content": "Nick Brennan is a British cartoonist[1] who works mainly for D. C. Thomson & Co. Ltd. He started drawing for the company in 1993 , drawing a revival of Peter Piper From The Dandy , revived from The Magic Comic , but looking nothing like Watkins' creation, instead sporting an elvis-like hairdo",
+      "score": 0.8095324,
+      "raw_content": null
+    },
+    {
+      "title": "Beano Wiki Nick Brennan | Beano Wiki | Fandom",
+      "url": "https://beano.fandom.com/wiki/Nick_Brennan",
+      "content": "June 7, 2024 - Nick Brennan (born 22 April 1966) is a British cartoonist who works mainly for D. C. Thomson & Co. Ltd. He started drawing for the company in 1993 , drawing a revival of Peter Piper from The Dandy , revived from The Magic Comic , but with a departure from Watkins' creation, with Peter instead",
+      "score": 0.7869018,
+      "raw_content": null
+    },
+    {
+      "title": "Wikipedia Nick Brennan - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nick_Brennan",
+      "content": "Nick Brennan - Wikipedia **Nick Brennan** is a British cartoonist who works mainly for D. In 1997, Nick drew a comic strip for a vote for _The Beano_ which was called \"Crazy for Daisy\", and, along with Tim Traveller by Vic Neill, won the vote, followed by another strip, Pinky's Crackpot Circus, in 2004, and in 2006, a revival of \"Brassneck\" and \"Noah's Ark\". In the 2000s, Nick occasionally ghosted Nicky Nutjob\"), and contributed to the Fun Size Dandy/Fun Size Beano comics. In the final print edition of _The Dandy_, Nick drew Blinky, Peter Piper and Pinky's Crackpot Circus. In addition to comic work, Nick undertakes private and commercial commissions and has run cartoon workshops for events such as The Art of Stories at the Eden Project.",
+      "score": 0.6501347,
+      "raw_content": null
+    },
+    {
+      "title": "Nickbrennancartoonist Nick Brennan - Cartoonist",
+      "url": "https://www.nickbrennancartoonist.co.uk/",
+      "content": "Cartoons - Illustrations - Animations - Comic Strips - Cartoon Workshops for Schools, Museums & Galleries and more · In brief, I've been working as a cartoonist and illustrator for over 30 years, for clients including the Beano & Dandy comics (Blinky, Sneaker, Billy Whizz, Crazy for Daisy",
+      "score": 0.4423239,
+      "raw_content": null
+    },
+    {
+      "title": "LinkedIn Nick Brennan - A cartoonist and more... comic strips, animation, interactive content – I'm your man! One half of Cartoonfun. | LinkedIn",
+      "url": "https://www.linkedin.com/in/nickbrennancartoonist/",
+      "content": "March 5, 2025 - A cartoonist and more... comic strips , animation, interactive content – I'm your man! One half of Cartoonfun. · Would you like to add some fun to your book, your business, your blog? To anything or everything? I could be just the person that you need! I've been a professional cartoonist",
+      "score": 0.34072697,
+      "raw_content": null
+    }
+  ],
+  "response_time": 3.59,
+  "request_id": "6ad6c71d-1814-4967-9bff-aed37d6de7af"
+}

@@ -1,0 +1,147 @@
+================================================================================
+Attempt: 1
+Query: The Saratoga Springs History Museum is located inside a casino that was the former site of what bottling plant?
+Full Tavily Payload:
+{
+  "query": "The Saratoga Springs History Museum is located inside a casino that was the former site of what bottling plant?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Saratoga_Springs_History_Museum",
+      "title": "Saratoga Springs History Museum - Wikipedia",
+      "content": "The Saratoga Springs History Museum in Saratoga Springs, New York, United States, is located inside the historic Canfield Casino.",
+      "score": 0.9237645,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.saratoga.com/business/saratoga-springs-history-museum-3124/",
+      "title": "Saratoga Springs History Museum",
+      "content": "The Saratoga Springs History Museum, founded in 1883 by influential residents like Ellen Hardin Walworth, is housed in the historic Canfield Casino. With 16,000",
+      "score": 0.8834878,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.discoversaratoga.org/blog/stories/post/the-saratoga-springs-history-museum-where-history-and-spirits-come-to-life/",
+      "title": "The Saratoga Springs History Museum Where History and Spirits ...",
+      "content": "The museum occupies three floors, and is located within the Canfield Casino, a designated National Landmark. The first floor contains the",
+      "score": 0.8593928,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.saratogahistory.org/",
+      "title": "Saratoga Springs History Museum",
+      "content": "Congress Street, Saratoga Springs, NY 12866 – located in the Canfield Casino in Congress Park. Hours: Museum open Everyday from 10 AM to 4 PM.",
+      "score": 0.8458536,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.americanheritage.com/content/saratoga-springs-history-museum",
+      "title": "Saratoga Springs History Museum - AMERICAN HERITAGE",
+      "content": "The current location of the Canfield Casino has been the site of the museum since 1911. This beautiful 1870 gambling casino, owned by the City of Saratoga",
+      "score": 0.8342047,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.65,
+  "request_id": "0e2e63e1-296f-4fd2-b28e-05a05e8de52c"
+}
+================================================================================
+Attempt: 2
+Query: Canfield Casino Saratoga Springs former bottling plant history
+Full Tavily Payload:
+{
+  "query": "Canfield Casino Saratoga Springs former bottling plant history",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Canfield_Casino_and_Congress_Park",
+      "title": "Canfield Casino and Congress Park - Wikipedia",
+      "content": "Image 6: Canfield Casino and Congress Park is located in New York **Canfield Casino and Congress Park** is a 17-acre (6.9 ha) site in Saratoga Springs, New York, United States. The site was listed on the National Register of Historic Places (NRHP) as the **Casino-Congress Park-Circular Street Historic District** in 1972, and was then declared a National Historic Landmark in 1987. It follows the 300-foot (91 m) elevationcontour line on the west, excluding some of the buildings on Broadway southwest of the park, and then joins Broadway south of Union Avenue \"Union Avenue Historic District (Saratoga Springs, New York)\"), back to its northwest corner at Spring Street. \"National Register of Historic Places Inventory-Nomination: Canfield Casino and Congress Park\"(pdf).",
+      "score": 0.6654328,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.maltadevelopment.com/blog/topic/canfield-casino",
+      "title": "Home Builder Blog | Malta Development | Canfield Casino",
+      "content": "Nothing fits this bill more than Congress Park in Saratoga Springs. Originally the location of Congress Springs Bottling Plant and the large",
+      "score": 0.6554468,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.saratogaautomuseum.org/the-bottling-plant",
+      "title": "The Bottling Plant — Saratoga Automobile Museum",
+      "content": "Nearly a decade after the bottling plant ceased operations, the state leased the property and bottling rights to Waters of Saratoga Springs, Inc., a private",
+      "score": 0.53997856,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.saratoga-springs.org/363/Canfield-Casino",
+      "title": "The Canfield Casino | Saratoga Springs, NY",
+      "content": "In 1883 Richard Canfield took a partnership in the Saratoga Clubhouse and bought it outright the following year for $250,000 (approximately $7 million today).",
+      "score": 0.52115494,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.saratoga.com/aboutsaratoga/canfield-casino/",
+      "title": "The Canfield Casino: History, Weddings & Haunted Happenings",
+      "content": "The Casino, originally dubbed the Saratoga Club House, was built by John Morrissey in 1870 as part of Congress Hall, which was a large resort hotel that",
+      "score": 0.5009527,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.05,
+  "request_id": "c523b515-cd8d-407b-b388-7f69fd4a471b"
+}
+================================================================================
+Attempt: 3
+Query: "Canfield Casino" "bottling plant" Saratoga Springs history before casino
+Full Tavily Payload:
+{
+  "query": "\"Canfield Casino\" \"bottling plant\" Saratoga Springs history before casino",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.discoversaratoga.org/things-to-do/history-and-museums/",
+      "title": "Historic Sites & Museums | American Revolution in Saratoga",
+      "content": "Saratoga Springs History Museum – Located in the Canfield Casino, this ... Saratoga Automobile Museum – Located in the former bottling plant for the",
+      "score": 0.6690754,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.maltadevelopment.com/blog/congress-park-historical-fun-family",
+      "title": "Congress Park: Historical Fun For the Whole Family",
+      "content": "Originally the location of Congress Springs Bottling Plant and ... Visitors to Canfield Casino will find the Saratoga History Museum",
+      "score": 0.61112726,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Canfield_Casino_and_Congress_Park",
+      "title": "Canfield Casino and Congress Park",
+      "content": "Image 6: Canfield Casino and Congress Park is located in New York **Canfield Casino and Congress Park** is a 17-acre (6.9 ha) site in Saratoga Springs, New York, United States. The site was listed on the National Register of Historic Places (NRHP) as the **Casino-Congress Park-Circular Street Historic District** in 1972, and was then declared a National Historic Landmark in 1987. It follows the 300-foot (91 m) elevationcontour line on the west, excluding some of the buildings on Broadway southwest of the park, and then joins Broadway south of Union Avenue \"Union Avenue Historic District (Saratoga Springs, New York)\"), back to its northwest corner at Spring Street. \"National Register of Historic Places Inventory-Nomination: Canfield Casino and Congress Park\"(pdf).",
+      "score": 0.58123237,
+      "raw_content": null
+    },
+    {
+      "url": "https://whichmuseum.com/museum/canfield-casino-saratoga-springs-10726",
+      "title": "Canfield Casino (Saratoga Springs) - Whichmuseum",
+      "content": "This location was once home to the Congress Hotel, a large resort hotel, and the Congress Spring Bottling Plant. ... Discover museums near Canfield Casino in or",
+      "score": 0.5654673,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.saratoga.com/throwback-thursday/2013/10/the-old-entrance-to-congress-park/",
+      "title": "The Old Entrance to Congress Park",
+      "content": "During this time, Congress Park was grounds for the Canfield Casino and Saratoga Bottling Plant. As you can tell by the photo, the civil war",
+      "score": 0.55478466,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.05,
+  "request_id": "179ef50a-57e7-41cc-98b8-c3b129db0a02"
+}

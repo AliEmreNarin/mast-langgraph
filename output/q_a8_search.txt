@@ -1,0 +1,49 @@
+================================================================================
+Attempt: 1
+Query: What is the name of the person who helped work on Les Sylphides and past away 22 August 1942?
+Full Tavily Payload:
+{
+  "query": "What is the name of the person who helped work on Les Sylphides and past away 22 August 1942?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.facebook.com/MichelFokineEstate/posts/fokine-and-fokina-in-les-sylphides-with-the-ballet-russes-1914-fokineestatearchi/259677236450390/",
+      "title": "Fokine and Fokina in “Les Sylphides,” with the Ballet Russes, 1914 ...",
+      "content": "Aug 22󰞋󱟠. 󰟝. 83 years ago today, Michel Fokine passed away, on August 22nd, 1942. Shortly after Fokine's death there were countless",
+      "score": 0.8775715,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.encyclopedia.com/people/literature-and-arts/dance-biographies/michel-fokine",
+      "title": "Michel Fokine | Encyclopedia.com",
+      "content": "Fokine revised the work in 1908 and retitled it Les Sylphides, under ... Fokine died in New York on August 22, 1942. He was the creator",
+      "score": 0.829285,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.instagram.com/reel/DJiJj_vuEZ0/",
+      "title": "Michel Fokine | Video by: @bhamroyalballet Isabelle Fokine, Artistic ...",
+      "content": "83 years ago today, Michel Fokine passed away, on August 22nd, 1942. Shortly after Fokine's death there were countless memorial performances",
+      "score": 0.7811474,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.facebook.com/groups/BalletsRusses/posts/10154408297514618/",
+      "title": "Choerographer, Mikhail Fokine died August 22, 1942. - Facebook",
+      "content": "Choerographer, Mikhail Fokine died August 22, 1942. Mikhail Fokine was born in St. Petersburg April 25, 1880 and studied at the Imperial",
+      "score": 0.7724109,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Les_Sylphides",
+      "title": "Les Sylphides - Wikipedia",
+      "content": "**_Les Sylphides_** (French:) is a short, non-narrative _ballet blanc_ to piano music by Frédéric Chopin, selected and orchestrated by Alexander Glazunov. As _Les Sylphides_, what we consider the work was premiered by Sergei Diaghilev's Ballets Russes on 2 June 1909 at Théâtre du Châtelet, Paris. The Glazunov suite upon which this original version was based had only four Chopin pieces; Fokine wanted to use a waltz as an addition to the suite and was able to get Glazunov to orchestrate this to create his ballet, also called _Chopiniana_. A number of musicians have orchestrated the Chopin pieces for major ballet companies, including Maurice Ravel, Benjamin Britten, Alexander Gretchaninov,Roy Douglas, and Gordon Jacob. *   _Les Sylphides_, _Ballet Encyclopedia_",
+      "score": 0.75268626,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.66,
+  "request_id": "8ab9dfff-61e0-44db-a7c8-c61d5556e071"
+}

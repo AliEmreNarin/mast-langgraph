@@ -1,0 +1,196 @@
+================================================================================
+Attempt: 1
+Query: A British educator in England at the turn of the twentieth century was inspired by the writings of an English poet and cultural critic who worked as an inspector of schools, and who else?
+Full Tavily Payload:
+{
+  "query": "A British educator in England at the turn of the twentieth century was inspired by the writings of an English poet and cultural critic who worked as an inspector of schools, and who else?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://agdc.ac.in/pdf/resource/matthew_arnold.pdf",
+      "title": "[PDF] Matthew Arnold",
+      "content": "Matthew Arnold (24 December 1822 – 15 April 1888) was a British · poet and cultural critic who worked as an inspector of schools. He was the son of Thomas",
+      "score": 0.8638634,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.babelmatrix.org/works/all-cz/Arnold%2C_Matthew-1822/biography",
+      "title": "The page of Arnold, Matthew, English biography - BabelMatrix",
+      "content": "Matthew Arnold (24 December 1822 – 15 April 1888) was a British poet and cultural critic who worked as an inspector of schools.",
+      "score": 0.8047902,
+      "raw_content": null
+    },
+    {
+      "url": "https://newlearningonline.com/new-learning/chapter-7/committed-knowledge-the-modern-past/matthew-arnold-on-learning-the-best-which-has-been-thought-and-said",
+      "title": "Matthew Arnold on Learning 'The Best Which Has Been Thought ...",
+      "content": "Matthew Arnold (1822–88) was one of 19th-century England's most prominent poets and social commentators. He was for many years an inspector of schools",
+      "score": 0.7750779,
+      "raw_content": null
+    },
+    {
+      "url": "https://kids.britannica.com/students/article/Matthew-Arnold/272961",
+      "title": "Matthew Arnold - Students | Britannica Kids | Homework Help",
+      "content": "One of the most noted 19th-century English poets and critics was an inspector of schools. For more than 30 years Matthew Arnold visited English schools.",
+      "score": 0.7485182,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.ebsco.com/research-starters/history/matthew-arnold",
+      "title": "Matthew Arnold | Research Starters - EBSCO",
+      "content": "Matthew Arnold was a prominent English poet, critic, and educational inspector, known for his introspective and often melancholic poetry as well as his influential critical essays. Arnold's early life included struggles with academic dedication, but he developed a profound love for poetry, particularly influenced by the works of poets like Wordsworth. In his letters, Arnold criticized Clough’s poetry as overly topical and intellectual, but he also found fault with his own poems. A number of Arnold’s essays on literary topics were first delivered as lectures at Oxford University, where he was appointed for two five-year terms as professor of poetry. Although he was a gifted poet, Arnold stopped writing poetry and focused on prose criticism in his later years.",
+      "score": 0.69845337,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.97,
+  "request_id": "e1fe7cae-55e1-401e-9b90-f2a45943529a"
+}
+================================================================================
+Attempt: 2
+Query: British educator turn of twentieth century inspired by Matthew Arnold writings who else influenced them
+Full Tavily Payload:
+{
+  "query": "British educator turn of twentieth century inspired by Matthew Arnold writings who else influenced them",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "http://armytage.net/lecture/m_lectcnt.asp?num=128&nat=5&term=&cnum=57",
+      "title": "Matthew Arnold - ARMYTAGE.NET",
+      "content": "... twentieth-century critic on whom he had perhaps the greatest influence, T. S. Eliot . Like these other poet-critics, Arnold produced a relatively small body",
+      "score": 0.55478466,
+      "raw_content": null
+    },
+    {
+      "url": "https://ecommons.luc.edu/cgi/viewcontent.cgi?article=1598&context=luc_theses",
+      "title": "[PDF] Matthew Arnold's Writings on Education in Relation to His Idea of ...",
+      "content": "Education, according to Matthew Arnold, is the acquisition of culture, and culture is the study and pursuit of perfection. Perfection consists in the complete",
+      "score": 0.29334423,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Matthew_Arnold",
+      "title": "Matthew Arnold - Wikipedia",
+      "content": "Matthew Arnold (24 December 1822 – 15 April 1888) was an English poet and cultural critic. He was the son of Thomas Arnold, the headmaster of Rugby School.",
+      "score": 0.24876268,
+      "raw_content": null
+    },
+    {
+      "url": "https://amblesideonline.org/ParentsReview/07-660matthewarnold",
+      "title": "Matthew Arnold: His Influence on Education. - Ambleside Online",
+      "content": "Over 1300 articles from the magazine sent to parents and teachers of Charlotte Mason's schools and homeschools between about 1890 and 1920.",
+      "score": 0.2155657,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.lsj.org/literature/essays/arnold",
+      "title": "The literary criticism of Matthew Arnold | London School of Journalism",
+      "content": "To Arnold poetry itself was the criticism of life: 'The criticism of life under the conditions fixed for such criticism by the laws of poetic truth and poetic beauty', and in his seminal essay *The Study of Poetry'* 1888) he says that poetry alone can be our sustenance and stay in an era where religious beliefs are fast losing their hold. Arnold praises Chaucer's excellent style and manner, but says that Chaucer cannot be called a classic since, unlike Homer, Virgil and Shakespeare, his poetry does not have the high poetic seriousness which Aristotle regards as a mark of its superiority over the other arts.",
+      "score": 0.12580481,
+      "raw_content": null
+    }
+  ],
+  "response_time": 2.09,
+  "request_id": "563def5c-ae16-4595-9f6a-764aa9f800e0"
+}
+================================================================================
+Attempt: 3
+Query: British educator early 1900s influenced by Matthew Arnold and John Ruskin or other writers
+Full Tavily Payload:
+{
+  "query": "British educator early 1900s influenced by Matthew Arnold and John Ruskin or other writers",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://victorianweb.org/authors/ruskin/litrel.html",
+      "title": "John Ruskin and 19th-Century Authors — Literary Relations",
+      "content": "John Ruskin and 19th-Century Authors — Sources, Influences, Confluences, Criticisms · Matthew Arnold · Anna Barbauld · John Bunyan · Lord Byron.",
+      "score": 0.5391051,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.glrjournal.com/article/william-wordsworth-matthew-arnold-and-walter-pater-the-romantic-notion-of-education-and-its-relation-to-culture",
+      "title": "22 - William Wordsworth, Matthew Arnold and Walter Pater",
+      "content": "Arnold's ideas on education are inspired by Wordsworth, and Arnold remains the most influential critic and theorist of education in the 'Wordsworthian tradition",
+      "score": 0.49904844,
+      "raw_content": null
+    },
+    {
+      "url": "https://infed.org/dir/welcome/john-ruskin-on-education/",
+      "title": "John Ruskin on education - infed.org",
+      "content": "John Ruskin's educational philosophy influenced the work and ideas of such educationalists as Sir John Lubbock (1834-1913), onetime President of the Ruskin",
+      "score": 0.42190963,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Ruskin",
+      "title": "John Ruskin - Wikipedia",
+      "content": "John Ruskin (8 February 1819 – 20 January 1900) was an English polymath – a writer, lecturer, art historian, art critic, draughtsman and philanthropist of the",
+      "score": 0.36324075,
+      "raw_content": null
+    },
+    {
+      "url": "https://ohiostatepress.org/books/BookPages/AlexanderMatthew.html",
+      "title": "Matthew Arnold, John Ruskin, and the Modern Temper",
+      "content": "Although Arnold and Ruskin moved in similar ways from art into society and politics, Ruskin saw no alternative to the immersion of his soul and sensibility in",
+      "score": 0.3251138,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.42,
+  "request_id": "a318fbfe-9de0-4bb2-8b80-e7b777e22ce0"
+}
+================================================================================
+Attempt: 4
+Query: Charlotte Mason British educator Matthew Arnold John Ruskin influences turn of twentieth century
+Full Tavily Payload:
+{
+  "query": "Charlotte Mason British educator Matthew Arnold John Ruskin influences turn of twentieth century",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://homeschooling.mom/blog/who-was-charlotte-mason",
+      "title": "Who Was Charlotte Mason? | Homeschooling Mom",
+      "content": "She was a British educator with influences such as Matthew Arnold, John Amos Comenius, and John Ruskin, and she created a system of education",
+      "score": 0.7515939,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.routledge.com/Revival-The-Saviour-of-the-World---Volume-II-1908-His-Dominion/Mason/p/book/9781138567665?srsltid=AfmBOoo8srA1R-oJP4BllYpyKot0_Of0pYHZ8s8uObrbU15VQYBdme8B",
+      "title": "Revival: The Saviour of the World - Volume II (1908): His Dominion",
+      "content": "Charlotte Maria Shaw Mason (1 January 1842 – 16 January 1923) was a British educationalist in England at the turn of the twentieth century. Her",
+      "score": 0.6364215,
+      "raw_content": null
+    },
+    {
+      "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/27029/jcsmithfinaldissertation.pdf",
+      "title": "[PDF] Charlotte Mason - VTechWorks - Virginia Tech",
+      "content": "Matthew Arnold, and John Ruskin were calling for more than a functional education. Matthew Arnold said, “ It is not enough for men to have",
+      "score": 0.56431514,
+      "raw_content": null
+    },
+    {
+      "url": "https://amblesideonline.org/CMM/M2complete.html",
+      "title": "Charlotte Mason in Modern English - Ambleside Online",
+      "content": "John Ruskin says that his unique writing style is ... A quote from Matthew Arnold might help us as we attempt to redefine education's extent and methods.",
+      "score": 0.44941738,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.amblesideonline.org/CMM/M3complete.html",
+      "title": "Charlotte Mason in Modern English - Ambleside Online",
+      "content": "One might say that, whatever the faults of his education were, a great man like John Ruskin was the result. But who can say how much better an influence Ruskin",
+      "score": 0.43972388,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.19,
+  "request_id": "1adfa903-be69-4033-968a-24650e9b4627"
+}

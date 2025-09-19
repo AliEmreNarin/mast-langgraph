@@ -1,0 +1,196 @@
+================================================================================
+Attempt: 1
+Query: HeroClix is a collectible miniatures game where players construct teams from various video games such as a fighting video game franchise developed and published by who?
+Full Tavily Payload:
+{
+  "query": "HeroClix is a collectible miniatures game where players construct teams from various video games such as a fighting video game franchise developed and published by who?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.goldengoblingames.com/shop/category/miniatures-games-heroclix-825?srsltid=AfmBOorZVJp-rcRovlY4dm1_QnubdysmxSIAvcSiEsNDD85jVYXnL97B",
+      "title": "HeroClix - Golden Goblin Games",
+      "content": "Heroclix is a collectible miniatures game where players build teams of iconic superheroes and villains from various universes to engage in tactical battles.",
+      "score": 0.7009158,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/HeroClix",
+      "title": "HeroClix - Wikipedia",
+      "content": "HeroClix is a collectible miniatures game that uses the Clix system that centers on the world of superhero comic books, especially DC and Marvel universes.",
+      "score": 0.66203266,
+      "raw_content": null
+    },
+    {
+      "url": "https://kryptonitekollectibles.com/collections/heroclix?srsltid=AfmBOor-py4iy5B4hZcBh8_G1iPBmmgWQIh1qwOZCxZ7Hr7bYfoMuFKf",
+      "title": "Heroclix - Kryptonite Kollectibles",
+      "content": "HeroClix is a tabletop miniatures game that lets players collect and battle with their favorite heroes and villains from comic books and other popular media.",
+      "score": 0.6205532,
+      "raw_content": null
+    },
+    {
+      "url": "https://wizkids.com/collectible-miniatures-game/",
+      "title": "Collectible Miniatures Game - WizKids",
+      "content": "With over 750 million figures and counting, HeroClix is the most purchased collectible miniatures game on the market.",
+      "score": 0.52758485,
+      "raw_content": null
+    },
+    {
+      "url": "https://shop.wizkids.com/collections/heroclix/format_miniatures-game?srsltid=AfmBOop2ArdawQVvEXSdKAGfpxRpTUVUqHSh3L6ipLQHLifRX_KUuuiQ",
+      "title": "HeroClix – Tagged \"Format_Miniatures Game\" - WizKids Store",
+      "content": "The #1 selling tabletop combat, 3-D collectible miniature figures game in the world! Build a force from your collection of figures, take on the roles of",
+      "score": 0.4896749,
+      "raw_content": null
+    }
+  ],
+  "response_time": 2.11,
+  "request_id": "402be047-9059-4e95-95fd-14620c63ed52"
+}
+================================================================================
+Attempt: 2
+Query: HeroClix fighting video game franchise characters developer publisher
+Full Tavily Payload:
+{
+  "query": "HeroClix fighting video game franchise characters developer publisher",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/HeroClix",
+      "title": "HeroClix - Wikipedia",
+      "content": "The game was originally designed and produced by WizKids, but was discontinued in November 2008 when WizKids owner Topps shut down their HeroClix line. In",
+      "score": 0.6399392,
+      "raw_content": null
+    },
+    {
+      "url": "https://gameinformer.com/2019/04/25/the-30-greatest-fighting-games-of-all-time",
+      "title": "The 30 Greatest Fighting Games of All Time - Game Informer",
+      "content": "... Publisher: Aksys Games / Developer ... That, and it features some of the greatest video game characters of all time all mashed up into one",
+      "score": 0.47416916,
+      "raw_content": null
+    },
+    {
+      "url": "https://boardgamegeek.com/thread/705279/vibranium-review-heroclix-up-up-and-away",
+      "title": "Vibranium Review: Heroclix - Up, Up and Away! | BoardGameGeek",
+      "content": "Heroclix is a game of superhuman conflict. Teams of heroes and villains fight their way to victory, aiming to Knock Out the other team first (",
+      "score": 0.28855452,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.streamline-studios.com/case-study-posts/fighting-games-a-decade-of-excellence",
+      "title": "Fighting Games: A Decade of Excellence - Streamline Studios",
+      "content": "Streamline's contributions to fighting games are comprehensive, employing a full suite of development services: Costume Design and Customization: Across our",
+      "score": 0.16226083,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fighting_game",
+      "title": "Fighting game - Wikipedia",
+      "content": "The fighting game genre involves combat between characters, often one-on-one battles. The mechanics of combat in fighting games often features blocking,",
+      "score": 0.15894336,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.14,
+  "request_id": "bd327820-d718-4828-bb4a-b594bab579b7"
+}
+================================================================================
+Attempt: 3
+Query: HeroClix Street Fighter Tekken Mortal Kombat video game franchise characters sets
+Full Tavily Payload:
+{
+  "query": "HeroClix Street Fighter Tekken Mortal Kombat video game franchise characters sets",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Street_Fighter_X_Tekken",
+      "title": "Street Fighter X Tekken - Wikipedia",
+      "content": "The game features characters from both the Street Fighter franchise and Namco's Tekken series. In the game, each player selects two characters respectively and",
+      "score": 0.6241337,
+      "raw_content": null
+    },
+    {
+      "url": "https://videogamefanon.fandom.com/wiki/Mortal_Kombat_X_Street_Fighter",
+      "title": "Mortal Kombat X Street Fighter | Video Game Fanon Wiki - Fandom",
+      "content": "Street Fighter Characters · Ryu (voiced by Drake Bell) · Ken Masters (voiced by Matthew Mercer) · Chun-Li (voiced by Laura Bailey) · Cammy White (voiced by Laura",
+      "score": 0.477969,
+      "raw_content": null
+    },
+    {
+      "url": "https://videogamefanon.fandom.com/wiki/Mortal_Kombat_vs_Street_Fighter_vs_Marvel_vs_Super_Smash_Bros._vs_Tekken_vs_BlazBlue",
+      "title": "Mortal Kombat vs Street Fighter vs Marvel vs Super Smash Bros. vs ...",
+      "content": "Starter ; Kano, Blanka, Doctor Doom ; Liu Kang, Guile, The Incredible Hulk ; Raiden, Ken, Iron Man ; Reptile, Chun-Li, Juggernaut",
+      "score": 0.39194164,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.tiktok.com/discover/tekken-x-street-fighter-x-mortal-kombat",
+      "title": "Tekken X Street Fighter X Mortal Kombat | TikTok",
+      "content": "Discover the ultimate crossover of Tekken, Street Fighter, and Mortal Kombat! Explore gameplay, comparisons, and fan favorites in this epic",
+      "score": 0.21403393,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KU72ecc8wCw",
+      "title": "Mortal Kombat vs Street Fighter - Build the Roster - YouTube",
+      "content": "I really wanna see some MK characters looking at Blanka confused and then ask him \"which part of the Outerworld do you come from?\"",
+      "score": 0.20443754,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.0,
+  "request_id": "a76b7eb6-a8b1-44a1-8544-f328dc72783f"
+}
+================================================================================
+Attempt: 4
+Query: HeroClix Street Fighter set Capcom characters miniatures
+Full Tavily Payload:
+{
+  "query": "HeroClix Street Fighter set Capcom characters miniatures",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.ebay.com/itm/194504509047",
+      "title": "Capcom Heroclix - #001 KEN - Street Fighter set - eBay",
+      "content": "Capcom Heroclix - #001 KEN - Street Fighter set. Flaming Dragon Miniatures and Games (4231). 100% positive feedback. $5.99.",
+      "score": 0.8724455,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.previewsworld.com/Catalog/JUN112181",
+      "title": "capcom: street fighter heroclix starter 6-pack (jun112181)",
+      "content": "The Street Fighter set is completely compatible with all other HeroClix figures! Each counter-top display comes with 24 single figure blind boosters, providing",
+      "score": 0.76659125,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.coolstuffinc.com/page/551",
+      "title": "Capcom Street Fighter - Heroclix - Miniatures - CoolStuffInc.com",
+      "content": "Akuma - 022 · 16 · Average 4.6 from 16 ratings ; Balrog - 013 · 19 · Average 3.8 from 19 ratings ; Blanka - 003 · 26 · Average 3.9 from 26 ratings",
+      "score": 0.72768575,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.previewsworld.com/Catalog/JUN112180",
+      "title": "capcom: street fighter heroclix 24 ct. display (jun112180)",
+      "content": "Join all 27 of your favorite classic Street Fighter characters like Ryu, E. Honda, Bison and more! This impressive array features extremely popular Clear Sculpt",
+      "score": 0.6959795,
+      "raw_content": null
+    },
+    {
+      "url": "https://news.capcomusa.com/lets/browse/announcing-street-fighter-heroclix",
+      "title": "Announcing Street Fighter HeroClix - Capcom",
+      "content": "An impressive array of 27 additional figures featuring extremely popular CLEAR SCULPT EFFECTS, are available in special Counter-top displays. Each Counter-Top",
+      "score": 0.6334335,
+      "raw_content": null
+    }
+  ],
+  "response_time": 0.85,
+  "request_id": "877a9f8b-9cdb-4e18-92c9-dc8d7b8b7c9e"
+}

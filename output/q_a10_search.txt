@@ -1,0 +1,98 @@
+================================================================================
+Attempt: 1
+Query: Which tennis player was born first, Pavel Složil or Svetlana Kuznetsova?
+Full Tavily Payload:
+{
+  "query": "Which tennis player was born first, Pavel Složil or Svetlana Kuznetsova?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://sco.wikipedia.org/wiki/Svetlana_Kuznetsova",
+      "title": "Svetlana Kuznetsova - Wikipedia",
+      "content": "Svetlana Aleksandrovna Kuznetsova (Roushie: Светла́на Алекса́ндровна Кузнецо́ва; born 27 Juin 1985) is a Roushie professional tennis player an as o 18 August",
+      "score": 0.72907686,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Svetlana_Kuznetsova",
+      "title": "Svetlana Kuznetsova - Wikipedia",
+      "content": "Svetlana Aleksandrovna Kuznetsova (born 27 June 1985) is a Russian former professional tennis · Kuznetsova first took part in a WTA Tour event in 2001. Her first",
+      "score": 0.67321366,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.sportskeeda.com/player/svetlana-kuznetsova",
+      "title": "Svetlana Kuznetsova - Sportskeeda",
+      "content": "Svetlana Aleksandrovna Kuznetsova is a Russian professional tennis player who currently ranks No. 55 in the WTA singles and No. 42 in the doubles ranking.",
+      "score": 0.59344494,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.famousbirthdays.com/people/svetlana-kuznetsova.html",
+      "title": "Svetlana Kuznetsova - Age, Family, Bio | Famous Birthdays",
+      "content": "Svetlana Kuznetsova. Tennis Player. Birthday June 27, 1985. Birth Sign Cancer. Birthplace Russia.",
+      "score": 0.48982134,
+      "raw_content": null
+    },
+    {
+      "url": "https://emiliosanchezacademy.com/docs/players/sveta_kuznetsova.pdf",
+      "title": "[PDF] kuznetsova, 10 years at sanchez-casal academy in barcelona",
+      "content": "KUZNETSOVA, 10 YEARS AT SANCHEZ-CASAL ACADEMY IN BARCELONA The Russian tennis player Svetlana Kuznetsova, spent a decade in Spain and formed in Barcelona, in the Sanchez-Casal Academy (AS-C), under the direction of Emilio Sanchez Vicario and Sergio Casal. When she came to Barcelona, the first aim was that she was to taste, she was improving her confidence without requirements in the short term and after two years of permanency in the Academy, she managed at 16 years old to be number 1 Junior of the world. With Stefan Ortega, Sanchez-Casal Coach, won in 2004 the US OPEN, 9 WTA singles tournament, 13 WTA doubles, 3 Fed Cup with the national team of Russia.",
+      "score": 0.3957184,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.59,
+  "request_id": "7a0a8f46-3944-42d9-bf63-ab192ddcfaff"
+}
+================================================================================
+Attempt: 2
+Query: Pavel Složil tennis player birth date born when
+Full Tavily Payload:
+{
+  "query": "Pavel Složil tennis player birth date born when",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.famousfix.com/list/czechoslovak-male-tennis-players",
+      "title": "Czechoslovak male tennis players - FamousFix.com list",
+      "content": "Overview: Pavel Složil (born 29 December 1955) is a former professional tennis player from Czechoslovakia. Date of birth: 29 December 1955. Age: 69. Nationality",
+      "score": 0.9294982,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.statspros.com/pavel-slozil-tennis-stats/",
+      "title": "Pavel Slozil Tennis Stats, Ranking, Net Worth, Career Earnings",
+      "content": "Pavel Slozil was born on December 29, 1955, in Opava, a city in the Czech Republic. From a young age, Slozil showed a keen interest in sports, especially tennis",
+      "score": 0.88799405,
+      "raw_content": null
+    },
+    {
+      "url": "https://m.imdb.com/name/nm2955318/bio/?ref_=nm_ov_ql_1",
+      "title": "Pavel Slozil - Biography - IMDb",
+      "content": "* Biography * Trivia IMDbPro # Biography ## Pavel Slozil Edit ### Overview * Born December 29, 1955 · Opava, Czechoslovakia ### Biography * Pavel Slozil was born on December 29, 1955 in Opava, Czechoslovakia. ### Trivia * Former pro tennis player who coached Steffi Graf, Jennifer Capriati and Anna Kournikova. ### Contribute to this page Suggest an edit or add missing content * Learn more about contributing Edit page ### More from this person * View agent, publicist, legal and company contact details on IMDbPro ### More to explore Photos Child Stars, Then and Now See the gallery List August 2025 TV and Streaming Premiere Dates See the list ### Recently viewed Pavel Slozil Patty Duke Del Andrews",
+      "score": 0.85995835,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.itftennis.com/en/players/pavel-slozil/800175872/tch/mt/mx/",
+      "title": "Pavel Slozil Tennis Player Profile | ITF",
+      "content": "Pavel Slozil (69) is a tennis player from Czechoslovakia. Click here for a full player profile.",
+      "score": 0.657297,
+      "raw_content": null
+    },
+    {
+      "url": "https://db4.zavodni.hu/players/male/pavel-slozil",
+      "title": "Pavel Slozil's GS Performance Timeline & Stats",
+      "content": "He is a former professional tennis player from Czechoslovakia. ... Složil served as Steffi Graf's coach from November 1986 until the end of 1991.",
+      "score": 0.4041552,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.21,
+  "request_id": "e42f67be-48ae-47e4-a164-818896d0e2c1"
+}

@@ -1,0 +1,42 @@
+QUESTION:
+When was the rapper who composed and perfromed "Playing with Fire" born?
+
+GROUND TRUTH ANSWER:
+22 October 1983
+================================================================================
+Attempt: 1
+Query: When was the rapper who composed and perfromed "Playing with Fire" born?
+Results:
+  [1] Search Result | 
+
+--- Prompt ---
+You are a careful researcher. Use ONLY the context below.
+
+Question:
+When was the rapper who composed and perfromed "Playing with Fire" born?
+
+Context (web search results):
+[1] Search Result
+URL: 
+Snippet: {'query': 'When was the rapper who composed and perfromed "Playing with Fire" born?', 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://en.wikipedia.org/wiki/Kevin_Federline', 'title': 'Kevin Federline', 'content': 'In 2006, Federline released a debut album, Playing with Fire, which was ... Born. Kevin Earl Federline. (1978-03-21) March 21, 1978 (age 47). Fresno', 'score': 0.8679453, 'raw_content': None}, {'url': 'https://www.facebook.com/therealkjpower1/posts/%EF%B8%8Fcelebrity-relatives-rapper-kwame-and-actor-van-diesel-are-cousinskwam%C3%A9-has-said/653546604082381/', 'title': 'Celebrity Relatives.. Rapper Kwame and Actor Van Diesel ...', 'content': '... born March ... Williams is also known for Candyman, Melrose Place, The Flash, Days of Our Lives,
+
+
+Instructions:
+- If the context is sufficient, produce a concise answer with inline citations [1], [2], etc.
+- If the context is insufficient, do NOT guess; instead propose ONE improved web search query that would likely retrieve the needed info.
+- If question requires multiple queries, than divide the question into multiple questions and propose one query for each question.
+
+Output format (must follow exactly):
+ANSWER: <your answer or say "I don't know based on the context">
+FOLLOW_UP_QUERY: <a single refined query or "none">
+
+--- Raw Reasoning Output ---
+ANSWER: Based on the provided context, Kevin Federline, who released the album "Playing with Fire" in 2006, was born on March 21, 1978 [1].
+
+FOLLOW_UP_QUERY: none
+
+--- Model Answer (this attempt) ---
+Based on the provided context, Kevin Federline, who released the album "Playing with Fire" in 2006, was born on March 21, 1978 [1].
+
+FOLLOW_UP_QUERY: none
+--------------------------------------------------------------------------------

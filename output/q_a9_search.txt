@@ -1,0 +1,98 @@
+================================================================================
+Attempt: 1
+Query: Edwin Clark, was an English Civil Engineer, specialising in hydraulics, he is remembered principally as the designer of what, which two caisson lift lock near the village of Anderton, Cheshire, in North West England?
+Full Tavily Payload:
+{
+  "query": "Edwin Clark, was an English Civil Engineer, specialising in hydraulics, he is remembered principally as the designer of what, which two caisson lift lock near the village of Anderton, Cheshire, in North West England?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://wikishire.co.uk/wiki/Anderton_Boat_Lift",
+      "title": "Anderton Boat Lift - Wikishire",
+      "content": "... Dock on the Thames below London, designed by experienced hydraulic engineer Edwin Clark. Edwin Clark was appointed as principal designer.",
+      "score": 0.6147415,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Edwin_Clark_(civil_engineer)",
+      "title": "Edwin Clark (civil engineer) - Wikipedia",
+      "content": "Edwin Clark FRAS (7 January 1814 – 22 October 1894) was an English Civil Engineer, specialising in hydraulics. He is remembered principally as the designer",
+      "score": 0.5760895,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.exploringgb.co.uk/blog/andertonboat-lift-cheshire",
+      "title": "Anderton Boat Lift, Cheshire: The 'Cathedral of the Canals'",
+      "content": "Having decided on a hydraulic ram design Leader Williams appointed Edwin Clark as principal designer.",
+      "score": 0.56661874,
+      "raw_content": null
+    },
+    {
+      "url": "https://openplaques.org/people/5148",
+      "title": "Edwin Clark JP (1814-1894) - Open Plaques",
+      "content": "Edwin Clark FRAS (7 January 1814 – 22 October 1894) was an English Civil Engineer, specialising in hydraulics. He is remembered principally as the designer",
+      "score": 0.5501488,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.atlasobscura.com/places/anderton-boat-lift",
+      "title": "Anderton Boat Lift - Atlas Obscura",
+      "content": "The civil engineer Edwin Clark designed a boat lift to connect the river and canal. The lift, which was formally opened in 1875 as the first",
+      "score": 0.5059329,
+      "raw_content": null
+    }
+  ],
+  "response_time": 0.76,
+  "request_id": "f8c6db5e-260b-4c84-a130-4c675ffeb0c1"
+}
+================================================================================
+Attempt: 2
+Query: Edwin Clark designer Anderton Boat Lift Cheshire caisson lift lock
+Full Tavily Payload:
+{
+  "query": "Edwin Clark designer Anderton Boat Lift Cheshire caisson lift lock",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://m.facebook.com/AndertonLift/photos/a.468614753322/10157879599218323/?type=3",
+      "title": "Anderton Boat Lift & Visitor Centre - Facebook",
+      "content": "... Cheshire ... Locks would have taken up too much room and water so Edwin Clark was asked to design a boat lift, which was opened in 1875.",
+      "score": 0.7596005,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c4gel1dr8pno",
+      "title": "Anderton Boat Lift: 'Cathedral of the canals' celebrates 150 years",
+      "content": "Designed by Edwin Clark in 1875, Anderton Boat Lift in Cheshire raises vessels 50ft (15m) from the River Weaver to the Trent and Mersey",
+      "score": 0.7159213,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.atlasobscura.com/places/anderton-boat-lift",
+      "title": "Anderton Boat Lift - Atlas Obscura",
+      "content": "Installation of locks at the site seemed impractical, so builders found a different solution. The civil engineer Edwin Clark designed a boat",
+      "score": 0.6897452,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.alamy.com/the-anderton-boat-lift-near-northwich-cheshire-built-by-edwin-clark-1875-to-lift-boats-50-feet-from-the-river-weaver-to-the-trent-and-mersey-canal-image212201316.html",
+      "title": "The Anderton boat lift near Northwich Cheshire built by Edwin Clark ...",
+      "content": "The Anderton boat lift near Northwich Cheshire built by Edwin Clark 1875 to lift boats 50 feet from the river Weaver to the Trent and Mersey canal.",
+      "score": 0.61779,
+      "raw_content": null
+    },
+    {
+      "url": "https://oakparkrunner.wordpress.com/anderton-boat-lift/",
+      "title": "Anderton Boat Lift - oakparkrunnersblog",
+      "content": "Edwin Clark, the engineer who was given this task to solve, came up with the idea of the boat lift, which was completed in 1875. His design was",
+      "score": 0.5920305,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.18,
+  "request_id": "8093a213-57bc-4536-8a50-92f90299493b"
+}

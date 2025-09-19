@@ -1,0 +1,49 @@
+================================================================================
+Attempt: 1
+Query: Who directed the 1995 film in which Jeremy Sisto starred ?
+Full Tavily Payload:
+{
+  "query": "Who directed the 1995 film in which Jeremy Sisto starred ?",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.imdb.com/title/tt0113303/",
+      "title": "Hideaway (1995) - IMDb",
+      "content": "Hideaway: Directed by Brett Leonard. With Jeff Goldblum, Christine Lahti, Alicia Silverstone, Jeremy Sisto. Family man Hatch Harrison gets a special",
+      "score": 0.8703443,
+      "raw_content": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jeremy_Sisto",
+      "title": "Jeremy Sisto - Wikipedia",
+      "content": "In his early film and television career, Sisto played a killer in *Hideaway \"Hideaway (1995 film)\")* (1995); a rich teen in *Clueless \"Clueless (film)\")* (1995); a 20-something kidnapper in *Suicide Kings* (1997); Olympic gold medalist long-distance runner Frank Shorter in *Without Limits* (1998); Jesus Christ in the CBS miniseries *Jesus \"Jesus (1999 film)\")* (1999); and a widowed filmmaker in *This Space Between Us* (1999). Also in 2008, Sisto starred in the drama film *Gardens of the Night*, and voiced the role of Batman in the direct-to-video film *Justice League: The New Frontier*. The following year, Sisto co-starred as Guy Karlsburg, alongside James Marsden and Claire Danes, in the comedy-drama *As Cool as I Am \"As Cool as I Am (film)\")*.",
+      "score": 0.7154444,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.moriareviews.com/actor/jeremy-sisto",
+      "title": "Jeremy Sisto Archives - Actor - Moria",
+      "content": "Categories: Horror. Ratings: 3. Directors: Lucky McKee. Actors: Angela Bettis, Jeremy Sisto, Anna Faris, James Duval and Ken Davitian. Crew: Lucky McKee. Themes",
+      "score": 0.7036111,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=sU5dzVn_qhU",
+      "title": "Jeremy Sisto \"Hideaway\" 1995 - Bobbie Wygant Archive - YouTube",
+      "content": "Jeremy Sisto \"Hideaway\" 1995 - Bobbie Wygant Archive. 15K views ... Top 10 Robert Redford Performances in Film History. MsMojo New 88K views.",
+      "score": 0.64344186,
+      "raw_content": null
+    },
+    {
+      "url": "https://collider.com/jeremy-sisto-movies-shows-best-ranked/",
+      "title": "11 Best Jeremy Sisto Movies and Shows, Ranked - Collider",
+      "content": "Though considered for the role of Jack Dawson in the 1997 classic ***Titanic***, which went to **Leonardo DiCaprio**, Sisto stood out in various 1990s films, including ***Clueless***, ***Suicide Kings***, ***White Squall***, and ***Jesus***. Sisto had a prolific year in 2003 with several film and television roles, including Brady in *Thirteen*, which **Catherine Hardwicke** and **Nikki Reed wrote**. In addition to his drama film and romantic comedy roles, Sisto spiced up the year with a slasher piece. However, Sisto has not appeared in any of the latter installments in the *Wrong Turn* film series. Sisto's emotionally troubled character scored him two Screen Actors Guild Awards nominations for Outstanding Performance by an Ensemble in a Drama Series shared with other cast members.",
+      "score": 0.38623142,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.25,
+  "request_id": "db4deefd-541f-43af-8b09-6c7a449515f4"
+}
