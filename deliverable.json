@@ -2,8 +2,8 @@
 
 [
 
-  {"Preface": "I have built an agentic system through langgraph with Tavily as the search agent, and Claude-4 as the reasoning agent. Out of 50 questions (randomly sampled from the dataset) I chose to test, 42 were correct. 8 were incorrect.  Correct answers did not show an error in their agentic design. Wrong answers mainly due to the design of hotpot qa (Which is not an agentic benchmark, but a reasoning one). Q's 47, 41, 36, 24 where the agent gave a correct answers out of multiple correct answers but not the ground truth one specified in dataset. The other 4 mistakes are explained below. I would argue this benchmark is not a good fit for agentic benchmarks as it is not an agentic benchmark, but a reasoning benchmark."},
-  {"Preface2": "For more readable formatting, please refer to the txt files in the output folder for traces."},
+  {"Preface": "This analysis evaluates a multi-agent system built with LangGraph, using Tavily for web search and Claude-3-Haiku for reasoning. The system achieved 84% accuracy (42/50 correct) on randomly sampled HotpotQA questions. Of the 8 incorrect answers: 4 were arguably correct alternatives not matching the dataset's specific ground truth (Q47, Q41, Q36, Q24), and 4 represent genuine failure modes analyzed below. Note: HotpotQA is primarily a reasoning benchmark rather than an agentic benchmark, which limits its suitability for evaluating multi-agent systems."},
+  {"Trace_Files_Note": "Due to the massive size of the traces, complete execution traces are available in the output/ folder as q_a1.txt, q_a2.txt, etc. Each trace file contains the full question, ground truth answer, search queries, agent reasoning, and step-by-step execution logs."},
   {
     "task": "Q1:Where do Magical Halloween type games originate?",
     "trace": "Full trace content is too large for JSON format - see q_a1.txt file for complete 207-line execution log showing 5 attempts with systematic Celtic/Samhain focus leading to incorrect answer.",
@@ -25,10 +25,10 @@
         "example_from_the_trace": "Agent found: 'The specific connection between apples, fortune-telling and Halloween goes back to the Celtic festival Samhain.' Agent concluded: 'ANSWER: Magical Halloween type games originate from the ancient Celtic festival of Samhain [1]' Accepted generic 'Halloween rituals' as proof for specific 'Magical Halloween type games' without verification (through calling the search agent) or alternative sources."
       }
     },
-    "summary": "Agent misinterpreted 'Magical Halloween type games' as Celtic traditions, answering 'Samhain origins' instead of correct 'Japan'. Violated output format across all attempts, never asked for clarification on ambiguous term, and accepted weak evidence without cross-verification. Complete task derailment with 100% research effort in wrong domain."
+    "summary": "Agent misinterpreted 'Magical Halloween type games' as Celtic traditions, answering 'Samhain origins' instead of correct 'Japan'. Never asked for clarification on ambiguous term, and accepted weak evidence without cross-verification. Complete task derailment with 100% research effort in wrong domain."
   },
   {
-    "task": "2- From which city is the band that released the single Artificial Light?",
+    "task": "Q2:From which city is the band that released the single Artificial Light?",
     "trace": "Full trace content is too large for JSON format - see q_a2.txt file for complete 179-line execution log showing 4 attempts with insufficient context leading to incorrect answer.",
     "num_agents": 2,
     "identified_failure_modes": {
@@ -46,7 +46,7 @@
     "summary": "Agent answered 'London' (The Kinks) instead of correct 'Seattle, Washington' by arbitrarily selecting one band from multiple 'Artificial Light' options. Despite recognizing title ambiguity in early attempts, failed to ask for clarification and provided no verification of which single was most relevant."
   },
   {
-    "task": "28 -An EF4 tornado touched down near which county in Kansas on May 18th?",
+    "task": "Q28: An EF4 tornado touched down near which county in Kansas on May 18th?",
     "trace": "Full trace content is too large for JSON format - see q_a28.txt file for complete 125-line execution log showing 3 attempts with misinterpretation of tornado WARNING as confirmed touchdown.",
     "num_agents": 2,
     "identified_failure_modes": {
@@ -74,7 +74,7 @@
     "summary": "Agent answered 'Kiowa County' instead of correct 'Pawnee County' by misinterpreting tornado WARNING as confirmed EF4 touchdown. Violated 'don't guess' instruction, exhibited action-reasoning mismatch, terminated prematurely on weak Facebook evidence, and failed to verify warning vs. actual event distinction."
   },
   { 
-    "task": "19 - When was the rapper who composed and performed \"Playing with Fire\" born?",
+    "task": "Q19: When was the rapper who composed and performed \"Playing with Fire\" born?",
     "trace": "Full trace content is too large for JSON format - see q_a19.txt file for complete 43-line execution log showing 1 attempt with immediate acceptance of Kevin Federline without clarification.",
     "num_agents": 2,
     "identified_failure_modes": {
