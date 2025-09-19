@@ -2,7 +2,7 @@
 
 [
 
-  {"Preface": "This analysis evaluates a multi-agent system built with LangGraph, using Tavily for web search and Claude-3-Haiku for reasoning. The system achieved 84% accuracy (42/50 correct) on randomly sampled HotpotQA questions. Of the 8 incorrect answers: 4 were arguably correct alternatives not matching the dataset's specific ground truth (Q47, Q41, Q36, Q24), and 4 represent genuine failure modes analyzed below. Note: HotpotQA is primarily a reasoning benchmark rather than an agentic benchmark, which limits its suitability for evaluating multi-agent systems."},
+  {"Preface": "This analysis evaluates a multi-agent system built with LangGraph, using Tavily for web search and Claude-4 for reasoning. The system achieved 84% accuracy (42/50 correct) on randomly sampled HotpotQA questions. Of the 8 incorrect answers: 4 were arguably correct alternatives not matching the dataset's specific ground truth (Q47, Q41, Q36, Q24), and 4 represent genuine failure modes analyzed below. Note: HotpotQA is primarily a reasoning benchmark rather than an agentic benchmark, which limits its suitability for evaluating multi-agent systems."},
   {"Trace_Files_Note": "Due to the massive size of the traces, complete execution traces are available in the output/ folder as q_a1.txt, q_a2.txt, etc. Each trace file contains the full question, ground truth answer, search queries, agent reasoning, and step-by-step execution logs."},
   {
     "task": "Q1:Where do Magical Halloween type games originate?",
