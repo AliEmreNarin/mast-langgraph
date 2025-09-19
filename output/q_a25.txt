@@ -3,7 +3,7 @@ Monk Turner won the Free Music Archive's competition to create a copyright-free 
 
 GROUND TRUTH ANSWER:
 "Good Morning to All"
-================================================================================
+===============================================================================
 Attempt: 1
 Query: Monk Turner won the Free Music Archive's competition to create a copyright-free replacement for a based on what melody?
 Results:
